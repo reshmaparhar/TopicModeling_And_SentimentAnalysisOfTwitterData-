@@ -1,0 +1,3484 @@
+,Tweets,new,tidy_text,tok,nouns,clean_tweet,is_retweet,retweeted,mentioned,hashtags,cluster
+18,"RT @mukeshahlawatap: C:   Cancel 
+B:   Board’s 
+S:   Students 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p…","RT @mukeshahlawatap: C:   Cancel 
+B:   Board’s 
+S:   Students 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p…",Cancel Board Students Exams exam centres become COVID hotspots Students,"['Cancel', 'Board', 'Students', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students']","['Cancel', 'Board', 'Students', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ student e exam let exam centr becom covid hotspot student p…,True,['@mukeshahlawatap'],[],[],8
+22,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+23,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+26,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+57,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+60,"RT @mukeshahlawatap: C:   Cancel 
+B:   Board’s 
+S:   Students 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p…","RT @mukeshahlawatap: C:   Cancel 
+B:   Board’s 
+S:   Students 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p…",Cancel Board Students Exams exam centres become COVID hotspots Students,"['Cancel', 'Board', 'Students', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students']","['Cancel', 'Board', 'Students', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ student e exam let exam centr becom covid hotspot student p…,True,['@mukeshahlawatap'],[],[],8
+62,"RT @mukeshahlawatap: C:   Cancel 
+B:   Board’s 
+S:   Students 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p…","RT @mukeshahlawatap: C:   Cancel 
+B:   Board’s 
+S:   Students 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p…",Cancel Board Students Exams exam centres become COVID hotspots Students,"['Cancel', 'Board', 'Students', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students']","['Cancel', 'Board', 'Students', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ student e exam let exam centr becom covid hotspot student p…,True,['@mukeshahlawatap'],[],[],8
+63,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+88,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+110,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+114,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+117,"RT @sapanv: “So what have you been doing lately?”
+“Trying really hard to not get COVID.”","RT @sapanv: “So what have you been doing lately?”
+“Trying really hard to not get COVID.”",what have been doing lately Trying really hard COVID,"['what', 'have', 'been', 'doing', 'lately', 'Trying', 'really', 'hard', 'COVID']",['COVID'], “so late ” “tri realli hard get covid ”,True,['@sapanv'],[],[],8
+147,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+149,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+167,@MoCA_GoI this unethical cancellation charge put upon me by @YatraOfficial has made my refund 0. Its a harassment a… https://t.co/3fM5EA78qw,@MoCA_GoI this unethical cancellation charge put upon me by @YatraOfficial has made my refund 0. Its a harassment a… ,this unethical cancellation charge upon made refund harassment,"['this', 'unethical', 'cancellation', 'charge', 'upon', 'made', 'refund', 'harassment']","['cancellation', 'charge', 'refund', 'harassment']", uneth cancel charg put upon made refund  harass a… ,False,[],"['@MoCA_GoI', '@YatraOfficial']",[],8
+170,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+178,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+190,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+192,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+202,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+208,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+211,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+213,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+224,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+239,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+252,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+263,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+280,@dfopsam_palmer Could be long Covid? Hope you’re feeling better soon,@dfopsam_palmer Could be long Covid? Hope you’re feeling better soon,Could long Covid Hope feeling better soon,"['Could', 'long', 'Covid', 'Hope', 'feeling', 'better', 'soon']","['Covid', 'Hope']", could long covid hope you’r feel better soo,False,[],['@dfopsam_palmer'],[],8
+284,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+290,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+292,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+307,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+316,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+317,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+324,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+341,"RT @i_sky01: Cbse 
+Cancel Board's Sabhi Exam 
+#cancelboardexams2021 
+@SonuSood","RT @i_sky01: Cbse 
+Cancel Board's Sabhi Exam 
+#cancelboardexams2021 
+@SonuSood",Cbse Cancel Board Sabhi Exam #cancelboardexams,"['Cbse', 'Cancel', 'Board', 'Sabhi', 'Exam', '#', 'cancelboardexams']","['Cbse', 'Cancel', 'Board', 'Sabhi', 'Exam', 'cancelboardexams']", cbse cancel board sabhi exam #cancelboardexams ,True,['@i_sky01'],['@SonuSood'],['#cancelboardexams2021'],8
+348,"C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p… https://t.co/hJCO49a0pA","C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p… ",Cancel Board Sabhi Exams exam centres become COVID hotspots Students,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']",c cancel b board’ sabhi e exam let exam centr becom covid hotspot student p… ,False,[],[],[],8
+352,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+357,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+372,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+384,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+388,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+395,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+401,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+402,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+416,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+419,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+423,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+424,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+452,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+455,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+483,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+488,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+499,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+513,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+521,New achievement unlocked.,New achievement unlocked.,achievement unlocked,"['achievement', 'unlocked']",['achievement'],new achiev unlock ,False,[],[],[],8
+542,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+543,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+560,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+579,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+580,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+602,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+608,@ishkarnBHANDARI Postponing board exam is not good idea .It will ruin the carrier of students.Better to conduct with covid norms,@ishkarnBHANDARI Postponing board exam is not good idea .It will ruin the carrier of students.Better to conduct with covid norms,Postponing board exam good idea will ruin carrier students Better conduct with covid norms,"['Postponing', 'board', 'exam', 'good', 'idea', 'will', 'ruin', 'carrier', 'students', 'Better', 'conduct', 'with', 'covid', 'norms']","['board', 'idea', 'carrier', 'students', 'conduct', 'covid', 'norms']", postpon board exam good idea ruin carrier student better conduct covid norm,False,[],['@ishkarnBHANDARI'],[],8
+619,"RT @TanayaUpadhyaya: #cancelboardexams2021 
+How will the covid protocol be adhered to during the dispersal after exam?? https://t.co/3wjctu…","RT @TanayaUpadhyaya: #cancelboardexams2021 
+How will the covid protocol be adhered to during the dispersal after exam?? ",#cancelboardexams will covid protocol adhered during dispersal after exam,"['#', 'cancelboardexams', 'will', 'covid', 'protocol', 'adhered', 'during', 'dispersal', 'after', 'exam']","['cancelboardexams', 'protocol', 'dispersal', 'exam']", #cancelboardexams covid protocol adher dispers exam ,True,['@TanayaUpadhyaya'],[],['#cancelboardexams2021'],8
+622,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+640,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+645,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+658,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+660,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+665,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+689,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+700,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+702,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+707,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+712,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+719,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+720,RT @guardian: Young people: how have you been affected by the pandemic? https://t.co/6XXaAV8xv5,RT @guardian: Young people: how have you been affected by the pandemic? ,Young people have been affected pandemic,"['Young', 'people', 'have', 'been', 'affected', 'pandemic']","['Young', 'people']", young peopl affect pandem ,True,['@guardian'],[],[],8
+729,"RT @TanayaUpadhyaya: #cancelboardexams2021 
+How will the covid protocol be adhered to during the dispersal after exam?? https://t.co/3wjctu…","RT @TanayaUpadhyaya: #cancelboardexams2021 
+How will the covid protocol be adhered to during the dispersal after exam?? ",#cancelboardexams will covid protocol adhered during dispersal after exam,"['#', 'cancelboardexams', 'will', 'covid', 'protocol', 'adhered', 'during', 'dispersal', 'after', 'exam']","['cancelboardexams', 'protocol', 'dispersal', 'exam']", #cancelboardexams covid protocol adher dispers exam ,True,['@TanayaUpadhyaya'],[],['#cancelboardexams2021'],8
+735,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+752,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+782,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+789,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+791,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+808,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+822,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+831,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+847,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+869,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+900,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+929,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+939,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+941,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+943,RT @Adski44: Covid jab booked. Can’t wait to get this done 💉,RT @Adski44: Covid jab booked. Can’t wait to get this done 💉,Covid booked wait this done,"['Covid', 'booked', 'wait', 'this', 'done']","['Covid', 'wait']", covid jab book can’t wait get done 💉,True,['@Adski44'],[],[],8
+950,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+967,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+968,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+972,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+974,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+978,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+981,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+993,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1001,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1004,RT @mihirssharma: Ok then https://t.co/GAmq43eV8M,RT @mihirssharma: Ok then ,then,['then'],[], ok ,True,['@mihirssharma'],[],[],8
+1014,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1021,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1023,"C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p… https://t.co/RJTwJAAa2U","C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p… ",Cancel Board Sabhi Exams exam centres become COVID hotspots Students,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']",c cancel b board’ sabhi e exam let exam centr becom covid hotspot student p… ,False,[],[],[],8
+1026,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1036,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1043,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1058,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1064,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1080,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1083,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1098,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1101,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1104,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1105,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1107,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1113,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1129,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1130,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1145,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1146,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1148,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1152,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1158,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1160,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1163,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1171,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1173,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1175,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1183,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1197,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1209,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1220,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1224,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1229,"Jab pata hi hai, aapko ki fight is not over against covid phir exam cancel kyu nahi kr rhe hain.
+@DrRPNishank… https://t.co/x4plEmpaNO","Jab pata hi hai, aapko ki fight is not over against covid phir exam cancel kyu nahi kr rhe hain.
+@DrRPNishank… ",pata aapko fight over against covid phir exam cancel nahi hain,"['pata', 'aapko', 'fight', 'over', 'against', 'covid', 'phir', 'exam', 'cancel', 'nahi', 'hain']","['pata', 'aapko', 'phir', 'exam', 'cancel', 'nahi', 'hain']",jab pata hi hai aapko ki fight covid phir exam cancel kyu nahi kr rhe hain … ,False,[],['@DrRPNishank'],[],8
+1233,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1237,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1253,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1263,It’s a must watch...in honour and otherwise.,It’s a must watch...in honour and otherwise.,must watch honour otherwise,"['must', 'watch', 'honour', 'otherwise']",[],it’ must watch honour otherwis ,False,[],[],[],8
+1279,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1284,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1285,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1291,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1306,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1309,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1310,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1321,"RT @weaponizedword1: ""Some fully vaccinated Arkansans are still getting COVID-19""
+
+https://t.co/tXMuJs9865","RT @weaponizedword1: ""Some fully vaccinated Arkansans are still getting COVID-19""
+
+",Some fully vaccinated Arkansans still getting COVID,"['Some', 'fully', 'vaccinated', 'Arkansans', 'still', 'getting', 'COVID']","['Arkansans', 'COVID']", fulli vaccin arkansan still get covid  ,True,['@weaponizedword1'],[],[],8
+1367,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1380,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1387,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1400,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1411,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1437,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1443,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1445,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1447,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1454,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1460,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1464,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1470,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1474,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1479,"RT @HedaooPalash: @anubha1812 Cancellation of the SSC&amp;HSC board exam is still an opportunity to save many lives from #Covid-19 .
+We can eve…","RT @HedaooPalash: @anubha1812 Cancellation of the SSC&amp;HSC board exam is still an opportunity to save many lives from #Covid-19 .
+We can eve…",Cancellation board exam still opportunity save many lives from #Covid,"['Cancellation', 'board', 'exam', 'still', 'opportunity', 'save', 'many', 'lives', 'from', '#', 'Covid']","['Cancellation', 'board', 'exam', 'opportunity', 'lives', 'Covid']", cancel ssc amp hsc board exam still opportun save mani live #covid  eve…,True,['@HedaooPalash'],['@anubha1812'],['#Covid-19'],8
+1491,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1513,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1522,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1527,"RT @Anjalikohli99: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precio…","RT @Anjalikohli99: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precio…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precio,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precio']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student precio…,True,['@Anjalikohli99'],[],[],8
+1543,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1544,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1562,#cancelcbseboards2021 USE SOME GUTS AND CANCEL IT,#cancelcbseboards2021 USE SOME GUTS AND CANCEL IT,#cancelcbseboards SOME GUTS CANCEL,"['#', 'cancelcbseboards', 'SOME', 'GUTS', 'CANCEL']","['cancelcbseboards', 'SOME', 'GUTS', 'CANCEL']",#cancelcbseboards use gut cancel,False,[],[],['#cancelcbseboards2021'],8
+1569,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1573,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1585,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1588,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1589,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1592,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1594,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1602,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1604,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1605,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1612,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1614,"@SonuSood C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Stud… https://t.co/z9WR0tcGBk","@SonuSood C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Stud… ",Cancel Board Sabhi Exams exam centres become COVID hotspots Stud,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Stud']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'hotspots', 'Stud']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot stud… ,False,[],['@SonuSood'],[],8
+1615,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1625,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1640,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1652,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1662,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1672,RT @SachinPilot: Students across India are requesting the cancellation/postponement of the 10th&amp;12th standard board exams or to take them o…,RT @SachinPilot: Students across India are requesting the cancellation/postponement of the 10th&amp;12th standard board exams or to take them o…,Students across India requesting cancellation postponement standard board exams take them,"['Students', 'across', 'India', 'requesting', 'cancellation', 'postponement', 'standard', 'board', 'exams', 'take', 'them']","['Students', 'India', 'cancellation', 'standard', 'board', 'exams']", student across india request cancel postpon th amp th standard board exam take o…,True,['@SachinPilot'],[],[],8
+1681,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1693,RT @InnozGQ_XL: Yawa.....no one gives a *bleep* about Covid..... https://t.co/OpUqwN2waw,RT @InnozGQ_XL: Yawa.....no one gives a *bleep* about Covid..... ,Yawa gives bleep about Covid,"['Yawa', 'gives', 'bleep', 'about', 'Covid']","['Yawa', 'Covid']", yawa one give bleep covid ,True,['@InnozGQ_XL'],[],[],8
+1710,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1713,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1718,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1724,Under no circumstances these  exams should be cancelled.,Under no circumstances these  exams should be cancelled.,Under circumstances these exams should cancelled,"['Under', 'circumstances', 'these', 'exams', 'should', 'cancelled']","['circumstances', 'exams']",circumst exam cancel ,False,[],[],[],8
+1726,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1733,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1736,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1746,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1747,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1753,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1754,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1760,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1762,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1776,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1782,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1784,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1797,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1798,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1799,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1807,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1809,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1813,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1819,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1866,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1867,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1883,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1885,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1889,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1893,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1902,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1904,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1918,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1920,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1925,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1937,"RT @DEEPESH51658477: @SonuSood C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Student…","RT @DEEPESH51658477: @SonuSood C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Student…",Cancel Board Sabhi Exams exam centres become COVID hotspots Student,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Student']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Student']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student…,True,['@DEEPESH51658477'],['@SonuSood'],[],8
+1946,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1948,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1953,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1957,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1987,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1992,"C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p… https://t.co/zJV1XDPet2","C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are p… ",Cancel Board Sabhi Exams exam centres become COVID hotspots Students,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']",c cancel b board’ sabhi e exam let exam centr becom covid hotspot student p… ,False,[],[],[],8
+1997,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+1999,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2002,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2014,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2017,"RT @vijaytaAAP: Don't let the exam centres become COVID hotspots 
+
+#cancelboardexam2021","RT @vijaytaAAP: Don't let the exam centres become COVID hotspots 
+
+#cancelboardexam2021",exam centres become COVID hotspots #cancelboardexam,"['exam', 'centres', 'become', 'COVID', 'hotspots', '#', 'cancelboardexam']","['exam', 'COVID', 'cancelboardexam']", let exam centr becom covid hotspot #cancelboardexam,True,['@vijaytaAAP'],[],['#cancelboardexam2021'],8
+2024,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2027,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2041,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2047,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2049,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2069,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2070,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2071,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2080,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2085,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2092,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2099,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2100,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2101,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2103,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2110,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2120,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2136,View of a German correspondent. Covid like the poor will always be with us.,View of a German correspondent. Covid like the poor will always be with us.,View German correspondent Covid like poor will always with,"['View', 'German', 'correspondent', 'Covid', 'like', 'poor', 'will', 'always', 'with']","['correspondent', 'Covid']",view german correspond covid like poor alway us ,False,[],[],[],8
+2140,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2148,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2171,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2172,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2176,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2180,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2203,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2212,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2213,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2218,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2223,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2228,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2229,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2236,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2238,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2240,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2243,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2269,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2278,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2280,@Drieshti2 @CNBC_Awaaz @republic @ZeeNews @TimesNow JEE/NEET exams were also held and no one died due to COVID,@Drieshti2 @CNBC_Awaaz @republic @ZeeNews @TimesNow JEE/NEET exams were also held and no one died due to COVID,NEET exams were also held died COVID,"['NEET', 'exams', 'were', 'also', 'held', 'died', 'COVID']","['NEET', 'exams', 'COVID']", jee neet exam also held one die due covid,False,[],"['@Drieshti2', '@CNBC_Awaaz', '@republic', '@ZeeNews', '@TimesNow']",[],8
+2297,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2309,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2324,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2326,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2354,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2357,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2371,RT @_aestheticallly: Other exams get postponed due to COVID?? And MBBS doesn't? Whattt!? Are MUHS MBBS students supposed to be magically im…,RT @_aestheticallly: Other exams get postponed due to COVID?? And MBBS doesn't? Whattt!? Are MUHS MBBS students supposed to be magically im…,Other exams postponed COVID MBBS doesn Whattt MUHS MBBS students supposed magically,"['Other', 'exams', 'postponed', 'COVID', 'MBBS', 'doesn', 'Whattt', 'MUHS', 'MBBS', 'students', 'supposed', 'magically']","['exams', 'COVID', 'MBBS', 'doesn', 'Whattt', 'MUHS', 'MBBS', 'students']",rt aestheticallli exam get postpon due covid mbb whattt muh mbb student suppos magic im…,True,[],[],[],8
+2380,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2383,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2399,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2401,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2415,"RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…","RT @SonuSood: C:   Cancel 
+B:   Board’s 
+S:   Sabhi 
+E:   Exams
+
+Don't let the exam centres become COVID hotspots.
+Students are precious.…",Cancel Board Sabhi Exams exam centres become COVID hotspots Students precious,"['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'centres', 'become', 'COVID', 'hotspots', 'Students', 'precious']","['Cancel', 'Board', 'Sabhi', 'Exams', 'exam', 'COVID', 'Students']", c cancel b board’ sabhi e exam let exam centr becom covid hotspot student preciou …,True,['@SonuSood'],[],[],8
+2615,@SuparnaSharma @somyalakhani @HuzuMufc @BucketheadCase @juneymb @JhinukSen Pulse candy nahin khai? The masala one?… https://t.co/2lhSRkkzhB,@SuparnaSharma @somyalakhani @HuzuMufc @BucketheadCase @juneymb @JhinukSen Pulse candy nahin khai? The masala one?… ,Pulse candy nahin khai masala,"['Pulse', 'candy', 'nahin', 'khai', 'masala']","['Pulse', 'candy', 'nahin', 'khai', 'masala']", puls candi nahin khai masala one … ,False,[],"['@SuparnaSharma', '@somyalakhani', '@HuzuMufc', '@BucketheadCase', '@juneymb', '@JhinukSen']",[],8
+2937,@Amjadpen @Nidhi If it’s not in ur scriptures where did it come from.this practised by #Hanafi #Sunni sect which is… https://t.co/puhdmfq0Wl,@Amjadpen @Nidhi If it’s not in ur scriptures where did it come from.this practised by #Hanafi #Sunni sect which is… ,scriptures where come from this practised #Hanafi #Sunni sect which,"['scriptures', 'where', 'come', 'from', 'this', 'practised', '#', 'Hanafi', '#', 'Sunni', 'sect', 'which']","['scriptures', 'Hanafi', 'Sunni', 'sect']", it’ ur scriptur come practis #hanafi #sunni sect is… ,False,[],"['@Amjadpen', '@Nidhi']","['#Hanafi', '#Sunni']",8
+2938,Whaaat?,Whaaat?,Whaaat,['Whaaat'],['Whaaat'],whaaat ,False,[],[],[],8
+3140,"Whatever happens let it be, we can’t afford a lockdown. #NoLockdownPlease","Whatever happens let it be, we can’t afford a lockdown. #NoLockdownPlease",Whatever happens afford lockdown #NoLockdownPlease,"['Whatever', 'happens', 'afford', 'lockdown', '#', 'NoLockdownPlease']",['NoLockdownPlease'],whatev happen let can’t afford lockdown #nolockdownplease,False,[],[],['#NoLockdownPlease'],8

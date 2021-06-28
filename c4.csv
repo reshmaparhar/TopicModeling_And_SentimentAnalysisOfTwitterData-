@@ -1,0 +1,1837 @@
+,Tweets,new,tidy_text,tok,nouns,clean_tweet,is_retweet,retweeted,mentioned,hashtags,cluster
+44,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+54,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+75,"RT @DrCJSchofield: This comment from @guardian about the risks of Covid transmission in hospital is important.
+
+Shouldn't this always be tr…","RT @DrCJSchofield: This comment from @guardian about the risks of Covid transmission in hospital is important.
+
+Shouldn't this always be tr…",This comment from about risks Covid transmission hospital important Shouldn this always,"['This', 'comment', 'from', 'about', 'risks', 'Covid', 'transmission', 'hospital', 'important', 'Shouldn', 'this', 'always']","['comment', 'risks', 'Covid', 'transmission', 'hospital', 'Shouldn']", comment risk covid transmiss hospit import alway tr…,True,['@DrCJSchofield'],['@guardian'],[],4
+82,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+92,"RT @TheMendozaWoman: Gyms and pubs are still closed in Wales.
+
+Would be great if the BBC bothered to learn what’s happening outside of Lond…","RT @TheMendozaWoman: Gyms and pubs are still closed in Wales.
+
+Would be great if the BBC bothered to learn what’s happening outside of Lond…",Gyms pubs still closed Wales Would great bothered learn what happening outside Lond,"['Gyms', 'pubs', 'still', 'closed', 'Wales', 'Would', 'great', 'bothered', 'learn', 'what', 'happening', 'outside', 'Lond']","['Gyms', 'pubs', 'Wales', 'Would', 'Lond']", gym pub still close wale would great bbc bother learn what’ happen outsid lond…,True,['@TheMendozaWoman'],[],[],4
+102,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+118,RT @kaafitweets: URGENTLY REQUIRED: B+ Plasma Donor— Someone who has recovered from Covid in the last 4 months @ Asian Hospital Faridabad…,RT @kaafitweets: URGENTLY REQUIRED: B+ Plasma Donor— Someone who has recovered from Covid in the last 4 months @ Asian Hospital Faridabad…,URGENTLY REQUIRED Plasma Donor Someone recovered from Covid last months Asian Hospital Faridabad,"['URGENTLY', 'REQUIRED', 'Plasma', 'Donor', 'Someone', 'recovered', 'from', 'Covid', 'last', 'months', 'Asian', 'Hospital', 'Faridabad']","['URGENTLY', 'REQUIRED', 'Plasma', 'Donor', 'Someone', 'Covid', 'months', 'Hospital', 'Faridabad']", urgent requir b plasma donor— someon recov covid last  month asian hospit faridabad…,True,['@kaafitweets'],[],[],4
+120,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+161,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+175,@Trixianadelacru @btsportwwe @MsCharlotteWWE Could be she wasn't cleared due to her Covid test. A negative test too late,@Trixianadelacru @btsportwwe @MsCharlotteWWE Could be she wasn't cleared due to her Covid test. A negative test too late,Could wasn cleared Covid test negative test late,"['Could', 'wasn', 'cleared', 'Covid', 'test', 'negative', 'test', 'late']","['Could', 'wasn', 'Covid', 'test', 'test']", could clear due covid test neg test late,False,[],"['@Trixianadelacru', '@btsportwwe', '@MsCharlotteWWE']",[],4
+187,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+196,"Shoot them all, look at them all sitting down away from each other having a bevvy, how fucking dare they","Shoot them all, look at them all sitting down away from each other having a bevvy, how fucking dare they",Shoot them look them sitting down away from each other having bevvy fucking dare they,"['Shoot', 'them', 'look', 'them', 'sitting', 'down', 'away', 'from', 'each', 'other', 'having', 'bevvy', 'fucking', 'dare', 'they']","['Shoot', 'dare']",shoot look sit away bevvi fuck dare,False,[],[],[],4
+214,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+233,"Every story has two aspects
+This picture shows Naga Sadhus wearing masks😷 wait for taking a dip in the Ganga during… https://t.co/To9g586rLv","Every story has two aspects
+This picture shows Naga Sadhus wearing masks😷 wait for taking a dip in the Ganga during… ",Every story aspects This picture shows Naga Sadhus wearing masks wait taking Ganga during,"['Every', 'story', 'aspects', 'This', 'picture', 'shows', 'Naga', 'Sadhus', 'wearing', 'masks', 'wait', 'taking', 'Ganga', 'during']","['story', 'picture', 'Naga', 'Sadhus', 'masks', 'Ganga']",everi stori two aspect pictur show naga sadhu wear masks😷 wait take dip ganga during… ,False,[],[],[],4
+256,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+278,RT @ZMTRUST: Lockdown Experiences of Ethnic Minority Prisoners: Measures to Prevent the Spread of Covid-19  #covid19 #lockdown #prison #are…,RT @ZMTRUST: Lockdown Experiences of Ethnic Minority Prisoners: Measures to Prevent the Spread of Covid-19  #covid19 #lockdown #prison #are…,Lockdown Experiences Ethnic Minority Prisoners Measures Prevent Spread Covid #covid #lockdown #prison #are,"['Lockdown', 'Experiences', 'Ethnic', 'Minority', 'Prisoners', 'Measures', 'Prevent', 'Spread', 'Covid', '#', 'covid', '#', 'lockdown', '#', 'prison', '#', 'are']","['Experiences', 'Ethnic', 'Minority', 'Prisoners', 'Measures', 'Prevent', 'Spread', 'Covid', 'prison']", lockdown experi ethnic minor prison measur prevent spread covid  #covid #lockdown #prison #are…,True,['@ZMTRUST'],[],"['#covid19', '#lockdown', '#prison', '#are']",4
+300,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+305,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,Leadership about foresight prepare challenges facing nation duty Bharat Mata without seeking,"['Leadership', 'about', 'foresight', 'prepare', 'challenges', 'facing', 'nation', 'duty', 'Bharat', 'Mata', 'without', 'seeking']","['Leadership', 'prepare', 'challenges', 'nation', 'duty', 'Bharat', 'Mata']", leadership foresight prepar challeng face nation duti bharat mata without seeking…,True,['@GauravGogoiAsm'],[],[],4
+328,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+332,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+349,"Today we said goodbye to the HGS covid testing hub, TestyMcTestFace, and hopefully the end of an era of onsite covi… https://t.co/9ZUZsg38HT","Today we said goodbye to the HGS covid testing hub, TestyMcTestFace, and hopefully the end of an era of onsite covi… ",Today said goodbye covid testing TestyMcTestFace hopefully onsite covi,"['Today', 'said', 'goodbye', 'covid', 'testing', 'TestyMcTestFace', 'hopefully', 'onsite', 'covi']","['Today', 'goodbye', 'covid', 'TestyMcTestFace', 'covi']",today said goodby hg covid test hub testymctestfac hope end era onsit covi… ,False,[],[],[],4
+365,"RT @Ana_mika2: 6. An unmasked guy is the Covid's workshop
+6. As you spray, so shall you reap.
+7. Better to be poor &amp; healthy than being ric…","RT @Ana_mika2: 6. An unmasked guy is the Covid's workshop
+6. As you spray, so shall you reap.
+7. Better to be poor &amp; healthy than being ric…",unmasked Covid workshop spray shall reap Better poor healthy than being,"['unmasked', 'Covid', 'workshop', 'spray', 'shall', 'reap', 'Better', 'poor', 'healthy', 'than', 'being']","['Covid', 'workshop', 'spray', 'Better']",  unmask guy covid workshop  spray shall reap  better poor amp healthi ric…,True,['@Ana_mika2'],[],[],4
+396,"SPEECHLESS! MAKING A MOCKERY OF SCIENCE &amp; MEDICINE.
+#BanElectionRalliesInCovid
+#COVID #COVID19 
+https://t.co/0rRt6kckbJ","SPEECHLESS! MAKING A MOCKERY OF SCIENCE &amp; MEDICINE.
+#BanElectionRalliesInCovid
+#COVID #COVID19 
+",SPEECHLESS MAKING MOCKERY SCIENCE MEDICINE #BanElectionRalliesInCovid #COVID #COVID,"['SPEECHLESS', 'MAKING', 'MOCKERY', 'SCIENCE', 'MEDICINE', '#', 'BanElectionRalliesInCovid', '#', 'COVID', '#', 'COVID']","['SPEECHLESS', 'MAKING', 'MOCKERY', 'SCIENCE', 'MEDICINE', 'BanElectionRalliesInCovid', 'COVID', 'COVID']",speechless make mockeri scienc amp medicin #banelectionralliesincovid #covid #covid ,False,[],[],"['#BanElectionRalliesInCovid', '#COVID', '#COVID19']",4
+398,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+399,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+422,RT @Kum_Sambhav: Emergency. A friend in Bhopal is looking to hospitalise her Covid+ mother. All hospitals in the city she has reached out t…,RT @Kum_Sambhav: Emergency. A friend in Bhopal is looking to hospitalise her Covid+ mother. All hospitals in the city she has reached out t…,Emergency friend Bhopal looking hospitalise Covid mother hospitals city reached,"['Emergency', 'friend', 'Bhopal', 'looking', 'hospitalise', 'Covid', 'mother', 'hospitals', 'city', 'reached']","['Emergency', 'friend', 'Bhopal', 'hospitalise', 'Covid', 'mother', 'hospitals', 'city']", emerg friend bhopal look hospitalis covid mother hospit citi reach t…,True,['@Kum_Sambhav'],[],[],4
+429,"@UdarOfficial the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Cov… https://t.co/YcDqcHwrbY","@UdarOfficial the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Cov… ",opposition danger Covid inflation please make Pakistan free,"['opposition', 'danger', 'Covid', 'inflation', 'please', 'make', 'Pakistan', 'free']","['opposition', 'danger', 'Covid', 'inflation', 'please', 'Pakistan']", opposit danger pti covid inflat sir pleas make pakistan free cov… ,False,[],['@UdarOfficial'],[],4
+438,RT @Emerald1002: My centre is around 500 km away from my place... and i register on 2nd day evening... how can i able to go there... electi…,RT @Emerald1002: My centre is around 500 km away from my place... and i register on 2nd day evening... how can i able to go there... electi…,centre around away from place register evening able there electi,"['centre', 'around', 'away', 'from', 'place', 'register', 'evening', 'able', 'there', 'electi']","['centre', 'place', 'register']", centr around  km away place regist nd day even abl go electi…,True,['@Emerald1002'],[],[],4
+439,"RT @ndtv: Coronavirus #FactsVsMyths | “Managing non-Covid patients will be a challenge, especially those who come with an emergency. It is…","RT @ndtv: Coronavirus #FactsVsMyths | “Managing non-Covid patients will be a challenge, especially those who come with an emergency. It is…",Coronavirus #FactsVsMyths Managing Covid patients will challenge especially those come with emergency,"['Coronavirus', '#', 'FactsVsMyths', 'Managing', 'Covid', 'patients', 'will', 'challenge', 'especially', 'those', 'come', 'with', 'emergency']","['Coronavirus', 'FactsVsMyths', 'Managing', 'Covid', 'patients', 'emergency']", coronaviru #factsvsmyths “manag non covid patient challeng especi come emerg is…,True,['@ndtv'],[],['#FactsVsMyths'],4
+444,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+445,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+450,"Welcome to COVID 19 spreading event.
+@deepakrawat_IAS @narendramodi 
+#BanElectionRalliesInCovid #ALERT #COVID19 https://t.co/r5OalbQhYg","Welcome to COVID 19 spreading event.
+@deepakrawat_IAS @narendramodi 
+#BanElectionRalliesInCovid #ALERT #COVID19 ",Welcome COVID spreading event #BanElectionRalliesInCovid #ALERT #COVID,"['Welcome', 'COVID', 'spreading', 'event', '#', 'BanElectionRalliesInCovid', '#', 'ALERT', '#', 'COVID']","['Welcome', 'COVID', 'event', 'BanElectionRalliesInCovid', 'ALERT', 'COVID']",welcom covid  spread event #banelectionralliesincovid #alert #covid ,False,[],"['@deepakrawat_IAS', '@narendramodi']","['#BanElectionRalliesInCovid', '#ALERT', '#COVID19']",4
+451,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+481,"RT @CarolineLucas: Last November, when @NAOorguk exposed VIP lane for Covid contracts, it warned public trust risked being undermined
+
+Govt…","RT @CarolineLucas: Last November, when @NAOorguk exposed VIP lane for Covid contracts, it warned public trust risked being undermined
+
+Govt…",Last November when exposed lane Covid contracts warned public trust risked being undermined Govt,"['Last', 'November', 'when', 'exposed', 'lane', 'Covid', 'contracts', 'warned', 'public', 'trust', 'risked', 'being', 'undermined', 'Govt']","['November', 'lane', 'Covid', 'contracts', 'trust', 'Govt']", last novemb expos vip lane covid contract warn public trust risk undermin govt…,True,['@CarolineLucas'],['@NAOorguk'],[],4
+492,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+502,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+512,"RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…","RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pl…,True,['@Swamy_Officiall'],[],[],4
+530,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+550,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+552,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+559,"RT @AHart1974: So let me get this right. If you’ve had the vax you’ll be allowed into big events without a recent test, even though you may…","RT @AHart1974: So let me get this right. If you’ve had the vax you’ll be allowed into big events without a recent test, even though you may…",this right allowed into events without recent test even though,"['this', 'right', 'allowed', 'into', 'events', 'without', 'recent', 'test', 'even', 'though']","['right', 'events', 'test']", let get right you’v vax you’ll allow big event without recent test even though may…,True,['@AHart1974'],[],[],4
+562,"RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+https://t.co/2ZfYNHnz7n","RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+",Meningitis cerebrospinal fluid leak after nasal swab testing COVID PubMed,"['Meningitis', 'cerebrospinal', 'fluid', 'leak', 'after', 'nasal', 'swab', 'testing', 'COVID', 'PubMed']","['Meningitis', 'fluid', 'leak', 'COVID', 'PubMed']", mening due cerebrospin fluid leak nasal swab test covid  pubm ,True,['@robinmonotti2'],[],[],4
+564,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+566,"RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…","RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pl…,True,['@Swamy_Officiall'],[],[],4
+570,"RT @Atuhairecarol10: Uganda struggles to strengthen measures to curb the spread of COVID-19, security agencies working for multinational co…","RT @Atuhairecarol10: Uganda struggles to strengthen measures to curb the spread of COVID-19, security agencies working for multinational co…",Uganda struggles strengthen measures curb spread COVID security agencies working multinational,"['Uganda', 'struggles', 'strengthen', 'measures', 'curb', 'spread', 'COVID', 'security', 'agencies', 'working', 'multinational']","['Uganda', 'measures', 'spread', 'COVID', 'security', 'agencies', 'multinational']", uganda struggl strengthen measur curb spread covid  secur agenc work multin co…,True,['@Atuhairecarol10'],[],[],4
+581,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+586,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+605,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+632,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+635,"RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+https://t.co/2ZfYNHnz7n","RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+",Meningitis cerebrospinal fluid leak after nasal swab testing COVID PubMed,"['Meningitis', 'cerebrospinal', 'fluid', 'leak', 'after', 'nasal', 'swab', 'testing', 'COVID', 'PubMed']","['Meningitis', 'fluid', 'leak', 'COVID', 'PubMed']", mening due cerebrospin fluid leak nasal swab test covid  pubm ,True,['@robinmonotti2'],[],[],4
+636,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+639,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+647,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+651,"I hear that roller coaster theme parks are now open in England &amp; Wales, is that correct? Don't scream if you want t… https://t.co/iFkbwFhfYO","I hear that roller coaster theme parks are now open in England &amp; Wales, is that correct? Don't scream if you want t… ",hear that roller coaster theme parks open England Wales that correct scream want,"['hear', 'that', 'roller', 'coaster', 'theme', 'parks', 'open', 'England', 'Wales', 'that', 'correct', 'scream', 'want']","['hear', 'roller', 'coaster', 'theme', 'parks', 'England', 'Wales', 'scream']",hear roller coaster theme park open england amp wale correct scream want t… ,False,[],[],[],4
+656,"RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.","RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.",Spread fake news These devotees tested negative then they entered into city,"['Spread', 'fake', 'news', 'These', 'devotees', 'tested', 'negative', 'then', 'they', 'entered', 'into', 'city']","['Spread', 'news', 'devotees', 'city']", don’t spread fake news devote test neg enter citi ,True,['@SudarshanNewsTV'],[],[],4
+661,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+663,"RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+https://t.co/2ZfYNHnz7n","RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+",Meningitis cerebrospinal fluid leak after nasal swab testing COVID PubMed,"['Meningitis', 'cerebrospinal', 'fluid', 'leak', 'after', 'nasal', 'swab', 'testing', 'COVID', 'PubMed']","['Meningitis', 'fluid', 'leak', 'COVID', 'PubMed']", mening due cerebrospin fluid leak nasal swab test covid  pubm ,True,['@robinmonotti2'],[],[],4
+667,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+669,"RT @RvRavi22: Please follow some important suggestions to save from covid-19. Be healthy yourself, and keep your family healthy as well.
+#C…","RT @RvRavi22: Please follow some important suggestions to save from covid-19. Be healthy yourself, and keep your family healthy as well.
+#C…",Please follow some important suggestions save from covid healthy yourself keep your family healthy well,"['Please', 'follow', 'some', 'important', 'suggestions', 'save', 'from', 'covid', 'healthy', 'yourself', 'keep', 'your', 'family', 'healthy', 'well']","['Please', 'suggestions', 'covid', 'family']", pleas follow import suggest save covid  healthi keep famili healthi well #c…,True,['@RvRavi22'],[],[],4
+672,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+673,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+676,"RT @DRM_BVP: Encourage your friends and family to follow COVID Appropriate Behaviours. 
+✅✅✅✅✅✅✅✅✅✅✅✅✅
+Do your bit to break the transmission…","RT @DRM_BVP: Encourage your friends and family to follow COVID Appropriate Behaviours. 
+✅✅✅✅✅✅✅✅✅✅✅✅✅
+Do your bit to break the transmission…",Encourage your friends family follow COVID Appropriate Behaviours your break transmission,"['Encourage', 'your', 'friends', 'family', 'follow', 'COVID', 'Appropriate', 'Behaviours', 'your', 'break', 'transmission']","['friends', 'family', 'COVID', 'Appropriate', 'Behaviours', 'break', 'transmission']", encourag friend famili follow covid appropri behaviour ✅✅✅✅✅✅✅✅✅✅✅✅✅ bit break transmission…,True,['@DRM_BVP'],[],[],4
+682,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+709,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+717,"RT @ClaudineMAbbott: The #mentalhealth tsunami hitting after the #Covid earthquake 😞
+
+1 in 3 COVID-19 patients diagnosed with psychiatric d…","RT @ClaudineMAbbott: The #mentalhealth tsunami hitting after the #Covid earthquake 😞
+
+1 in 3 COVID-19 patients diagnosed with psychiatric d…",#mentalhealth tsunami hitting after #Covid earthquake COVID patients diagnosed with psychiatric,"['#', 'mentalhealth', 'tsunami', 'hitting', 'after', '#', 'Covid', 'earthquake', 'COVID', 'patients', 'diagnosed', 'with', 'psychiatric']","['mentalhealth', 'tsunami', 'hitting', 'Covid', 'earthquake', 'COVID', 'patients']", #mentalhealth tsunami hit #covid earthquak 😞   covid  patient diagnos psychiatr d…,True,['@ClaudineMAbbott'],[],"['#mentalhealth', '#Covid']",4
+725,"RT @iambluffmaster: Which is that one Movie which will take you out to Theatres even in the middle of #COVID fear? 
+
+#quickpoll 
+comment fo…","RT @iambluffmaster: Which is that one Movie which will take you out to Theatres even in the middle of #COVID fear? 
+
+#quickpoll 
+comment fo…",Which that Movie which will take Theatres even middle #COVID fear #quickpoll comment,"['Which', 'that', 'Movie', 'which', 'will', 'take', 'Theatres', 'even', 'middle', '#', 'COVID', 'fear', '#', 'quickpoll', 'comment']","['Movie', 'Theatres', 'COVID', 'fear', 'comment']", one movi take theatr even middl #covid fear #quickpoll comment fo…,True,['@iambluffmaster'],[],"['#COVID', '#quickpoll']",4
+739,"@WESH For the people who think it’s fake or just don’t want to wear a mask, I invite you to work a shift in the hos… https://t.co/rJhvSInuWs","@WESH For the people who think it’s fake or just don’t want to wear a mask, I invite you to work a shift in the hos… ",people think fake just want wear mask invite work shift,"['people', 'think', 'fake', 'just', 'want', 'wear', 'mask', 'invite', 'work', 'shift']","['people', 'mask', 'work', 'shift']", peopl think it’ fake don’t want wear mask invit work shift hos… ,False,[],['@WESH'],[],4
+740,Should this super spreader Shahi Snan event with 1 lakh participants not banned or legally charged in light of Covi… https://t.co/c8m3vXXKUE,Should this super spreader Shahi Snan event with 1 lakh participants not banned or legally charged in light of Covi… ,Should this super spreader Shahi Snan event with lakh participants banned legally charged light Covi,"['Should', 'this', 'super', 'spreader', 'Shahi', 'Snan', 'event', 'with', 'lakh', 'participants', 'banned', 'legally', 'charged', 'light', 'Covi']","['spreader', 'Shahi', 'Snan', 'event', 'participants', 'light', 'Covi']",super spreader shahi snan event  lakh particip ban legal charg light covi… ,False,[],[],[],4
+742,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+748,"@MRaasUpdates @DrMuradPTI the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan… https://t.co/2bwNRgw0fU","@MRaasUpdates @DrMuradPTI the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan… ",opposition danger Covid inflation please make Pakistan,"['opposition', 'danger', 'Covid', 'inflation', 'please', 'make', 'Pakistan']","['opposition', 'danger', 'Covid', 'inflation', 'please', 'Pakistan']", opposit danger pti covid inflat sir pleas make pakistan… ,False,[],"['@MRaasUpdates', '@DrMuradPTI']",[],4
+753,"RT @AHart1974: IRONY: Covid is now most likely to be spread by the vaccinated. They can still catch, carry &amp; pass on the virus but will hav…","RT @AHart1974: IRONY: Covid is now most likely to be spread by the vaccinated. They can still catch, carry &amp; pass on the virus but will hav…",IRONY Covid most likely spread vaccinated They still catch carry pass virus will,"['IRONY', 'Covid', 'most', 'likely', 'spread', 'vaccinated', 'They', 'still', 'catch', 'carry', 'pass', 'virus', 'will']","['IRONY', 'Covid', 'spread', 'pass', 'virus']", ironi covid like spread vaccin still catch carri amp pass viru hav…,True,['@AHart1974'],[],[],4
+755,"RT @timspector: Putting blood clots in perspective - Covid, smoking and OCP and driving on the motorway all give far higher risks than AZ -…","RT @timspector: Putting blood clots in perspective - Covid, smoking and OCP and driving on the motorway all give far higher risks than AZ -…",Putting blood clots perspective Covid smoking driving motorway give higher risks than,"['Putting', 'blood', 'clots', 'perspective', 'Covid', 'smoking', 'driving', 'motorway', 'give', 'higher', 'risks', 'than']","['blood', 'clots', 'Covid', 'risks']", put blood clot perspect covid smoke ocp drive motorway give far higher risk az …,True,['@timspector'],[],[],4
+769,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+777,"RT @Devineni_Hari: SEARCHING FOR A #PLASMADONOR IN VIZAG FOR A #COVID PATIENT 
+
+Recent ga covid ochi cure aipoina vallu evarina telsina val…","RT @Devineni_Hari: SEARCHING FOR A #PLASMADONOR IN VIZAG FOR A #COVID PATIENT 
+
+Recent ga covid ochi cure aipoina vallu evarina telsina val…",SEARCHING #PLASMADONOR VIZAG #COVID PATIENT Recent covid ochi cure aipoina vallu evarina telsina,"['SEARCHING', '#', 'PLASMADONOR', 'VIZAG', '#', 'COVID', 'PATIENT', 'Recent', 'covid', 'ochi', 'cure', 'aipoina', 'vallu', 'evarina', 'telsina']","['SEARCHING', 'PLASMADONOR', 'VIZAG', 'COVID', 'PATIENT', 'Recent', 'covid', 'evarina']", search #plasmadonor vizag #covid patient recent ga covid ochi cure aipoina vallu evarina telsina val…,True,['@Devineni_Hari'],[],"['#PLASMADONOR', '#COVID']",4
+811,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+816,"RT @Ashtalakshmi8: 🌺॥ जय शेरावाली माता की जय ॥ 🌺
+A Shubh Navratri to all Hindus, 
+to all followers of Sanatan Dharma, to our Hon'able PM Mo…","RT @Ashtalakshmi8: 🌺॥ जय शेरावाली माता की जय ॥ 🌺
+A Shubh Navratri to all Hindus, 
+to all followers of Sanatan Dharma, to our Hon'able PM Mo…",Shubh Navratri Hindus followers Sanatan Dharma able,"['Shubh', 'Navratri', 'Hindus', 'followers', 'Sanatan', 'Dharma', 'able']","['Shubh', 'Navratri', 'Hindus', 'followers', 'Sanatan', 'Dharma']", 🌺॥ जय शेरावाली माता की जय ॥ 🌺 shubh navratri hindu follow sanatan dharma hon abl pm mo…,True,['@Ashtalakshmi8'],[],[],4
+820,RT @BoSnerdley: California city erects fence outside COVID mandate-defying restaurant in Burbank https://t.co/OmyglHf8ua #FoxNews,RT @BoSnerdley: California city erects fence outside COVID mandate-defying restaurant in Burbank  #FoxNews,California city erects fence outside COVID mandate defying restaurant Burbank #FoxNews,"['California', 'city', 'erects', 'fence', 'outside', 'COVID', 'mandate', 'defying', 'restaurant', 'Burbank', '#', 'FoxNews']","['California', 'city', 'erects', 'fence', 'COVID', 'mandate', 'Burbank', 'FoxNews']", california citi erect fenc outsid covid mandat defi restaur burbank #foxnews,True,['@BoSnerdley'],[],['#FoxNews'],4
+836,RT @ICRAF: COVID-19 and women’s leadership: @ACIARAfrica speaks with #ICRAF's Professor Catherine Muthuri about agroforestry and its role i…,RT @ICRAF: COVID-19 and women’s leadership: @ACIARAfrica speaks with #ICRAF's Professor Catherine Muthuri about agroforestry and its role i…,COVID women leadership speaks with #ICRAF Professor Catherine Muthuri about agroforestry role,"['COVID', 'women', 'leadership', 'speaks', 'with', '#', 'ICRAF', 'Professor', 'Catherine', 'Muthuri', 'about', 'agroforestry', 'role']","['COVID', 'women', 'leadership', 'ICRAF', 'Professor', 'Catherine', 'Muthuri', 'agroforestry', 'role']", covid  women’ leadership speak #icraf professor catherin muthuri agroforestri role i…,True,['@ICRAF'],['@ACIARAfrica'],['#ICRAF'],4
+842,"RT @mojos55: Apple and Google block UK NHS Covid app update on privacy grounds
+An update to the UK’s Track and Trace’ app set to go live on…","RT @mojos55: Apple and Google block UK NHS Covid app update on privacy grounds
+An update to the UK’s Track and Trace’ app set to go live on…",Apple Google block Covid update privacy grounds update Track Trace live,"['Apple', 'Google', 'block', 'Covid', 'update', 'privacy', 'grounds', 'update', 'Track', 'Trace', 'live']","['Apple', 'Google', 'block', 'Covid', 'update', 'privacy', 'grounds', 'Track', 'Trace']", appl googl block uk nh covid app updat privaci ground updat uk’ track trace’ app set go live on…,True,['@mojos55'],[],[],4
+843,RT @drshamamohd: 102 people have tested Covid positive at #Kumbh. 28 lakh devotees visited #Haridwar on Monday. There is no thermal screeni…,RT @drshamamohd: 102 people have tested Covid positive at #Kumbh. 28 lakh devotees visited #Haridwar on Monday. There is no thermal screeni…,people have tested Covid positive #Kumbh lakh devotees visited #Haridwar Monday There thermal screeni,"['people', 'have', 'tested', 'Covid', 'positive', '#', 'Kumbh', 'lakh', 'devotees', 'visited', '#', 'Haridwar', 'Monday', 'There', 'thermal', 'screeni']","['people', 'Covid', 'Kumbh', 'lakh', 'devotees', 'Haridwar', 'Monday', 'screeni']",  peopl test covid posit #kumbh  lakh devote visit #haridwar monday thermal screeni…,True,['@drshamamohd'],[],"['#Kumbh', '#Haridwar']",4
+849,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+851,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+893,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+953,"RT @Raad27770743: Mam , 2 lakh Doctors will have to sit for offline NEET PG exam on 18 april . Many are already positive due to covid dutie…","RT @Raad27770743: Mam , 2 lakh Doctors will have to sit for offline NEET PG exam on 18 april . Many are already positive due to covid dutie…",lakh Doctors will have offline NEET exam april Many already positive covid dutie,"['lakh', 'Doctors', 'will', 'have', 'offline', 'NEET', 'exam', 'april', 'Many', 'already', 'positive', 'covid', 'dutie']","['lakh', 'Doctors', 'NEET', 'Many', 'covid', 'dutie']", mam  lakh doctor sit offlin neet pg exam  april mani alreadi posit due covid dutie…,True,['@Raad27770743'],[],[],4
+955,"Despite this, my grandmother now has a large blood clot in her groin that has travelled up from her calf. 
+
+If the… https://t.co/OLWDs0MRCf","Despite this, my grandmother now has a large blood clot in her groin that has travelled up from her calf. 
+
+If the… ",Despite this grandmother large blood clot groin that travelled from calf,"['Despite', 'this', 'grandmother', 'large', 'blood', 'clot', 'groin', 'that', 'travelled', 'from', 'calf']","['grandmother', 'blood', 'clot', 'groin', 'calf']",despit grandmoth larg blood clot groin travel calf the… ,False,[],[],[],4
+971,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,Leadership about foresight prepare challenges facing nation duty Bharat Mata without seeking,"['Leadership', 'about', 'foresight', 'prepare', 'challenges', 'facing', 'nation', 'duty', 'Bharat', 'Mata', 'without', 'seeking']","['Leadership', 'prepare', 'challenges', 'nation', 'duty', 'Bharat', 'Mata']", leadership foresight prepar challeng face nation duti bharat mata without seeking…,True,['@GauravGogoiAsm'],[],[],4
+977,RT @IainLJBrown: It’s no surprise fraudsters are exploiting the accelerated shift to digital #payments amid the COVID pandemic. How can ban…,RT @IainLJBrown: It’s no surprise fraudsters are exploiting the accelerated shift to digital #payments amid the COVID pandemic. How can ban…,surprise fraudsters exploiting accelerated shift digital #payments amid COVID pandemic,"['surprise', 'fraudsters', 'exploiting', 'accelerated', 'shift', 'digital', '#', 'payments', 'amid', 'COVID', 'pandemic']","['surprise', 'fraudsters', 'shift', 'payments', 'COVID', 'pandemic']", it’ surpris fraudster exploit acceler shift digit #payments amid covid pandem ban…,True,['@IainLJBrown'],[],['#payments'],4
+994,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1034,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+1057,Physiotherapists have warned of an increasing number of sports injuries among people trying to make up for lost tim… https://t.co/Pnb4b4mLtz,Physiotherapists have warned of an increasing number of sports injuries among people trying to make up for lost tim… ,Physiotherapists have warned increasing number sports injuries among people trying make lost,"['Physiotherapists', 'have', 'warned', 'increasing', 'number', 'sports', 'injuries', 'among', 'people', 'trying', 'make', 'lost']","['Physiotherapists', 'number', 'sports', 'injuries', 'people', 'make']",physiotherapist warn increas number sport injuri among peopl tri make lost tim… ,False,[],[],[],4
+1072,RT @PaulTreyvaud: A professor very worried about eating outdoors in case of catching COVID having no problems going indoors to make his poi…,RT @PaulTreyvaud: A professor very worried about eating outdoors in case of catching COVID having no problems going indoors to make his poi…,professor very worried about eating outdoors case catching COVID having problems going indoors make,"['professor', 'very', 'worried', 'about', 'eating', 'outdoors', 'case', 'catching', 'COVID', 'having', 'problems', 'going', 'indoors', 'make']","['professor', 'outdoors', 'case', 'COVID', 'problems', 'indoors']", professor worri eat outdoor case catch covid problem go indoor make poi…,True,['@PaulTreyvaud'],[],[],4
+1077,"RT @JonJonesSnr: BBC News.
+
+NHS Covid-19 app update blocked for breaking Apple and Google's rules
+
+It's a sad day when Apple and Google are…","RT @JonJonesSnr: BBC News.
+
+NHS Covid-19 app update blocked for breaking Apple and Google's rules
+
+It's a sad day when Apple and Google are…",News Covid update blocked breaking Apple Google rules when Apple Google,"['News', 'Covid', 'update', 'blocked', 'breaking', 'Apple', 'Google', 'rules', 'when', 'Apple', 'Google']","['News', 'Covid', 'update', 'Apple', 'Google', 'rules', 'Apple', 'Google']", bbc news nh covid  app updat block break appl googl rule sad day appl googl are…,True,['@JonJonesSnr'],[],[],4
+1081,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1084,"RT @anandmahindra: Some very positive and welcome news amidst the Covid gloom. If we can quickly put that miserable virus in its place, we…","RT @anandmahindra: Some very positive and welcome news amidst the Covid gloom. If we can quickly put that miserable virus in its place, we…",Some very positive welcome news amidst Covid gloom quickly that miserable virus place,"['Some', 'very', 'positive', 'welcome', 'news', 'amidst', 'Covid', 'gloom', 'quickly', 'that', 'miserable', 'virus', 'place']","['news', 'amidst', 'Covid', 'gloom', 'virus', 'place']", posit welcom news amidst covid gloom quickli put miser viru place we…,True,['@anandmahindra'],[],[],4
+1093,"Of nearly a million Hindus who bathed on Monday in the Ganges, few observed social distancing or wore masks.… https://t.co/v0wga2hd0h","Of nearly a million Hindus who bathed on Monday in the Ganges, few observed social distancing or wore masks.… ",nearly million Hindus bathed Monday Ganges observed social distancing wore masks,"['nearly', 'million', 'Hindus', 'bathed', 'Monday', 'Ganges', 'observed', 'social', 'distancing', 'wore', 'masks']","['Hindus', 'Monday', 'Ganges', 'distancing', 'masks']",nearli million hindu bath monday gang observ social distanc wore mask … ,False,[],[],[],4
+1095,"RT @ndtv: Coronavirus #FactsVsMyths | “Managing non-Covid patients will be a challenge, especially those who come with an emergency. It is…","RT @ndtv: Coronavirus #FactsVsMyths | “Managing non-Covid patients will be a challenge, especially those who come with an emergency. It is…",Coronavirus #FactsVsMyths Managing Covid patients will challenge especially those come with emergency,"['Coronavirus', '#', 'FactsVsMyths', 'Managing', 'Covid', 'patients', 'will', 'challenge', 'especially', 'those', 'come', 'with', 'emergency']","['Coronavirus', 'FactsVsMyths', 'Managing', 'Covid', 'patients', 'emergency']", coronaviru #factsvsmyths “manag non covid patient challeng especi come emerg is…,True,['@ndtv'],[],['#FactsVsMyths'],4
+1102,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1108,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,Leadership about foresight prepare challenges facing nation duty Bharat Mata without seeking,"['Leadership', 'about', 'foresight', 'prepare', 'challenges', 'facing', 'nation', 'duty', 'Bharat', 'Mata', 'without', 'seeking']","['Leadership', 'prepare', 'challenges', 'nation', 'duty', 'Bharat', 'Mata']", leadership foresight prepar challeng face nation duti bharat mata without seeking…,True,['@GauravGogoiAsm'],[],[],4
+1119,"RT @AndyBird21: Oh look. 
+
+That Kent variant of the virus that’s never been isolated spreads quicker. 
+
+Suck it up fluoride guzzlers cus un…","RT @AndyBird21: Oh look. 
+
+That Kent variant of the virus that’s never been isolated spreads quicker. 
+
+Suck it up fluoride guzzlers cus un…",look That Kent variant virus that never been isolated spreads quicker Suck fluoride guzzlers,"['look', 'That', 'Kent', 'variant', 'virus', 'that', 'never', 'been', 'isolated', 'spreads', 'quicker', 'Suck', 'fluoride', 'guzzlers']","['look', 'Kent', 'variant', 'virus', 'spreads', 'Suck', 'fluoride', 'guzzlers']", oh look kent variant viru that’ never isol spread quicker suck fluorid guzzler cu un…,True,['@AndyBird21'],[],[],4
+1121,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1127,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1135,"RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…","RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pl…,True,['@Swamy_Officiall'],[],[],4
+1138,"I really don't need to say this again, but it's still incredible how easily for so many people the extreme measure… https://t.co/ovNmXyG1s2","I really don't need to say this again, but it's still incredible how easily for so many people the extreme measure… ",really need this again still incredible easily many people extreme measure,"['really', 'need', 'this', 'again', 'still', 'incredible', 'easily', 'many', 'people', 'extreme', 'measure']","['people', 'measure']",realli need say still incred easili mani peopl extrem measure… ,False,[],[],[],4
+1141,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+1144,"At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive https://t.co/lsDxZWqpjF via @IndianExpress","At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive  via @IndianExpress",Kumbh Covid guard slips thermal screening masks test positive,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive']","['Kumbh', 'Covid', 'guard', 'test']",kumbh covid guard slip thermal screen mask  test posit via ,False,[],['@IndianExpress'],[],4
+1149,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1190,"@EduMinistryPK @Shafqat_Mahmood the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pa… https://t.co/W5q1Nu638B","@EduMinistryPK @Shafqat_Mahmood the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pa… ",opposition danger Covid inflation please make,"['opposition', 'danger', 'Covid', 'inflation', 'please', 'make']","['opposition', 'danger', 'Covid', 'inflation', 'please']", opposit danger pti covid inflat sir pleas make pa… ,False,[],"['@EduMinistryPK', '@Shafqat_Mahmood']",[],4
+1208,"Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843… https://t.co/gpJvTBE1Io","Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843… ",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']",friend emerg requir blood covid place ntr trust hyderabad pleas call … ,False,[],[],[],4
+1221,"RT @PawanUniverse: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Plea…","RT @PawanUniverse: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Plea…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call Plea,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call', 'Plea']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'Plea']", friend emerg requir blood covid place ntr trust hyderabad pleas call  plea…,True,['@PawanUniverse'],[],[],4
+1261,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+1267,"RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…","RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pl…,True,['@Swamy_Officiall'],[],[],4
+1277,"RT @IamNikeejaaz: ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.""
+
+~#tue…","RT @IamNikeejaaz: ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.""
+
+~#tue…",want happy goal that commands your thoughts liberates your energy inspires your hopes #tue,"['want', 'happy', 'goal', 'that', 'commands', 'your', 'thoughts', 'liberates', 'your', 'energy', 'inspires', 'your', 'hopes', '#', 'tue']","['want', 'goal', 'thoughts', 'energy', 'inspires', 'hopes', 'tue']", want happi set goal command thought liber energi inspir hope #tue…,True,['@IamNikeejaaz'],[],['#tue'],4
+1281,"RT @RohanV: ""At various checkpoints, The Indian Express counted over 50 devotees being asked about their RT-PCR reports — at least 15 did n…","RT @RohanV: ""At various checkpoints, The Indian Express counted over 50 devotees being asked about their RT-PCR reports — at least 15 did n…",various checkpoints Indian Express counted over devotees being asked about their reports least,"['various', 'checkpoints', 'Indian', 'Express', 'counted', 'over', 'devotees', 'being', 'asked', 'about', 'their', 'reports', 'least']","['checkpoints', 'Express', 'devotees', 'reports']", variou checkpoint indian express count  devote ask rt pcr report — least  n…,True,['@RohanV'],[],[],4
+1288,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1289,"RT @ABC: Despite locking down in March 2020 and enacting strict social-distancing measures, Toronto is seeing hospitals and intensive care…","RT @ABC: Despite locking down in March 2020 and enacting strict social-distancing measures, Toronto is seeing hospitals and intensive care…",Despite locking down March enacting strict social distancing measures Toronto seeing hospitals intensive care,"['Despite', 'locking', 'down', 'March', 'enacting', 'strict', 'social', 'distancing', 'measures', 'Toronto', 'seeing', 'hospitals', 'intensive', 'care']","['March', 'distancing', 'measures', 'Toronto', 'hospitals', 'care']", despit lock march  enact strict social distanc measur toronto see hospit intens care…,True,['@ABC'],[],[],4
+1305,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+1307,"RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.","RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.",Spread fake news These devotees tested negative then they entered into city,"['Spread', 'fake', 'news', 'These', 'devotees', 'tested', 'negative', 'then', 'they', 'entered', 'into', 'city']","['Spread', 'news', 'devotees', 'city']", don’t spread fake news devote test neg enter citi ,True,['@SudarshanNewsTV'],[],[],4
+1322,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+1325,@jools_miss No it hasn't he has been wear of it since last November when Professor of Risk management at Bristol un… https://t.co/EtJ4tuxjqg,@jools_miss No it hasn't he has been wear of it since last November when Professor of Risk management at Bristol un… ,hasn been wear since last November when Professor Risk management Bristol,"['hasn', 'been', 'wear', 'since', 'last', 'November', 'when', 'Professor', 'Risk', 'management', 'Bristol']","['hasn', 'November', 'Professor', 'Risk', 'management', 'Bristol']", wear sinc last novemb professor risk manag bristol un… ,False,[],['@jools_miss'],[],4
+1331,"RT @edsbilisim: Over one million people reporting Long Covid in the UK 
+
+#UK #Covid19 #LongCovid https://t.co/yzMuTKv1Jd","RT @edsbilisim: Over one million people reporting Long Covid in the UK 
+
+#UK #Covid19 #LongCovid ",Over million people reporting Long Covid #Covid #LongCovid,"['Over', 'million', 'people', 'reporting', 'Long', 'Covid', '#', 'Covid', '#', 'LongCovid']","['people', 'Long', 'Covid', 'Covid', 'LongCovid']", one million peopl report long covid uk #uk #covid #longcovid ,True,['@edsbilisim'],[],"['#UK', '#Covid19', '#LongCovid']",4
+1333,@AFP The highest number of COVID deaths in Europe thanks to selfishness and idiocy.,@AFP The highest number of COVID deaths in Europe thanks to selfishness and idiocy.,highest number COVID deaths Europe thanks selfishness idiocy,"['highest', 'number', 'COVID', 'deaths', 'Europe', 'thanks', 'selfishness', 'idiocy']","['number', 'COVID', 'deaths', 'Europe', 'thanks', 'selfishness', 'idiocy']", highest number covid death europ thank selfish idioci ,False,[],['@AFP'],[],4
+1338,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+1342,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+1348,"@EduMinistryPK @Shafqat_Mahmood the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pa… https://t.co/Jmk1jkwv3T","@EduMinistryPK @Shafqat_Mahmood the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pa… ",opposition danger Covid inflation please make,"['opposition', 'danger', 'Covid', 'inflation', 'please', 'make']","['opposition', 'danger', 'Covid', 'inflation', 'please']", opposit danger pti covid inflat sir pleas make pa… ,False,[],"['@EduMinistryPK', '@Shafqat_Mahmood']",[],4
+1358,"RT @cnni: Foreign spying and interference in Canada last year hit levels not seen since the Cold War, in part because of vulnerabilities ca…","RT @cnni: Foreign spying and interference in Canada last year hit levels not seen since the Cold War, in part because of vulnerabilities ca…",Foreign spying interference Canada last year levels seen since Cold part because vulnerabilities,"['Foreign', 'spying', 'interference', 'Canada', 'last', 'year', 'levels', 'seen', 'since', 'Cold', 'part', 'because', 'vulnerabilities']","['Foreign', 'interference', 'Canada', 'year', 'levels', 'Cold', 'part', 'vulnerabilities']", foreign spi interfer canada last year hit level seen sinc cold war part vulner ca…,True,['@cnni'],[],[],4
+1371,"Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843… https://t.co/FHezC50JyF","Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843… ",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']",friend emerg requir blood covid place ntr trust hyderabad pleas call … ,False,[],[],[],4
+1375,To my Believing Christian friends.  Prayers please for my son Anthony who is in ICU with double Covid pneumonia.  T… https://t.co/YihQgNwP07,To my Believing Christian friends.  Prayers please for my son Anthony who is in ICU with double Covid pneumonia.  T… ,Believing Christian friends Prayers please Anthony with double Covid pneumonia,"['Believing', 'Christian', 'friends', 'Prayers', 'please', 'Anthony', 'with', 'double', 'Covid', 'pneumonia']","['friends', 'Prayers', 'Anthony', 'Covid', 'pneumonia']",believ christian friend prayer pleas son anthoni icu doubl covid pneumonia t… ,False,[],[],[],4
+1386,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,RT @GauravGogoiAsm: Leadership is about the foresight to prepare for the challenges facing a nation. A duty to Bharat Mata without seeking…,Leadership about foresight prepare challenges facing nation duty Bharat Mata without seeking,"['Leadership', 'about', 'foresight', 'prepare', 'challenges', 'facing', 'nation', 'duty', 'Bharat', 'Mata', 'without', 'seeking']","['Leadership', 'prepare', 'challenges', 'nation', 'duty', 'Bharat', 'Mata']", leadership foresight prepar challeng face nation duti bharat mata without seeking…,True,['@GauravGogoiAsm'],[],[],4
+1395,"RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…","RT @Swamy_Officiall: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pl…,True,['@Swamy_Officiall'],[],[],4
+1405,"RT @zenmaldita: my friend @mootecky got covid and her right lung has collapsed
+
+she's currently in ER
+
+we're currently talking w her family…","RT @zenmaldita: my friend @mootecky got covid and her right lung has collapsed
+
+she's currently in ER
+
+we're currently talking w her family…",friend covid right lung collapsed currently currently talking family,"['friend', 'covid', 'right', 'lung', 'collapsed', 'currently', 'currently', 'talking', 'family']","['friend', 'covid', 'lung', 'family']", friend got covid right lung collaps current er current talk w family…,True,['@zenmaldita'],['@mootecky'],[],4
+1406,I think someone needs to die before some work places take Covid seriously,I think someone needs to die before some work places take Covid seriously,think someone needs before some work places take Covid seriously,"['think', 'someone', 'needs', 'before', 'some', 'work', 'places', 'take', 'Covid', 'seriously']","['someone', 'needs', 'work', 'places', 'Covid']",think someon need die work place take covid serious,False,[],[],[],4
+1428,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+1429,"RT @anandmahindra: Some very positive and welcome news amidst the Covid gloom. If we can quickly put that miserable virus in its place, we…","RT @anandmahindra: Some very positive and welcome news amidst the Covid gloom. If we can quickly put that miserable virus in its place, we…",Some very positive welcome news amidst Covid gloom quickly that miserable virus place,"['Some', 'very', 'positive', 'welcome', 'news', 'amidst', 'Covid', 'gloom', 'quickly', 'that', 'miserable', 'virus', 'place']","['news', 'amidst', 'Covid', 'gloom', 'virus', 'place']", posit welcom news amidst covid gloom quickli put miser viru place we…,True,['@anandmahindra'],[],[],4
+1434,@kakar_harsha @SMQureshiPTI Indian Navy deployed against Covid. Assisted by ground forces Kumbh mela https://t.co/A2Nsu4Kuod,@kakar_harsha @SMQureshiPTI Indian Navy deployed against Covid. Assisted by ground forces Kumbh mela ,Indian Navy deployed against Covid Assisted ground forces Kumbh mela,"['Indian', 'Navy', 'deployed', 'against', 'Covid', 'Assisted', 'ground', 'forces', 'Kumbh', 'mela']","['Navy', 'deployed', 'Covid', 'Assisted', 'ground', 'forces', 'Kumbh', 'mela']", indian navi deploy covid assist ground forc kumbh mela ,False,[],"['@kakar_harsha', '@SMQureshiPTI']",[],4
+1439,"RT @PawanismNetwork: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…","RT @PawanismNetwork: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Pl…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pl…,True,['@PawanismNetwork'],[],[],4
+1446,Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 https://t.co/qXI4HJ3lYP,Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 ,Meningitis cerebrospinal fluid leak after nasal swab testing COVID,"['Meningitis', 'cerebrospinal', 'fluid', 'leak', 'after', 'nasal', 'swab', 'testing', 'COVID']","['Meningitis', 'fluid', 'leak', 'testing', 'COVID']",mening due cerebrospin fluid leak nasal swab test covid  ,False,[],[],[],4
+1453,RT @manas231091: This is the actual ground reality!! Let's for once not b a bigot n leave the innocents in lurch.. please be sensitive to t…,RT @manas231091: This is the actual ground reality!! Let's for once not b a bigot n leave the innocents in lurch.. please be sensitive to t…,This actual ground reality once bigot leave innocents lurch please sensitive,"['This', 'actual', 'ground', 'reality', 'once', 'bigot', 'leave', 'innocents', 'lurch', 'please', 'sensitive']","['ground', 'reality', 'innocents', 'please']", actual ground realiti let b bigot n leav innoc lurch pleas sensit t…,True,['@manas231091'],[],[],4
+1493,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1503,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1505,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1510,"RT @VijaytaL: The reporter of this Kumbh story walked 10 km and did not find any Covid safety measures in place, no thermal screening and d…","RT @VijaytaL: The reporter of this Kumbh story walked 10 km and did not find any Covid safety measures in place, no thermal screening and d…",reporter this Kumbh story walked find Covid safety measures place thermal screening,"['reporter', 'this', 'Kumbh', 'story', 'walked', 'find', 'Covid', 'safety', 'measures', 'place', 'thermal', 'screening']","['reporter', 'Kumbh', 'story', 'Covid', 'safety', 'measures', 'screening']", report kumbh stori walk  km find covid safeti measur place thermal screen d…,True,['@VijaytaL'],[],[],4
+1516,"RT @eAsiaMediaHub: (3/3) National Security Advisors @JakeSullivan46, Shigeru Kitamura, &amp; Suh Hoon also discussed other leading challenges,…","RT @eAsiaMediaHub: (3/3) National Security Advisors @JakeSullivan46, Shigeru Kitamura, &amp; Suh Hoon also discussed other leading challenges,…",National Security Advisors Shigeru Kitamura Hoon also discussed other leading challenges,"['National', 'Security', 'Advisors', 'Shigeru', 'Kitamura', 'Hoon', 'also', 'discussed', 'other', 'leading', 'challenges']","['National', 'Security', 'Advisors', 'Shigeru', 'Kitamura', 'Hoon', 'challenges']",   nation secur advisor shigeru kitamura amp suh hoon also discuss lead challeng …,True,['@eAsiaMediaHub'],['@JakeSullivan46'],[],4
+1539,Physiotherapists have warned of an increasing number of sports injuries among people trying to make up for lost tim… https://t.co/w4qtMqUCZH,Physiotherapists have warned of an increasing number of sports injuries among people trying to make up for lost tim… ,Physiotherapists have warned increasing number sports injuries among people trying make lost,"['Physiotherapists', 'have', 'warned', 'increasing', 'number', 'sports', 'injuries', 'among', 'people', 'trying', 'make', 'lost']","['Physiotherapists', 'number', 'sports', 'injuries', 'people', 'make']",physiotherapist warn increas number sport injuri among peopl tri make lost tim… ,False,[],[],[],4
+1555,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1557,"RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.","RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.",Spread fake news These devotees tested negative then they entered into city,"['Spread', 'fake', 'news', 'These', 'devotees', 'tested', 'negative', 'then', 'they', 'entered', 'into', 'city']","['Spread', 'news', 'devotees', 'city']", don’t spread fake news devote test neg enter citi ,True,['@SudarshanNewsTV'],[],[],4
+1564,"RT @robmanuel: Here's the link btw. Not that you can't google yourself, but also 25+ years in the web industry tells me you get more clicks…","RT @robmanuel: Here's the link btw. Not that you can't google yourself, but also 25+ years in the web industry tells me you get more clicks…",Here link that google yourself also years industry tells more clicks,"['Here', 'link', 'that', 'google', 'yourself', 'also', 'years', 'industry', 'tells', 'more', 'clicks']","['google', 'years', 'industry', 'clicks']", link btw googl also  year web industri tell get clicks…,True,['@robmanuel'],[],[],4
+1574,RT @voiceforfair: @DrRPNishank @narendramodi @PMOIndia @drharshvardhan @MoHFW_INDIA @PIB_India @EduMinOfIndia @DDNewslive @MIB_India Sir yo…,RT @voiceforfair: @DrRPNishank @narendramodi @PMOIndia @drharshvardhan @MoHFW_INDIA @PIB_India @EduMinOfIndia @DDNewslive @MIB_India Sir yo…,,[],[], sir yo…,True,['@voiceforfair'],"['@DrRPNishank', '@narendramodi', '@PMOIndia', '@drharshvardhan', '@MoHFW_INDIA', '@PIB_India', '@EduMinOfIndia', '@DDNewslive', '@MIB_India']",[],4
+1583,"RT @TheRegister: NHS COVID-19 app update blocked by Apple, Google over location privacy fears https://t.co/jj6hWvPcwr","RT @TheRegister: NHS COVID-19 app update blocked by Apple, Google over location privacy fears ",COVID update blocked Apple Google over location privacy fears,"['COVID', 'update', 'blocked', 'Apple', 'Google', 'over', 'location', 'privacy', 'fears']","['COVID', 'update', 'Apple', 'Google', 'location', 'privacy', 'fears']", nh covid  app updat block appl googl locat privaci fear ,True,['@TheRegister'],[],[],4
+1586,Ex-Pfizer science chief on the Covid lies: Part 3 https://t.co/7lwc7ZlFyc via @theconwom,Ex-Pfizer science chief on the Covid lies: Part 3  via @theconwom,Pfizer science chief Covid lies Part,"['Pfizer', 'science', 'chief', 'Covid', 'lies', 'Part']","['Pfizer', 'science', 'chief', 'Covid', 'Part']",ex pfizer scienc chief covid lie part  via ,False,[],['@theconwom'],[],4
+1599,"RT @AmhiDombivlikar: Can anyone please help to arrange bed for pregnant Covid positive patient in Kalyan as an emergency?
+
+Respiration is b…","RT @AmhiDombivlikar: Can anyone please help to arrange bed for pregnant Covid positive patient in Kalyan as an emergency?
+
+Respiration is b…",anyone please help arrange pregnant Covid positive patient Kalyan emergency Respiration,"['anyone', 'please', 'help', 'arrange', 'pregnant', 'Covid', 'positive', 'patient', 'Kalyan', 'emergency', 'Respiration']","['anyone', 'please', 'arrange', 'Covid', 'patient', 'Kalyan', 'emergency', 'Respiration']", anyon pleas help arrang bed pregnant covid posit patient kalyan emerg respir b…,True,['@AmhiDombivlikar'],[],[],4
+1611,"RT @PulseGhana: ‘COVID-19 but our music dey shake’ - We caught @JayBahd1 off guard at the airport but he still delivered!🔥🔥🔥
+
+#PulseGhana #…","RT @PulseGhana: ‘COVID-19 but our music dey shake’ - We caught @JayBahd1 off guard at the airport but he still delivered!🔥🔥🔥
+
+#PulseGhana #…",COVID music shake caught guard airport still delivered #PulseGhana,"['COVID', 'music', 'shake', 'caught', 'guard', 'airport', 'still', 'delivered', '#', 'PulseGhana']","['COVID', 'music', 'shake', 'airport', 'PulseGhana']", ‘covid  music dey shake’ caught guard airport still deliv 🔥🔥🔥 #pulseghana #…,True,['@PulseGhana'],['@JayBahd1'],['#PulseGhana'],4
+1620,"RT @paysupplystaff: More than 50,000 people in Wales 'have long Covid' https://t.co/bMYZA47V6M","RT @paysupplystaff: More than 50,000 people in Wales 'have long Covid' ",More than people Wales have long Covid,"['More', 'than', 'people', 'Wales', 'have', 'long', 'Covid']","['people', 'Wales', 'Covid']",   peopl wale long covid ,True,['@paysupplystaff'],[],[],4
+1638,"RT @AndyBird21: Oh look. 
+
+That Kent variant of the virus that’s never been isolated spreads quicker. 
+
+Suck it up fluoride guzzlers cus un…","RT @AndyBird21: Oh look. 
+
+That Kent variant of the virus that’s never been isolated spreads quicker. 
+
+Suck it up fluoride guzzlers cus un…",look That Kent variant virus that never been isolated spreads quicker Suck fluoride guzzlers,"['look', 'That', 'Kent', 'variant', 'virus', 'that', 'never', 'been', 'isolated', 'spreads', 'quicker', 'Suck', 'fluoride', 'guzzlers']","['look', 'Kent', 'variant', 'virus', 'spreads', 'Suck', 'fluoride', 'guzzlers']", oh look kent variant viru that’ never isol spread quicker suck fluorid guzzler cu un…,True,['@AndyBird21'],[],[],4
+1655,COVID-19 has created myriad big and small everyday challenges for many of us. Now that we understand there’s no def… https://t.co/9yI5Ym8TUa,COVID-19 has created myriad big and small everyday challenges for many of us. Now that we understand there’s no def… ,COVID created myriad small everyday challenges many that understand there,"['COVID', 'created', 'myriad', 'small', 'everyday', 'challenges', 'many', 'that', 'understand', 'there']","['COVID', 'challenges']",covid  creat myriad big small everyday challeng mani us understand there’ def… ,False,[],[],[],4
+1657,"Auto companies have had safety playbooks/protocols in place for over a year. They were meticulously laid out, they… https://t.co/MLTSTFx3y0","Auto companies have had safety playbooks/protocols in place for over a year. They were meticulously laid out, they… ",Auto companies have safety playbooks protocols place over year They were meticulously laid they,"['Auto', 'companies', 'have', 'safety', 'playbooks', 'protocols', 'place', 'over', 'year', 'They', 'were', 'meticulously', 'laid', 'they']","['Auto', 'companies', 'safety', 'playbooks', 'place', 'year']",auto compani safeti playbook protocol place year meticul laid they… ,False,[],[],[],4
+1661,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+1663,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+1668,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1679,RT @EmthonjeniWomen: Theme: Women in leadership achieving an equal future in a COVID 19 world https://t.co/uJmUAePtg8,RT @EmthonjeniWomen: Theme: Women in leadership achieving an equal future in a COVID 19 world ,Theme Women leadership achieving equal future COVID world,"['Theme', 'Women', 'leadership', 'achieving', 'equal', 'future', 'COVID', 'world']","['Theme', 'Women', 'leadership', 'future', 'COVID', 'world']", theme women leadership achiev equal futur covid  world ,True,['@EmthonjeniWomen'],[],[],4
+1680,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+1689,"@NBCNews she will now be a millionaire.  As the Mother of someone who died on Feb 11, 2021, thanks to the former, t… https://t.co/pQZ6Z1noFt","@NBCNews she will now be a millionaire.  As the Mother of someone who died on Feb 11, 2021, thanks to the former, t… ",will millionaire Mother someone died thanks former,"['will', 'millionaire', 'Mother', 'someone', 'died', 'thanks', 'former']","['Mother', 'someone', 'thanks']", millionair mother someon die feb   thank former t… ,False,[],['@NBCNews'],[],4
+1701,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1714,"RT @zoo_bear: By Monday evening, over 28 lakh devotees turned up for the second shahi snan in the Ganga. And according to medical departmen…","RT @zoo_bear: By Monday evening, over 28 lakh devotees turned up for the second shahi snan in the Ganga. And according to medical departmen…",Monday evening over lakh devotees turned second shahi snan Ganga according medical departmen,"['Monday', 'evening', 'over', 'lakh', 'devotees', 'turned', 'second', 'shahi', 'snan', 'Ganga', 'according', 'medical', 'departmen']","['Monday', 'evening', 'devotees', 'snan', 'Ganga', 'departmen']", monday even  lakh devote turn second shahi snan ganga accord medic departmen…,True,['@zoo_bear'],[],[],4
+1716,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1719,"RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+https://t.co/2ZfYNHnz7n","RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+",Meningitis cerebrospinal fluid leak after nasal swab testing COVID PubMed,"['Meningitis', 'cerebrospinal', 'fluid', 'leak', 'after', 'nasal', 'swab', 'testing', 'COVID', 'PubMed']","['Meningitis', 'fluid', 'leak', 'COVID', 'PubMed']", mening due cerebrospin fluid leak nasal swab test covid  pubm ,True,['@robinmonotti2'],[],[],4
+1720,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1742,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+1743,"RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+https://t.co/2ZfYNHnz7n","RT @robinmonotti2: Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+",Meningitis cerebrospinal fluid leak after nasal swab testing COVID PubMed,"['Meningitis', 'cerebrospinal', 'fluid', 'leak', 'after', 'nasal', 'swab', 'testing', 'COVID', 'PubMed']","['Meningitis', 'fluid', 'leak', 'COVID', 'PubMed']", mening due cerebrospin fluid leak nasal swab test covid  pubm ,True,['@robinmonotti2'],[],[],4
+1745,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1749,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+1752,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1763,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1781,"@Asad_Umar the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Covid… https://t.co/oHnetGNl96","@Asad_Umar the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Covid… ",opposition danger Covid inflation please make Pakistan free Covid,"['opposition', 'danger', 'Covid', 'inflation', 'please', 'make', 'Pakistan', 'free', 'Covid']","['opposition', 'danger', 'Covid', 'inflation', 'please', 'Pakistan', 'Covid']", opposit danger pti covid inflat sir pleas make pakistan free covid… ,False,[],['@Asad_Umar'],[],4
+1788,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1810,"RT @cnni: Foreign spying and interference in Canada last year hit levels not seen since the Cold War, in part because of vulnerabilities ca…","RT @cnni: Foreign spying and interference in Canada last year hit levels not seen since the Cold War, in part because of vulnerabilities ca…",Foreign spying interference Canada last year levels seen since Cold part because vulnerabilities,"['Foreign', 'spying', 'interference', 'Canada', 'last', 'year', 'levels', 'seen', 'since', 'Cold', 'part', 'because', 'vulnerabilities']","['Foreign', 'interference', 'Canada', 'year', 'levels', 'Cold', 'part', 'vulnerabilities']", foreign spi interfer canada last year hit level seen sinc cold war part vulner ca…,True,['@cnni'],[],[],4
+1812,"Large getherings, no social distancing, no masks. All COVID- inappropriate behaviour, when cases are rising day by… https://t.co/Pfk95eM8w6","Large getherings, no social distancing, no masks. All COVID- inappropriate behaviour, when cases are rising day by… ",Large getherings social distancing masks COVID inappropriate behaviour when cases rising,"['Large', 'getherings', 'social', 'distancing', 'masks', 'COVID', 'inappropriate', 'behaviour', 'when', 'cases', 'rising']","['getherings', 'masks', 'COVID', 'behaviour', 'cases']",larg gether social distanc mask covid inappropri behaviour case rise day by… ,False,[],[],[],4
+1822,@KenSmith001 @bruce_arthur This isn’t just a Covid problem. It’s a doug Ford problem. He gutted healthcare. Covid i… https://t.co/cde25T6bAw,@KenSmith001 @bruce_arthur This isn’t just a Covid problem. It’s a doug Ford problem. He gutted healthcare. Covid i… ,This just Covid problem doug Ford problem gutted healthcare Covid,"['This', 'just', 'Covid', 'problem', 'doug', 'Ford', 'problem', 'gutted', 'healthcare', 'Covid']","['Covid', 'problem', 'doug', 'Ford', 'problem', 'healthcare', 'Covid']", isn’t covid problem it’ doug ford problem gut healthcar covid i… ,False,[],"['@KenSmith001', '@bruce_arthur']",[],4
+1825,RT @ChetanMakker: Covid Patients        Covid Spreader https://t.co/RIitxJXCoc,RT @ChetanMakker: Covid Patients        Covid Spreader ,Covid Patients Covid Spreader,"['Covid', 'Patients', 'Covid', 'Spreader']","['Patients', 'Covid', 'Spreader']", covid patient covid spreader ,True,['@ChetanMakker'],[],[],4
+1834,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+1836,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+1845,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+1854,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1855,RT @AJ01601960: @DrRPNishank @narendramodi @PMOIndia @drharshvardhan @MoHFW_INDIA @PIB_India @EduMinOfIndia @DDNewslive @MIB_India oh reall…,RT @AJ01601960: @DrRPNishank @narendramodi @PMOIndia @drharshvardhan @MoHFW_INDIA @PIB_India @EduMinOfIndia @DDNewslive @MIB_India oh reall…,reall,['reall'],['reall'], oh reall…,True,['@AJ01601960'],"['@DrRPNishank', '@narendramodi', '@PMOIndia', '@drharshvardhan', '@MoHFW_INDIA', '@PIB_India', '@EduMinOfIndia', '@DDNewslive', '@MIB_India']",[],4
+1863,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+1894,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+1907,"More than 50,000 people in Wales 'have long Covid' - @marksmith1985
+
+| @long_covid | #LongCovid | @LongCovidWales |… https://t.co/PHo0jfFaOI","More than 50,000 people in Wales 'have long Covid' - @marksmith1985
+
+| @long_covid | #LongCovid | @LongCovidWales |… ",More than people Wales have long Covid #LongCovid,"['More', 'than', 'people', 'Wales', 'have', 'long', 'Covid', '#', 'LongCovid']","['people', 'Wales', 'Covid', 'LongCovid']",  peopl wale long covid #longcovid … ,False,[],"['@marksmith1985', '@long_covid', '@LongCovidWales']",['#LongCovid'],4
+1911,@BristOliver Is there a breakdown of vaccinated/non? I imagine they're dying 'with covid' rather than of?,@BristOliver Is there a breakdown of vaccinated/non? I imagine they're dying 'with covid' rather than of?,there breakdown vaccinated imagine they dying with covid rather than,"['there', 'breakdown', 'vaccinated', 'imagine', 'they', 'dying', 'with', 'covid', 'rather', 'than']","['imagine', 'covid']", breakdown vaccin non imagin die covid rather ,False,[],['@BristOliver'],[],4
+1914,UK automatic covid tracing hits yet another snag https://t.co/xN8KodzDJ4 https://t.co/DBGPUdv0hs,UK automatic covid tracing hits yet another snag  ,automatic covid tracing hits another snag,"['automatic', 'covid', 'tracing', 'hits', 'another', 'snag']","['covid', 'hits', 'snag']",uk automat covid trace hit yet anoth snag ,False,[],[],[],4
+1922,"RT @RAGHU6611: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Please s…","RT @RAGHU6611: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Please s…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call Please,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call', 'Please']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pleas s…,True,['@RAGHU6611'],[],[],4
+1930,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+1938,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+1944,RT @profnfenton: 1. This is a thread about the barriers to academic publication for work that challenges the ‘official narrative’ on Covid-…,RT @profnfenton: 1. This is a thread about the barriers to academic publication for work that challenges the ‘official narrative’ on Covid-…,This thread about barriers academic publication work that challenges official narrative Covid,"['This', 'thread', 'about', 'barriers', 'academic', 'publication', 'work', 'that', 'challenges', 'official', 'narrative', 'Covid']","['thread', 'barriers', 'publication', 'work', 'Covid']",  thread barrier academ public work challeng ‘offici narrative’ covid …,True,['@profnfenton'],[],[],4
+1960,"RT @VITPawanism: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblood…","RT @VITPawanism: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblood…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@VITPawanism'],['@hydblood'],[],4
+1962,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+1969,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+1990,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+2000,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2006,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+2009,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2018,Ontario man believed to be 1st Canadian with COVID-destroyed lungs to get double transplant https://t.co/0NmaWnd1Pb,Ontario man believed to be 1st Canadian with COVID-destroyed lungs to get double transplant ,Ontario believed Canadian with COVID destroyed lungs double transplant,"['Ontario', 'believed', 'Canadian', 'with', 'COVID', 'destroyed', 'lungs', 'double', 'transplant']","['Ontario', 'COVID', 'lungs', 'transplant']",ontario man believ st canadian covid destroy lung get doubl transplant ,False,[],[],[],4
+2036,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+2055,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+2063,Of course they are. Vaccine passports are how places that don't have a huge Covid problem intend on staying places… https://t.co/CA3Wbhi3vx,Of course they are. Vaccine passports are how places that don't have a huge Covid problem intend on staying places… ,course they Vaccine passports places that have huge Covid problem intend staying places,"['course', 'they', 'Vaccine', 'passports', 'places', 'that', 'have', 'huge', 'Covid', 'problem', 'intend', 'staying', 'places']","['course', 'passports', 'places', 'Covid', 'problem', 'intend', 'places']",cours vaccin passport place huge covid problem intend stay places… ,False,[],[],[],4
+2086,RT @constanzag77: Renowned Virologist Dr. Sucharit Bhakdi on Asymptomatic Carriers and Spreaders of Covid https://t.co/brQlbX7NuK,RT @constanzag77: Renowned Virologist Dr. Sucharit Bhakdi on Asymptomatic Carriers and Spreaders of Covid ,Renowned Virologist Sucharit Bhakdi Asymptomatic Carriers Spreaders Covid,"['Renowned', 'Virologist', 'Sucharit', 'Bhakdi', 'Asymptomatic', 'Carriers', 'Spreaders', 'Covid']","['Virologist', 'Sucharit', 'Bhakdi', 'Asymptomatic', 'Carriers', 'Spreaders', 'Covid']", renown virologist dr sucharit bhakdi asymptomat carrier spreader covid ,True,['@constanzag77'],[],[],4
+2093,"@Asad_Umar the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Covid… https://t.co/kYMbprxT93","@Asad_Umar the opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Covid… ",opposition danger Covid inflation please make Pakistan free Covid,"['opposition', 'danger', 'Covid', 'inflation', 'please', 'make', 'Pakistan', 'free', 'Covid']","['opposition', 'danger', 'Covid', 'inflation', 'please', 'Pakistan', 'Covid']", opposit danger pti covid inflat sir pleas make pakistan free covid… ,False,[],['@Asad_Umar'],[],4
+2095,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+2132,"RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.","RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.",Spread fake news These devotees tested negative then they entered into city,"['Spread', 'fake', 'news', 'These', 'devotees', 'tested', 'negative', 'then', 'they', 'entered', 'into', 'city']","['Spread', 'news', 'devotees', 'city']", don’t spread fake news devote test neg enter citi ,True,['@SudarshanNewsTV'],[],[],4
+2135,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2151,RT @pzfahad: Govt organizes golf tournament to spread COVID-19 among more people.,RT @pzfahad: Govt organizes golf tournament to spread COVID-19 among more people.,Govt organizes golf tournament spread COVID among more people,"['Govt', 'organizes', 'golf', 'tournament', 'spread', 'COVID', 'among', 'more', 'people']","['Govt', 'golf', 'spread', 'COVID', 'people']", govt organ golf tournament spread covid  among peopl ,True,['@pzfahad'],[],[],4
+2161,RT @kaafitweets: URGENTLY REQUIRED: B+ Plasma Donor— Someone who has recovered from Covid in the last 4 months @ Asian Hospital Faridabad…,RT @kaafitweets: URGENTLY REQUIRED: B+ Plasma Donor— Someone who has recovered from Covid in the last 4 months @ Asian Hospital Faridabad…,URGENTLY REQUIRED Plasma Donor Someone recovered from Covid last months Asian Hospital Faridabad,"['URGENTLY', 'REQUIRED', 'Plasma', 'Donor', 'Someone', 'recovered', 'from', 'Covid', 'last', 'months', 'Asian', 'Hospital', 'Faridabad']","['URGENTLY', 'REQUIRED', 'Plasma', 'Donor', 'Someone', 'Covid', 'months', 'Hospital', 'Faridabad']", urgent requir b plasma donor— someon recov covid last  month asian hospit faridabad…,True,['@kaafitweets'],[],[],4
+2166,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+2167,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+2179,"RT @Harshi56433414: #postponeneetpg
+Many doctors have tested covid +ve . Them travelling along with their families to diff places will only…","RT @Harshi56433414: #postponeneetpg
+Many doctors have tested covid +ve . Them travelling along with their families to diff places will only…",#postponeneetpg Many doctors have tested covid Them travelling along with their families diff places will only,"['#', 'postponeneetpg', 'Many', 'doctors', 'have', 'tested', 'covid', 'Them', 'travelling', 'along', 'with', 'their', 'families', 'diff', 'places', 'will', 'only']","['doctors', 'Them', 'families', 'places']", #postponeneetpg mani doctor test covid travel along famili diff place only…,True,['@Harshi56433414'],[],['#postponeneetpg'],4
+2181,"@MNCDFbombay Urgent requirement of Remdesvir injection for COVID patient in ICU@Jeevan Jyoti Trust hospital, Nallas… https://t.co/8iASYCgwlq","@MNCDFbombay Urgent requirement of Remdesvir injection for COVID patient in ICU@Jeevan Jyoti Trust hospital, Nallas… ",Urgent requirement Remdesvir injection COVID patient Jyoti Trust hospital Nallas,"['Urgent', 'requirement', 'Remdesvir', 'injection', 'COVID', 'patient', 'Jyoti', 'Trust', 'hospital', 'Nallas']","['requirement', 'Remdesvir', 'injection', 'COVID', 'patient', 'Jyoti', 'Trust', 'hospital', 'Nallas']", urgent requir remdesvir inject covid patient icu jyoti trust hospit nallas… ,False,[],"['@MNCDFbombay', '@Jeevan']",[],4
+2186,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2200,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+2202,"RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.","RT @SudarshanNewsTV: Don’t Spread fake news. These all devotees tested negative, then they entered into city.",Spread fake news These devotees tested negative then they entered into city,"['Spread', 'fake', 'news', 'These', 'devotees', 'tested', 'negative', 'then', 'they', 'entered', 'into', 'city']","['Spread', 'news', 'devotees', 'city']", don’t spread fake news devote test neg enter citi ,True,['@SudarshanNewsTV'],[],[],4
+2206,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+2210,102 test positive at #Kumbh!Only thing we can currently do is to wait and watch how many test positive for #covid-1… https://t.co/0tE5lXJLNh,102 test positive at #Kumbh!Only thing we can currently do is to wait and watch how many test positive for #covid-1… ,test positive #Kumbh Only thing currently wait watch many test positive #covid,"['test', 'positive', '#', 'Kumbh', 'Only', 'thing', 'currently', 'wait', 'watch', 'many', 'test', 'positive', '#', 'covid']","['Kumbh', 'thing', 'covid']", test posit #kumbh thing current wait watch mani test posit #covid … ,False,[],[],"['#Kumbh', '#covid-1']",4
+2214,"RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…","RT @TeamPowerSena: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TeamPowerSena'],['@hydblo'],[],4
+2216,"RT @LongCovidWales: More than 50,000 people in Wales 'have long Covid' - @marksmith1985
+
+| @long_covid | #LongCovid | @LongCovidWales | #Wa…","RT @LongCovidWales: More than 50,000 people in Wales 'have long Covid' - @marksmith1985
+
+| @long_covid | #LongCovid | @LongCovidWales | #Wa…",More than people Wales have long Covid #LongCovid,"['More', 'than', 'people', 'Wales', 'have', 'long', 'Covid', '#', 'LongCovid']","['people', 'Wales', 'Covid', 'LongCovid']",   peopl wale long covid #longcovid #wa…,True,['@LongCovidWales'],"['@marksmith1985', '@long_covid', '@LongCovidWales']","['#LongCovid', '#Wa']",4
+2225,RT @say_norita: In your face! you sorry excuse for a human being 🤬 Shameless https://t.co/kM9CdqzknR https://t.co/z4sHf6TCyC,RT @say_norita: In your face! you sorry excuse for a human being 🤬 Shameless  ,your face sorry excuse human being Shameless,"['your', 'face', 'sorry', 'excuse', 'human', 'being', 'Shameless']","['face', 'sorry', 'Shameless']", face sorri excus human 🤬 shameless ,True,['@say_norita'],[],[],4
+2227,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+2239,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2242,"RT @AOC: It’s taken a lot of work, but I’m proud to announce that FEMA is launching our funeral assistance program.
+
+Starting TODAY people…","RT @AOC: It’s taken a lot of work, but I’m proud to announce that FEMA is launching our funeral assistance program.
+
+Starting TODAY people…",taken work proud announce that FEMA launching funeral assistance program Starting TODAY people,"['taken', 'work', 'proud', 'announce', 'that', 'FEMA', 'launching', 'funeral', 'assistance', 'program', 'Starting', 'TODAY', 'people']","['work', 'announce', 'FEMA', 'assistance', 'program', 'TODAY', 'people']", it’ taken lot work i’m proud announc fema launch funer assist program start today people…,True,['@AOC'],[],[],4
+2245,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+2249,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+2250,@ExSecular @priyankac19 Looks like Sonia sena leadership has given her the MP seat to come with low level IQ type o… https://t.co/6nKHE9ZLxe,@ExSecular @priyankac19 Looks like Sonia sena leadership has given her the MP seat to come with low level IQ type o… ,Looks like Sonia sena leadership given seat come with level type,"['Looks', 'like', 'Sonia', 'sena', 'leadership', 'given', 'seat', 'come', 'with', 'level', 'type']","['Looks', 'Sonia', 'leadership', 'level', 'type']", look like sonia sena leadership given mp seat come low level iq type o… ,False,[],"['@ExSecular', '@priyankac19']",[],4
+2251,"@LozzaFox Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+https://t.co/2ZfYNHnz7n","@LozzaFox Meningitis due to cerebrospinal fluid leak after nasal swab testing for COVID-19 - PubMed
+",Meningitis cerebrospinal fluid leak after nasal swab testing COVID PubMed,"['Meningitis', 'cerebrospinal', 'fluid', 'leak', 'after', 'nasal', 'swab', 'testing', 'COVID', 'PubMed']","['Meningitis', 'fluid', 'leak', 'COVID', 'PubMed']", mening due cerebrospin fluid leak nasal swab test covid  pubm ,False,[],['@LozzaFox'],[],4
+2256,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2262,"RT @IamNikeejaaz: ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.""
+
+~#tue…","RT @IamNikeejaaz: ""If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.""
+
+~#tue…",want happy goal that commands your thoughts liberates your energy inspires your hopes #tue,"['want', 'happy', 'goal', 'that', 'commands', 'your', 'thoughts', 'liberates', 'your', 'energy', 'inspires', 'your', 'hopes', '#', 'tue']","['want', 'goal', 'thoughts', 'energy', 'inspires', 'hopes', 'tue']", want happi set goal command thought liber energi inspir hope #tue…,True,['@IamNikeejaaz'],[],['#tue'],4
+2266,"RT @RAGHU6611: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Please s…","RT @RAGHU6611: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Please s…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call Please,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call', 'Please']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  pleas s…,True,['@RAGHU6611'],[],[],4
+2267,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2270,RT @yanzabet: #Probiotic #yogurt molecules may calm #inflammatory storm seen in COVID patients https://t.co/xYsdgWCcYc @drdairy50 @VelvetCl…,RT @yanzabet: #Probiotic #yogurt molecules may calm #inflammatory storm seen in COVID patients  @drdairy50 @VelvetCl…,#Probiotic #yogurt molecules calm #inflammatory storm seen COVID patients,"['#', 'Probiotic', '#', 'yogurt', 'molecules', 'calm', '#', 'inflammatory', 'storm', 'seen', 'COVID', 'patients']","['yogurt', 'molecules', 'storm', 'COVID', 'patients']", #probiotic #yogurt molecul may calm #inflammatory storm seen covid patient …,True,['@yanzabet'],"['@drdairy50', '@VelvetCl']","['#Probiotic', '#yogurt', '#inflammatory']",4
+2283,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+2295,"RT @AOC: Some addt’l info:
+
+- Death certificate must list COVID as primary or contributing cause. If COVID wasn’t listed for your loved one…","RT @AOC: Some addt’l info:
+
+- Death certificate must list COVID as primary or contributing cause. If COVID wasn’t listed for your loved one…",Some addt info Death certificate must list COVID primary contributing cause COVID wasn listed your loved,"['Some', 'addt', 'info', 'Death', 'certificate', 'must', 'list', 'COVID', 'primary', 'contributing', 'cause', 'COVID', 'wasn', 'listed', 'your', 'loved']","['Death', 'certificate', 'COVID', 'contributing', 'cause', 'COVID', 'wasn']", addt’l info death certif must list covid primari contribut caus covid wasn’t list love one…,True,['@AOC'],[],[],4
+2319,"RT @AJEnglish: How is Chile using copper in fabric, door handles and tables to fight COVID-19? 👇 https://t.co/XbdhY0IVvj","RT @AJEnglish: How is Chile using copper in fabric, door handles and tables to fight COVID-19? 👇 ",Chile using copper fabric door handles tables fight COVID,"['Chile', 'using', 'copper', 'fabric', 'door', 'handles', 'tables', 'fight', 'COVID']","['Chile', 'copper', 'fabric', 'door', 'handles', 'tables', 'COVID']", chile use copper fabric door handl tabl fight covid  👇 ,True,['@AJEnglish'],[],[],4
+2322,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+2332,"RT @IDC_EMEA: The #COVID19 pandemic has presented an array of novel challenges for #healthcare systems. Now, they are building more resilie…","RT @IDC_EMEA: The #COVID19 pandemic has presented an array of novel challenges for #healthcare systems. Now, they are building more resilie…",#COVID pandemic presented array novel challenges #healthcare systems they building more resilie,"['#', 'COVID', 'pandemic', 'presented', 'array', 'novel', 'challenges', '#', 'healthcare', 'systems', 'they', 'building', 'more', 'resilie']","['COVID', 'pandemic', 'challenges', 'healthcare', 'systems', 'resilie']", #covid pandem present array novel challeng #healthcare system build resilie…,True,['@IDC_EMEA'],[],"['#COVID19', '#healthcare']",4
+2356,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,RT @imchandanRay: Gov’t should be held responsible. Why the Gov’t are forcing our future stars to sit for the exams during this fast-spread…,should held responsible forcing future stars exams during this fast spread,"['should', 'held', 'responsible', 'forcing', 'future', 'stars', 'exams', 'during', 'this', 'fast', 'spread']","['future', 'stars', 'spread']", gov’t held respons gov’t forc futur star sit exam fast spread…,True,['@imchandanRay'],[],[],4
+2373,"@Asad_Umar, The opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Covid… https://t.co/YIxj0SU8UN","@Asad_Umar, The opposition is not a danger for PTI but Covid and inflation.
+Sir, please make Pakistan free of Covid… ",opposition danger Covid inflation please make Pakistan free Covid,"['opposition', 'danger', 'Covid', 'inflation', 'please', 'make', 'Pakistan', 'free', 'Covid']","['opposition', 'danger', 'Covid', 'inflation', 'please', 'Pakistan', 'Covid']", opposit danger pti covid inflat sir pleas make pakistan free covid… ,False,[],['@Asad_Umar'],[],4
+2385,RT @latokens: Cities for the post-COVID future https://t.co/ZZkDhafdS3,RT @latokens: Cities for the post-COVID future ,Cities post COVID future,"['Cities', 'post', 'COVID', 'future']","['Cities', 'COVID', 'future']", citi post covid futur ,True,['@latokens'],[],[],4
+2387,"RT @LBFEW: .@AllianceFre latest report, ‘A quantitative analysis of the emergency funding to the UK Black and Minority Ethnic Voluntary Sec…","RT @LBFEW: .@AllianceFre latest report, ‘A quantitative analysis of the emergency funding to the UK Black and Minority Ethnic Voluntary Sec…",latest report quantitative analysis emergency funding Black Minority Ethnic Voluntary,"['latest', 'report', 'quantitative', 'analysis', 'emergency', 'funding', 'Black', 'Minority', 'Ethnic', 'Voluntary']","['report', 'analysis', 'emergency', 'Black', 'Minority', 'Ethnic', 'Voluntary']", latest report ‘a quantit analysi emerg fund uk black minor ethnic voluntari sec…,True,['@LBFEW'],['@AllianceFre'],[],4
+2389,"RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…","RT @DipshikhaGhosh: Please, please wear masks. I don’t know about other people but I’m physically and mentally exhausted with crazy shifts…",Please please wear masks know about other people physically mentally exhausted with crazy shifts,"['Please', 'please', 'wear', 'masks', 'know', 'about', 'other', 'people', 'physically', 'mentally', 'exhausted', 'with', 'crazy', 'shifts']","['please', 'masks', 'people', 'shifts']", pleas pleas wear mask don’t know peopl i’m physic mental exhaust crazi shifts…,True,['@DipshikhaGhosh'],[],[],4
+2404,"RT @TheMendozaWoman: Gyms and pubs are still closed in Wales.
+
+Would be great if the BBC bothered to learn what’s happening outside of Lond…","RT @TheMendozaWoman: Gyms and pubs are still closed in Wales.
+
+Would be great if the BBC bothered to learn what’s happening outside of Lond…",Gyms pubs still closed Wales Would great bothered learn what happening outside Lond,"['Gyms', 'pubs', 'still', 'closed', 'Wales', 'Would', 'great', 'bothered', 'learn', 'what', 'happening', 'outside', 'Lond']","['Gyms', 'pubs', 'Wales', 'Would', 'Lond']", gym pub still close wale would great bbc bother learn what’ happen outsid lond…,True,['@TheMendozaWoman'],[],[],4
+2407,"RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…","RT @TrendPSPK: Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: 7093171843
+
+@hydblooddo…",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please']", friend emerg requir blood covid place ntr trust hyderabad pleas call  …,True,['@TrendPSPK'],['@hydblooddo'],[],4
+2409,"RT @mojos55: Apple and Google block UK NHS Covid app update on privacy grounds
+An update to the UK’s Track and Trace’ app set to go live on…","RT @mojos55: Apple and Google block UK NHS Covid app update on privacy grounds
+An update to the UK’s Track and Trace’ app set to go live on…",Apple Google block Covid update privacy grounds update Track Trace live,"['Apple', 'Google', 'block', 'Covid', 'update', 'privacy', 'grounds', 'update', 'Track', 'Trace', 'live']","['Apple', 'Google', 'block', 'Covid', 'update', 'privacy', 'grounds', 'Track', 'Trace']", appl googl block uk nh covid app updat privaci ground updat uk’ track trace’ app set go live on…,True,['@mojos55'],[],[],4
+2419,"RT @Khan__Warisha: When Sorry-worker was busy planning assassination of MK Gandhi ji , Nehru Ji laid foundation of Bhubaneswar (probably fi…","RT @Khan__Warisha: When Sorry-worker was busy planning assassination of MK Gandhi ji , Nehru Ji laid foundation of Bhubaneswar (probably fi…",When Sorry worker busy planning assassination Gandhi Nehru laid foundation Bhubaneswar probably,"['When', 'Sorry', 'worker', 'busy', 'planning', 'assassination', 'Gandhi', 'Nehru', 'laid', 'foundation', 'Bhubaneswar', 'probably']","['Sorry', 'worker', 'assassination', 'Gandhi', 'Nehru', 'foundation', 'Bhubaneswar']", sorri worker busi plan assassin mk gandhi ji nehru ji laid foundat bhubaneswar probabl fi…,True,['@Khan__Warisha'],[],[],4
+2436,"RT @Khan__Warisha: When Sorry-worker was busy planning assassination of MK Gandhi ji , Nehru Ji laid foundation of Bhubaneswar (probably fi…","RT @Khan__Warisha: When Sorry-worker was busy planning assassination of MK Gandhi ji , Nehru Ji laid foundation of Bhubaneswar (probably fi…",When Sorry worker busy planning assassination Gandhi Nehru laid foundation Bhubaneswar probably,"['When', 'Sorry', 'worker', 'busy', 'planning', 'assassination', 'Gandhi', 'Nehru', 'laid', 'foundation', 'Bhubaneswar', 'probably']","['Sorry', 'worker', 'assassination', 'Gandhi', 'Nehru', 'foundation', 'Bhubaneswar']", sorri worker busi plan assassin mk gandhi ji nehru ji laid foundat bhubaneswar probabl fi…,True,['@Khan__Warisha'],[],[],4
+2442,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2463,"RT @TimesNow: Kumbh Mela 2021: 102 devotees test COVID-19 positive in Haridwar after ‘shahi snan’, says report.
+
+https://t.co/TkovjG0LOf","RT @TimesNow: Kumbh Mela 2021: 102 devotees test COVID-19 positive in Haridwar after ‘shahi snan’, says report.
+
+",Kumbh Mela devotees test COVID positive Haridwar after shahi snan says report,"['Kumbh', 'Mela', 'devotees', 'test', 'COVID', 'positive', 'Haridwar', 'after', 'shahi', 'snan', 'says', 'report']","['Kumbh', 'Mela', 'COVID', 'Haridwar', 'shahi', 'snan', 'report']", kumbh mela   devote test covid  posit haridwar ‘shahi snan’ say report ,True,['@TimesNow'],[],[],4
+2466,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2494,"RT @babablahblah_: I really don't care if Kohli or Malan get a 30 cr deal..
+I care more about people like Chetan Sakariya getting a 1Cr dea…","RT @babablahblah_: I really don't care if Kohli or Malan get a 30 cr deal..
+I care more about people like Chetan Sakariya getting a 1Cr dea…",really care Kohli Malan deal care more about people like Chetan Sakariya getting,"['really', 'care', 'Kohli', 'Malan', 'deal', 'care', 'more', 'about', 'people', 'like', 'Chetan', 'Sakariya', 'getting']","['Kohli', 'Malan', 'people', 'Chetan', 'Sakariya']", realli care kohli malan get  cr deal care peopl like chetan sakariya get cr dea…,True,['@babablahblah_'],[],[],4
+2497,RT @mixupindia1: Wow suddenly covid is over? Pandemic is finished?! Really loved this scenario. If this type of gathering can take place th…,RT @mixupindia1: Wow suddenly covid is over? Pandemic is finished?! Really loved this scenario. If this type of gathering can take place th…,suddenly covid over Pandemic finished Really loved this scenario this type gathering take place,"['suddenly', 'covid', 'over', 'Pandemic', 'finished', 'Really', 'loved', 'this', 'scenario', 'this', 'type', 'gathering', 'take', 'place']","['Pandemic', 'scenario', 'type', 'place']", wow suddenli covid pandem finish realli love scenario type gather take place th…,True,['@mixupindia1'],[],[],4
+2505,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2508,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,young bull elephant Kusha India recaptured tortured after escaping from Dubare camp find mate,"['young', 'bull', 'elephant', 'Kusha', 'India', 'recaptured', 'tortured', 'after', 'escaping', 'from', 'Dubare', 'camp', 'find', 'mate']","['bull', 'elephant', 'Kusha', 'India', 'Dubare', 'camp', 'find', 'mate']", young bull eleph kusha india recaptur tortur escap dubar “camp” find mate s…,True,['@stae_elephants'],[],[],4
+2536,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,young bull elephant Kusha India recaptured tortured after escaping from Dubare camp find mate,"['young', 'bull', 'elephant', 'Kusha', 'India', 'recaptured', 'tortured', 'after', 'escaping', 'from', 'Dubare', 'camp', 'find', 'mate']","['bull', 'elephant', 'Kusha', 'India', 'Dubare', 'camp', 'find', 'mate']", young bull eleph kusha india recaptur tortur escap dubar “camp” find mate s…,True,['@stae_elephants'],[],[],4
+2539,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2542,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2547,"RT @QuintNeon: Pandemic, what's that?
+(In video: Recent footage from the Kumbh Mela, Haridwar)
+
+#corona #coronamemes #coronaviruspandemic #…","RT @QuintNeon: Pandemic, what's that?
+(In video: Recent footage from the Kumbh Mela, Haridwar)
+
+#corona #coronamemes #coronaviruspandemic #…",Pandemic what that video Recent footage from Kumbh Mela Haridwar #corona #coronamemes #coronaviruspandemic,"['Pandemic', 'what', 'that', 'video', 'Recent', 'footage', 'from', 'Kumbh', 'Mela', 'Haridwar', '#', 'corona', '#', 'coronamemes', '#', 'coronaviruspandemic']","['Recent', 'footage', 'Kumbh', 'Mela', 'Haridwar', 'coronamemes']", pandem video recent footag kumbh mela haridwar #corona #coronamemes #coronaviruspandemic #…,True,['@QuintNeon'],[],"['#corona', '#coronamemes', '#coronaviruspandemic']",4
+2548,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2555,RT @mixupindia1: Wow suddenly covid is over? Pandemic is finished?! Really loved this scenario. If this type of gathering can take place th…,RT @mixupindia1: Wow suddenly covid is over? Pandemic is finished?! Really loved this scenario. If this type of gathering can take place th…,suddenly covid over Pandemic finished Really loved this scenario this type gathering take place,"['suddenly', 'covid', 'over', 'Pandemic', 'finished', 'Really', 'loved', 'this', 'scenario', 'this', 'type', 'gathering', 'take', 'place']","['Pandemic', 'scenario', 'type', 'place']", wow suddenli covid pandem finish realli love scenario type gather take place th…,True,['@mixupindia1'],[],[],4
+2557,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2577,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2591,RT @payalbhayana: My friend posted these pics from kumbh 2021.Why international media showing last years pics and so are leftist liberal me…,RT @payalbhayana: My friend posted these pics from kumbh 2021.Why international media showing last years pics and so are leftist liberal me…,friend posted these pics from kumbh international media showing last years pics leftist liberal,"['friend', 'posted', 'these', 'pics', 'from', 'kumbh', 'international', 'media', 'showing', 'last', 'years', 'pics', 'leftist', 'liberal']","['friend', 'pics', 'media', 'years', 'pics']", friend post pic kumbh  intern media show last year pic leftist liber me…,True,['@payalbhayana'],[],[],4
+2601,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2619,"RT @Cryptic_Miind: Nehru will be remembered for setting up the foundation of Modern India.
+
+Indira Gandhi will be remembered for making Ban…","RT @Cryptic_Miind: Nehru will be remembered for setting up the foundation of Modern India.
+
+Indira Gandhi will be remembered for making Ban…",Nehru will remembered setting foundation Modern India Indira Gandhi will remembered making,"['Nehru', 'will', 'remembered', 'setting', 'foundation', 'Modern', 'India', 'Indira', 'Gandhi', 'will', 'remembered', 'making']","['Nehru', 'foundation', 'Modern', 'India', 'Indira', 'Gandhi', 'making']", nehru rememb set foundat modern india indira gandhi rememb make ban…,True,['@Cryptic_Miind'],[],[],4
+2646,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2647,RT @thedevil_ind: Tweeting from Android to tell Apple boss that they are biggest users 🤣🤣🤣🤣🤣🤣 https://t.co/IJuIR0mKNt,RT @thedevil_ind: Tweeting from Android to tell Apple boss that they are biggest users 🤣🤣🤣🤣🤣🤣 ,Tweeting from Android tell Apple boss that they biggest users,"['Tweeting', 'from', 'Android', 'tell', 'Apple', 'boss', 'that', 'they', 'biggest', 'users']","['Android', 'tell', 'Apple', 'boss', 'users']", tweet android tell appl boss biggest user 🤣🤣🤣🤣🤣🤣 ,True,['@thedevil_ind'],[],[],4
+2648,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2649,"RT @Soumya_Addya: 3.5% Bhramins always tried to hijack and divert the history of Mulnivasi community.
+
+But in the leadership of @WamanCMesh…","RT @Soumya_Addya: 3.5% Bhramins always tried to hijack and divert the history of Mulnivasi community.
+
+But in the leadership of @WamanCMesh…",Bhramins always tried hijack divert history Mulnivasi community leadership,"['Bhramins', 'always', 'tried', 'hijack', 'divert', 'history', 'Mulnivasi', 'community', 'leadership']","['Bhramins', 'history', 'Mulnivasi', 'community', 'leadership']",   bhramin alway tri hijack divert histori mulnivasi commun leadership …,True,['@Soumya_Addya'],['@WamanCMesh'],[],4
+2665,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2686,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,young bull elephant Kusha India recaptured tortured after escaping from Dubare camp find mate,"['young', 'bull', 'elephant', 'Kusha', 'India', 'recaptured', 'tortured', 'after', 'escaping', 'from', 'Dubare', 'camp', 'find', 'mate']","['bull', 'elephant', 'Kusha', 'India', 'Dubare', 'camp', 'find', 'mate']", young bull eleph kusha india recaptur tortur escap dubar “camp” find mate s…,True,['@stae_elephants'],[],[],4
+2701,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2714,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2720,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2759,"Aster allows NRI’s to play active role in healthcare management of their families in India
+https://t.co/O9KmM3e2tk https://t.co/HAkftwKirx","Aster allows NRI’s to play active role in healthcare management of their families in India
+ ",Aster allows play active role healthcare management their families India,"['Aster', 'allows', 'play', 'active', 'role', 'healthcare', 'management', 'their', 'families', 'India']","['Aster', 'role', 'healthcare', 'management', 'families', 'India']",aster allow nri’ play activ role healthcar manag famili india ,False,[],[],[],4
+2764,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2780,@seemapotdar_INC @NANA_PATOLE @abhijitsapkal1 @AdvYashomatiINC @CMOMaharashtra @SandhyaINC @charulata_tokas… https://t.co/w4fFwUFGSJ,@seemapotdar_INC @NANA_PATOLE @abhijitsapkal1 @AdvYashomatiINC @CMOMaharashtra @SandhyaINC @charulata_tokas… ,,[],[], … ,False,[],"['@seemapotdar_INC', '@NANA_PATOLE', '@abhijitsapkal1', '@AdvYashomatiINC', '@CMOMaharashtra', '@SandhyaINC', '@charulata_tokas']",[],4
+2783,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2792,RT @bprerna: Who cares! It's all about 'shahi-snan' (holy dip).,RT @bprerna: Who cares! It's all about 'shahi-snan' (holy dip).,cares about shahi snan holy,"['cares', 'about', 'shahi', 'snan', 'holy']","['cares', 'shahi', 'snan', 'holy']", care shahi snan holi dip ,True,['@bprerna'],[],[],4
+2793,@PVishwamohan @BhootSantosh @samarjeet_n @GenPanwar @Soldier_forlife @malviyapankaj @rsprasad but I prefer people g… https://t.co/jxtIoTG9tC,@PVishwamohan @BhootSantosh @samarjeet_n @GenPanwar @Soldier_forlife @malviyapankaj @rsprasad but I prefer people g… ,prefer people,"['prefer', 'people']","['prefer', 'people']", prefer peopl g… ,False,[],"['@PVishwamohan', '@BhootSantosh', '@samarjeet_n', '@GenPanwar', '@Soldier_forlife', '@malviyapankaj', '@rsprasad']",[],4
+2835,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+2841,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+2869,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+2879,RT @rohini_sgh: Just as @RahulGandhi had been insisting all along. After mocking and abusing him and shrieking that no one takes him seriou…,RT @rohini_sgh: Just as @RahulGandhi had been insisting all along. After mocking and abusing him and shrieking that no one takes him seriou…,Just been insisting along After mocking abusing shrieking that takes seriou,"['Just', 'been', 'insisting', 'along', 'After', 'mocking', 'abusing', 'shrieking', 'that', 'takes', 'seriou']",['seriou'], insist along mock abus shriek one take seriou…,True,['@rohini_sgh'],['@RahulGandhi'],[],4
+2885,"RT @hdscoups: If you have iTunes but can't buy PLEASE DM THEM !!! they will sponsor you !!!
+
+Phillipines -
+@MOSHIMAGU @naiwongbao_ @dalyaha…","RT @hdscoups: If you have iTunes but can't buy PLEASE DM THEM !!! they will sponsor you !!!
+
+Phillipines -
+@MOSHIMAGU @naiwongbao_ @dalyaha…",have iTunes PLEASE THEM they will sponsor Phillipines,"['have', 'iTunes', 'PLEASE', 'THEM', 'they', 'will', 'sponsor', 'Phillipines']","['iTunes', 'PLEASE', 'THEM', 'Phillipines']", itun buy pleas dm sponsor phillipin …,True,['@hdscoups'],"['@MOSHIMAGU', '@naiwongbao_', '@dalyaha']",[],4
+2904,"RT @AtshoppingM: @TheQuint Why these people are not talking precautionary measure at least they have to be social distances.
+They are sprea…","RT @AtshoppingM: @TheQuint Why these people are not talking precautionary measure at least they have to be social distances.
+They are sprea…",these people talking precautionary measure least they have social distances They sprea,"['these', 'people', 'talking', 'precautionary', 'measure', 'least', 'they', 'have', 'social', 'distances', 'They', 'sprea']","['people', 'measure', 'distances']", peopl talk precautionari measur least social distanc sprea…,True,['@AtshoppingM'],['@TheQuint'],[],4
+2921,RT @payalbhayana: My friend posted these pics from kumbh 2021.Why international media showing last years pics and so are leftist liberal me…,RT @payalbhayana: My friend posted these pics from kumbh 2021.Why international media showing last years pics and so are leftist liberal me…,friend posted these pics from kumbh international media showing last years pics leftist liberal,"['friend', 'posted', 'these', 'pics', 'from', 'kumbh', 'international', 'media', 'showing', 'last', 'years', 'pics', 'leftist', 'liberal']","['friend', 'pics', 'media', 'years', 'pics']", friend post pic kumbh  intern media show last year pic leftist liber me…,True,['@payalbhayana'],[],[],4
+2955,RT @jigneshmevani80: Speechless,RT @jigneshmevani80: Speechless,Speechless,['Speechless'],['Speechless'], speechless,True,['@jigneshmevani80'],[],[],4
+2968,Same to you! ✨ https://t.co/Ht2cAarGgV,Same to you! ✨ ,Same,['Same'],['Same'],✨ ,False,[],[],[],4
+2978,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,RT @stae_elephants: A young bull elephant Kusha in S India was recaptured and tortured after escaping from Dubare “camp” to find a mate.  S…,young bull elephant Kusha India recaptured tortured after escaping from Dubare camp find mate,"['young', 'bull', 'elephant', 'Kusha', 'India', 'recaptured', 'tortured', 'after', 'escaping', 'from', 'Dubare', 'camp', 'find', 'mate']","['bull', 'elephant', 'Kusha', 'India', 'Dubare', 'camp', 'find', 'mate']", young bull eleph kusha india recaptur tortur escap dubar “camp” find mate s…,True,['@stae_elephants'],[],[],4
+2979,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+3039,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+3054,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+3056,"RT @Khan__Warisha: When Sorry-worker was busy planning assassination of MK Gandhi ji , Nehru Ji laid foundation of Bhubaneswar (probably fi…","RT @Khan__Warisha: When Sorry-worker was busy planning assassination of MK Gandhi ji , Nehru Ji laid foundation of Bhubaneswar (probably fi…",When Sorry worker busy planning assassination Gandhi Nehru laid foundation Bhubaneswar probably,"['When', 'Sorry', 'worker', 'busy', 'planning', 'assassination', 'Gandhi', 'Nehru', 'laid', 'foundation', 'Bhubaneswar', 'probably']","['Sorry', 'worker', 'assassination', 'Gandhi', 'Nehru', 'foundation', 'Bhubaneswar']", sorri worker busi plan assassin mk gandhi ji nehru ji laid foundat bhubaneswar probabl fi…,True,['@Khan__Warisha'],[],[],4
+3068,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+3080,"RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…","RT @MahuaMoitra: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive
+
+Good job ModiShah, good job YogiCM for ke…",Kumbh Covid guard slips thermal screening masks test positive Good ModiShah good YogiCM,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'Good', 'ModiShah', 'good', 'YogiCM']","['Kumbh', 'Covid', 'guard', 'test', 'Good', 'ModiShah', 'YogiCM']", kumbh covid guard slip thermal screen mask  test posit good job modishah good job yogicm ke…,True,['@MahuaMoitra'],[],[],4
+3099,RT @ItsMeKingKhan: Last one is fake deshbhagti made chindi star,RT @ItsMeKingKhan: Last one is fake deshbhagti made chindi star,Last fake deshbhagti made chindi star,"['Last', 'fake', 'deshbhagti', 'made', 'chindi', 'star']","['fake', 'deshbhagti', 'chindi', 'star']", last one fake deshbhagti made chindi star,True,['@ItsMeKingKhan'],[],[],4
+3130,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+3154,"RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…","RT @imwonwoo1796: Minghao #SIDEBYSIDE_NEXT_TO_THE8 is trending
+#1 Worldwide
+#1 Indonesia
+#1 Chile
+#1 Mexico
+#1 Malaysia
+#1 Philippines
+#2 U…",Minghao #SIDEBYSIDE NEXT trending Worldwide Indonesia Chile Mexico Malaysia Philippines,"['Minghao', '#', 'SIDEBYSIDE', 'NEXT', 'trending', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']","['Minghao', 'SIDEBYSIDE', 'NEXT', 'Worldwide', 'Indonesia', 'Chile', 'Mexico', 'Malaysia', 'Philippines']", minghao #sidebyside next trend # worldwid # indonesia # chile # mexico # malaysia # philippin # u…,True,['@imwonwoo1796'],[],['#SIDEBYSIDE_NEXT_TO_THE8'],4
+3164,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+3179,"RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…","RT @RanaAyyub: At Kumbh, Covid guard slips: No thermal screening, few masks, 102 test positive. With close to 3.1 million in attendance, mo…",Kumbh Covid guard slips thermal screening masks test positive With close million attendance,"['Kumbh', 'Covid', 'guard', 'slips', 'thermal', 'screening', 'masks', 'test', 'positive', 'With', 'close', 'million', 'attendance']","['Kumbh', 'Covid', 'guard', 'test', 'attendance']", kumbh covid guard slip thermal screen mask  test posit close   million attend mo…,True,['@RanaAyyub'],[],[],4
+3209,"RT @RituRathaur: Posters asking for beheading of @NarsinghVani ji have been put up in UP by religious bigot Owaisi's AIMIM
+
+Forget security…","RT @RituRathaur: Posters asking for beheading of @NarsinghVani ji have been put up in UP by religious bigot Owaisi's AIMIM
+
+Forget security…",Posters asking beheading have been religious bigot Owaisi AIMIM Forget security,"['Posters', 'asking', 'beheading', 'have', 'been', 'religious', 'bigot', 'Owaisi', 'AIMIM', 'Forget', 'security']","['Posters', 'beheading', 'bigot', 'Owaisi', 'AIMIM', 'Forget', 'security']", poster ask behead ji put religi bigot owaisi aimim forget security…,True,['@RituRathaur'],['@NarsinghVani'],[],4
+3252,RT @payalbhayana: My friend posted these pics from kumbh 2021.Why international media showing last years pics and so are leftist liberal me…,RT @payalbhayana: My friend posted these pics from kumbh 2021.Why international media showing last years pics and so are leftist liberal me…,friend posted these pics from kumbh international media showing last years pics leftist liberal,"['friend', 'posted', 'these', 'pics', 'from', 'kumbh', 'international', 'media', 'showing', 'last', 'years', 'pics', 'leftist', 'liberal']","['friend', 'pics', 'media', 'years', 'pics']", friend post pic kumbh  intern media show last year pic leftist liber me…,True,['@payalbhayana'],[],[],4
+3271,#RoyalMalaysianAirForce (#RMAF) looking for new #fighterjet #Malaysia #JF17 #Pakistan #FA50 #SouthKorea #Tejas… https://t.co/Sf3jvJdemC,#RoyalMalaysianAirForce (#RMAF) looking for new #fighterjet #Malaysia #JF17 #Pakistan #FA50 #SouthKorea #Tejas… ,#RoyalMalaysianAirForce #RMAF looking #fighterjet #Malaysia #Pakistan #SouthKorea #Tejas,"['#', 'RoyalMalaysianAirForce', '#', 'RMAF', 'looking', '#', 'fighterjet', '#', 'Malaysia', '#', 'Pakistan', '#', 'SouthKorea', '#', 'Tejas']","['RoyalMalaysianAirForce', 'RMAF', 'Malaysia', 'Pakistan', 'SouthKorea', 'Tejas']",#royalmalaysianairforce #rmaf look new #fighterjet #malaysia #jf #pakistan #fa #southkorea #tejas… ,False,[],[],"['#RoyalMalaysianAirForce', '#RMAF', '#fighterjet', '#Malaysia', '#JF17', '#Pakistan', '#FA50', '#SouthKorea', '#Tejas']",4

@@ -1,0 +1,817 @@
+,Tweets,new,tidy_text,tok,nouns,clean_tweet,is_retweet,retweeted,mentioned,hashtags,cluster
+0,RT @Joydas: When Is the Last Election Rally of Narendra Modi in West Bengal? That’s the Day Election Commission will decide too many Covid…,RT @Joydas: When Is the Last Election Rally of Narendra Modi in West Bengal? That’s the Day Election Commission will decide too many Covid…,When Last Election Rally Narendra Modi West Bengal That Election Commission will decide many Covid,"['When', 'Last', 'Election', 'Rally', 'Narendra', 'Modi', 'West', 'Bengal', 'That', 'Election', 'Commission', 'will', 'decide', 'many', 'Covid']","['Election', 'Rally', 'Narendra', 'Modi', 'West', 'Bengal', 'That', 'Election', 'Commission', 'Covid']", last elect ralli narendra modi west bengal that’ day elect commiss decid mani covid…,True,['@Joydas'],[],[],9
+2,RT @LiveLawIndia: Can Centre Intervene If A State Is Not Doing Well? High Court Asks About Gujarat COVID Situation https://t.co/32pOeI2QGU,RT @LiveLawIndia: Can Centre Intervene If A State Is Not Doing Well? High Court Asks About Gujarat COVID Situation ,Centre Intervene State Doing Well High Court Asks About Gujarat COVID Situation,"['Centre', 'Intervene', 'State', 'Doing', 'Well', 'High', 'Court', 'Asks', 'About', 'Gujarat', 'COVID', 'Situation']","['Centre', 'Intervene', 'State', 'Doing', 'Well', 'High', 'Court', 'Asks', 'Gujarat', 'COVID', 'Situation']", centr interven state well high court ask gujarat covid situat ,True,['@LiveLawIndia'],[],[],9
+4,"RT @NagpurKaRajini: So Covid in Maharashtra spread because of Modi's rally in West Bengal... People roamed around freely, they never wore m…","RT @NagpurKaRajini: So Covid in Maharashtra spread because of Modi's rally in West Bengal... People roamed around freely, they never wore m…",Covid Maharashtra spread because Modi rally West Bengal People roamed around freely they never wore,"['Covid', 'Maharashtra', 'spread', 'because', 'Modi', 'rally', 'West', 'Bengal', 'People', 'roamed', 'around', 'freely', 'they', 'never', 'wore']","['Covid', 'Maharashtra', 'spread', 'Modi', 'West', 'Bengal', 'People']", covid maharashtra spread modi ralli west bengal peopl roam around freeli never wore m…,True,['@NagpurKaRajini'],[],[],9
+48,Police charge organizers of Lethbridge house party that violated COVID-19 rules https://t.co/8lXDU35PIG #Covid #yql,Police charge organizers of Lethbridge house party that violated COVID-19 rules  #Covid #yql,Police charge organizers Lethbridge house party that violated COVID rules #Covid #yql,"['Police', 'charge', 'organizers', 'Lethbridge', 'house', 'party', 'that', 'violated', 'COVID', 'rules', '#', 'Covid', '#', 'yql']","['Police', 'charge', 'organizers', 'Lethbridge', 'house', 'party', 'COVID', 'rules', 'Covid', 'yql']",polic charg organ lethbridg hous parti violat covid  rule #covid #yq,False,[],[],"['#Covid', '#yql']",9
+67,"RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…","RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…",Cholera Epidemic Broke Kumbh Mela Around People died week After that Sixth Cholera Pandemic,"['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'Around', 'People', 'died', 'week', 'After', 'that', 'Sixth', 'Cholera', 'Pandemic']","['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'People', 'week', 'Sixth', 'Cholera', 'Pandemic']", cholera epidem broke kumbh mela  around   peopl die week sixth cholera pandem b…,True,['@Joydas'],[],[],9
+81,"Suna hai 50 % Court staff and judges are down with Covid.. 
+Par yahan twitter pe to kitne Judge khule aam ghoom rah… https://t.co/bwDQAlgHp3","Suna hai 50 % Court staff and judges are down with Covid.. 
+Par yahan twitter pe to kitne Judge khule aam ghoom rah… ",Suna Court staff judges down with Covid yahan twitter kitne Judge khule ghoom,"['Suna', 'Court', 'staff', 'judges', 'down', 'with', 'Covid', 'yahan', 'twitter', 'kitne', 'Judge', 'khule', 'ghoom']","['Suna', 'Court', 'staff', 'judges', 'Covid', 'yahan', 'twitter', 'kitne', 'Judge', 'khule', 'ghoom']",suna hai  court staff judg covid par yahan twitter pe kitn judg khule aam ghoom rah… ,False,[],[],[],9
+84,"RT @FabienBrodie: Image-Based Machine Learning Models for COVID-19 Diagnosis Not Suitable for Clinical Use - Diagnostic Imaging
+
+Read more…","RT @FabienBrodie: Image-Based Machine Learning Models for COVID-19 Diagnosis Not Suitable for Clinical Use - Diagnostic Imaging
+
+Read more…",Image Based Machine Learning Models COVID Diagnosis Suitable Clinical Diagnostic Imaging Read more,"['Image', 'Based', 'Machine', 'Learning', 'Models', 'COVID', 'Diagnosis', 'Suitable', 'Clinical', 'Diagnostic', 'Imaging', 'Read', 'more']","['Image', 'Machine', 'Learning', 'Models', 'COVID', 'Diagnosis', 'Suitable', 'Clinical', 'Diagnostic', 'Imaging', 'Read']", imag base machin learn model covid  diagnosi suitabl clinic use diagnost imag read more…,True,['@FabienBrodie'],[],[],9
+101,"RT @Cow__Momma: If Smriti Irani could be India’s Education Minister why can’t the Gardener in Sanchi, Madhya Pradesh be assigned to collect…","RT @Cow__Momma: If Smriti Irani could be India’s Education Minister why can’t the Gardener in Sanchi, Madhya Pradesh be assigned to collect…",Smriti Irani could India Education Minister Gardener Sanchi Madhya Pradesh assigned collect,"['Smriti', 'Irani', 'could', 'India', 'Education', 'Minister', 'Gardener', 'Sanchi', 'Madhya', 'Pradesh', 'assigned', 'collect']","['Smriti', 'Irani', 'India', 'Education', 'Minister', 'Gardener', 'Sanchi', 'Madhya', 'Pradesh', 'collect']", smriti irani could india’ educ minist can’t garden sanchi madhya pradesh assign collect…,True,['@Cow__Momma'],[],[],9
+105,Can someone explain how a FIRST WORLD COUNTRY CANT GET THEIR SHIT IN ORDER BUT THESE OTHER COUNTRIES CAN! 🥴🥴🥴🤦🏾‍♀️… https://t.co/QLw2RDPtKl,Can someone explain how a FIRST WORLD COUNTRY CANT GET THEIR SHIT IN ORDER BUT THESE OTHER COUNTRIES CAN! 🥴🥴🥴🤦🏾‍♀️… ,someone explain FIRST WORLD COUNTRY CANT THEIR SHIT ORDER THESE OTHER COUNTRIES,"['someone', 'explain', 'FIRST', 'WORLD', 'COUNTRY', 'CANT', 'THEIR', 'SHIT', 'ORDER', 'THESE', 'OTHER', 'COUNTRIES']","['someone', 'explain', 'FIRST', 'WORLD', 'COUNTRY', 'CANT', 'THEIR', 'SHIT', 'ORDER', 'THESE', 'OTHER', 'COUNTRIES']",someon explain first world countri cant get shit order countri 🥴🥴🥴🤦🏾‍♀️… ,False,[],[],[],9
+109,"RT @choudhryrahul: Single-day rise of 1,61,736 infections, 879 fatalities pushes India's COVID-19 tally of cases to 1,36,89,453, death toll…","RT @choudhryrahul: Single-day rise of 1,61,736 infections, 879 fatalities pushes India's COVID-19 tally of cases to 1,36,89,453, death toll…",Single rise infections fatalities pushes India COVID tally cases death toll,"['Single', 'rise', 'infections', 'fatalities', 'pushes', 'India', 'COVID', 'tally', 'cases', 'death', 'toll']","['Single', 'rise', 'infections', 'fatalities', 'pushes', 'India', 'COVID', 'cases', 'death', 'toll']", singl day rise    infect  fatal push india covid  talli case     death toll…,True,['@choudhryrahul'],[],[],9
+136,"RT @FabienBrodie: Machine learning tool can predict severe illness, death from COVID-19 in patients - Becker's Hospital Review
+
+Read more h…","RT @FabienBrodie: Machine learning tool can predict severe illness, death from COVID-19 in patients - Becker's Hospital Review
+
+Read more h…",Machine learning tool predict severe illness death from COVID patients Becker Hospital Review Read more,"['Machine', 'learning', 'tool', 'predict', 'severe', 'illness', 'death', 'from', 'COVID', 'patients', 'Becker', 'Hospital', 'Review', 'Read', 'more']","['Machine', 'predict', 'illness', 'death', 'COVID', 'patients', 'Becker', 'Hospital', 'Review', 'Read']", machin learn tool predict sever ill death covid  patient becker hospit review read h…,True,['@FabienBrodie'],[],[],9
+144,"RT @DeepakSEditor: Top scientist and expert in nanosciences,Prof Indrani Banerji of Gujarat Central University dies while gasping for breat…","RT @DeepakSEditor: Top scientist and expert in nanosciences,Prof Indrani Banerji of Gujarat Central University dies while gasping for breat…",scientist expert nanosciences Prof Indrani Banerji Gujarat Central University dies while gasping breat,"['scientist', 'expert', 'nanosciences', 'Prof', 'Indrani', 'Banerji', 'Gujarat', 'Central', 'University', 'dies', 'while', 'gasping', 'breat']","['scientist', 'expert', 'nanosciences', 'Prof', 'Indrani', 'Banerji', 'Gujarat', 'Central', 'University', 'breat']", top scientist expert nanosci prof indrani banerji gujarat central univers die gasp breat…,True,['@DeepakSEditor'],[],[],9
+145,"RT @VarshaEGaikwad: Your health is our priority.Given the nature &amp; the spread of #Covid-19, the #MVA government feels conducting board exam…","RT @VarshaEGaikwad: Your health is our priority.Given the nature &amp; the spread of #Covid-19, the #MVA government feels conducting board exam…",Your health priority Given nature spread #Covid #MVA government feels conducting board exam,"['Your', 'health', 'priority', 'Given', 'nature', 'spread', '#', 'Covid', '#', 'MVA', 'government', 'feels', 'conducting', 'board', 'exam']","['health', 'priority', 'Given', 'nature', 'spread', 'Covid', 'MVA', 'government', 'feels', 'board', 'exam']", health prioriti given natur amp spread #covid  #mva govern feel conduct board exam…,True,['@VarshaEGaikwad'],[],"['#Covid-19', '#MVA']",9
+179,"RT @Vetri_D_Trends: #Karnan Box Office Rampage Continues Everywhere!🗡️
+
+Opening Weekend World Wide Collection around 63Cr+ 🔥
+
+Despite of CO…","RT @Vetri_D_Trends: #Karnan Box Office Rampage Continues Everywhere!🗡️
+
+Opening Weekend World Wide Collection around 63Cr+ 🔥
+
+Despite of CO…",#Karnan Office Rampage Continues Everywhere Opening Weekend World Wide Collection around Despite,"['#', 'Karnan', 'Office', 'Rampage', 'Continues', 'Everywhere', 'Opening', 'Weekend', 'World', 'Wide', 'Collection', 'around', 'Despite']","['Karnan', 'Office', 'Rampage', 'Continues', 'Everywhere', 'Opening', 'Weekend', 'World', 'Wide', 'Collection']", #karnan box offic rampag continu everywher 🗡️ open weekend world wide collect around cr 🔥 despit co…,True,['@Vetri_D_Trends'],[],['#Karnan'],9
+204,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,fact that kumbh congregation still because state central government scared Scared religious,"['fact', 'that', 'kumbh', 'congregation', 'still', 'because', 'state', 'central', 'government', 'scared', 'Scared', 'religious']","['fact', 'congregation', 'state', 'government', 'Scared']", fact kumbh congreg still state central govern scare scare religious…,True,['@sanket'],[],[],9
+207,"RT @RogerBrunke: Let’s see:
+
+-Putin’s Puddin’
+-Scarecrow 
+-M.A.G.A.Lon 
+-Trampstamp
+-Less Luthor 
+-COVID-45 
+-Lumpy 
+-Jr’s Sr
+-Jeff
+-Hitler…","RT @RogerBrunke: Let’s see:
+
+-Putin’s Puddin’
+-Scarecrow 
+-M.A.G.A.Lon 
+-Trampstamp
+-Less Luthor 
+-COVID-45 
+-Lumpy 
+-Jr’s Sr
+-Jeff
+-Hitler…",Putin Puddin Scarecrow Trampstamp Less Luthor COVID Lumpy Jeff Hitler,"['Putin', 'Puddin', 'Scarecrow', 'Trampstamp', 'Less', 'Luthor', 'COVID', 'Lumpy', 'Jeff', 'Hitler']","['Putin', 'Puddin', 'Scarecrow', 'Trampstamp', 'Less', 'Luthor', 'COVID', 'Lumpy', 'Jeff', 'Hitler']", let’ see putin’ puddin’ scarecrow g lon trampstamp less luthor covid  lumpi jr’ sr jeff hitler…,True,['@RogerBrunke'],[],[],9
+212,"RT @Angelin42850738: 🔸️4,000 Recovered COVID-19 Church Members in South Korea Declare Donation of $83 Billion Worth of Plasma for Cure
+
+#Sh…","RT @Angelin42850738: 🔸️4,000 Recovered COVID-19 Church Members in South Korea Declare Donation of $83 Billion Worth of Plasma for Cure
+
+#Sh…",Recovered COVID Church Members South Korea Declare Donation Billion Worth Plasma Cure,"['Recovered', 'COVID', 'Church', 'Members', 'South', 'Korea', 'Declare', 'Donation', 'Billion', 'Worth', 'Plasma', 'Cure']","['COVID', 'Church', 'Members', 'South', 'Korea', 'Declare', 'Donation', 'Billion', 'Worth', 'Plasma', 'Cure']", 🔸️  recov covid  church member south korea declar donat  billion worth plasma cure #sh…,True,['@Angelin42850738'],[],['#Sh'],9
+215,"RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…","RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…",GOVERNMENT INQUIRIES Russia Report suppressed Priti Patel bullying ignored Racism rigged Covid respon,"['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'suppressed', 'Priti', 'Patel', 'bullying', 'ignored', 'Racism', 'rigged', 'Covid', 'respon']","['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'Priti', 'Patel', 'bullying', 'Racism', 'Covid', 'respon']", govern inquiri russia report suppress ❌ priti patel bulli ignored❌ racism uk rigged❌ covid respon…,True,['@davidschneider'],[],[],9
+216,RT @TheLeadCNN: Canada’s vaccine shortage: Covid-19 cases per capita pass U.S. rate as doctors plead for more vaccines @paulanewtonCNN repo…,RT @TheLeadCNN: Canada’s vaccine shortage: Covid-19 cases per capita pass U.S. rate as doctors plead for more vaccines @paulanewtonCNN repo…,Canada vaccine shortage Covid cases capita pass rate doctors plead more vaccines repo,"['Canada', 'vaccine', 'shortage', 'Covid', 'cases', 'capita', 'pass', 'rate', 'doctors', 'plead', 'more', 'vaccines', 'repo']","['Canada', 'vaccine', 'shortage', 'Covid', 'cases', 'pass', 'rate', 'doctors', 'vaccines', 'repo']", canada’ vaccin shortag covid  case per capita pass u rate doctor plead vaccin repo…,True,['@TheLeadCNN'],['@paulanewtonCNN'],[],9
+262,International Politics in Times of Risk and Uncertainty: The Covid-19 Crisis and Beyond - prorgramme and registrati… https://t.co/TZxYUuQRVS,International Politics in Times of Risk and Uncertainty: The Covid-19 Crisis and Beyond - prorgramme and registrati… ,International Politics Times Risk Uncertainty Covid Crisis Beyond prorgramme registrati,"['International', 'Politics', 'Times', 'Risk', 'Uncertainty', 'Covid', 'Crisis', 'Beyond', 'prorgramme', 'registrati']","['International', 'Politics', 'Times', 'Risk', 'Uncertainty', 'Covid', 'Crisis', 'Beyond', 'prorgramme', 'registrati']",intern polit time risk uncertainti covid  crisi beyond prorgramm registrati… ,False,[],[],[],9
+271,"Sturgeons covid record is SLOWEST for schools going back, shops, hotels, bars, restaurants, health clubs opening.… https://t.co/KABQ1Fxk1r","Sturgeons covid record is SLOWEST for schools going back, shops, hotels, bars, restaurants, health clubs opening.… ",Sturgeons covid record SLOWEST schools going back shops hotels bars restaurants health clubs opening,"['Sturgeons', 'covid', 'record', 'SLOWEST', 'schools', 'going', 'back', 'shops', 'hotels', 'bars', 'restaurants', 'health', 'clubs', 'opening']","['Sturgeons', 'record', 'SLOWEST', 'schools', 'hotels', 'bars', 'restaurants', 'health', 'clubs']",sturgeon covid record slowest school go back shop hotel bar restaur health club open … ,False,[],[],[],9
+279,"RT @FabienBrodie: Image-Based Machine Learning Models for COVID-19 Diagnosis Not Suitable for Clinical Use - Diagnostic Imaging
+
+Read more…","RT @FabienBrodie: Image-Based Machine Learning Models for COVID-19 Diagnosis Not Suitable for Clinical Use - Diagnostic Imaging
+
+Read more…",Image Based Machine Learning Models COVID Diagnosis Suitable Clinical Diagnostic Imaging Read more,"['Image', 'Based', 'Machine', 'Learning', 'Models', 'COVID', 'Diagnosis', 'Suitable', 'Clinical', 'Diagnostic', 'Imaging', 'Read', 'more']","['Image', 'Machine', 'Learning', 'Models', 'COVID', 'Diagnosis', 'Suitable', 'Clinical', 'Diagnostic', 'Imaging', 'Read']", imag base machin learn model covid  diagnosi suitabl clinic use diagnost imag read more…,True,['@FabienBrodie'],[],[],9
+286,"RT @hcguedenet: Heart-wrenching account of hunger in Guatemala by @washingtonpost. Climate change has disrupted food production, bean price…","RT @hcguedenet: Heart-wrenching account of hunger in Guatemala by @washingtonpost. Climate change has disrupted food production, bean price…",Heart wrenching account hunger Guatemala Climate change disrupted food production bean price,"['Heart', 'wrenching', 'account', 'hunger', 'Guatemala', 'Climate', 'change', 'disrupted', 'food', 'production', 'bean', 'price']","['Heart', 'account', 'hunger', 'Guatemala', 'Climate', 'change', 'food', 'production', 'bean', 'price']", heart wrench account hunger guatemala climat chang disrupt food product bean price…,True,['@hcguedenet'],['@washingtonpost'],[],9
+287,"RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…","RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…",GOVERNMENT INQUIRIES Russia Report suppressed Priti Patel bullying ignored Racism rigged Covid respon,"['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'suppressed', 'Priti', 'Patel', 'bullying', 'ignored', 'Racism', 'rigged', 'Covid', 'respon']","['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'Priti', 'Patel', 'bullying', 'Racism', 'Covid', 'respon']", govern inquiri russia report suppress ❌ priti patel bulli ignored❌ racism uk rigged❌ covid respon…,True,['@davidschneider'],[],[],9
+301,"RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…","RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…",Saudi Arabia covid cases Exams cancelled Kuwait covid cases Exams cancelled INDIA covi,"['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'cancelled', 'Kuwait', 'covid', 'cases', 'Exams', 'cancelled', 'INDIA', 'covi']","['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'Kuwait', 'covid', 'cases', 'Exams', 'INDIA', 'covi']", saudi arabia  covid  case exam cancel kuwait  covid  case exam cancel india    covi…,True,['@kvsaathwika'],[],[],9
+351,its 3:30 and man they weren’t playing this second covid shot be rocking my shit,its 3:30 and man they weren’t playing this second covid shot be rocking my shit,they weren playing this second covid shot rocking shit,"['they', 'weren', 'playing', 'this', 'second', 'covid', 'shot', 'rocking', 'shit']","['covid', 'shot', 'shit']",ts   man weren’t play second covid shot rock shit,False,[],[],[],9
+367,"RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…","RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…",Cholera Epidemic Broke Kumbh Mela Around People died week After that Sixth Cholera Pandemic,"['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'Around', 'People', 'died', 'week', 'After', 'that', 'Sixth', 'Cholera', 'Pandemic']","['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'People', 'week', 'Sixth', 'Cholera', 'Pandemic']", cholera epidem broke kumbh mela  around   peopl die week sixth cholera pandem b…,True,['@Joydas'],[],[],9
+400,"RT @MacOtani: So, when it comes to bars, restaurants et al there's Covid-19 but when it comes to schools all is well? 🤔 #SwalaNyeti","RT @MacOtani: So, when it comes to bars, restaurants et al there's Covid-19 but when it comes to schools all is well? 🤔 #SwalaNyeti",when comes bars restaurants there Covid when comes schools well #SwalaNyeti,"['when', 'comes', 'bars', 'restaurants', 'there', 'Covid', 'when', 'comes', 'schools', 'well', '#', 'SwalaNyeti']","['bars', 'restaurants', 'Covid', 'schools', 'SwalaNyeti']", come bar restaur et al covid  come school well 🤔 #swalanyet,True,['@MacOtani'],[],['#SwalaNyeti'],9
+408,"RT @brijeshmt: @mohandastg Last 7-days daily average Covid-19 cases
+👉 Elections state
+Tamil Nadu: 4,804
+Kerala: 4,565
+West Bengal: 3,040
+As…","RT @brijeshmt: @mohandastg Last 7-days daily average Covid-19 cases
+👉 Elections state
+Tamil Nadu: 4,804
+Kerala: 4,565
+West Bengal: 3,040
+As…",Last days daily average Covid cases Elections state Tamil Nadu Kerala West Bengal,"['Last', 'days', 'daily', 'average', 'Covid', 'cases', 'Elections', 'state', 'Tamil', 'Nadu', 'Kerala', 'West', 'Bengal']","['days', 'cases', 'Elections', 'state', 'Tamil', 'Nadu', 'Kerala', 'West', 'Bengal']", last  day daili averag covid  case 👉 elect state tamil nadu   kerala   west bengal   as…,True,['@brijeshmt'],['@mohandastg'],[],9
+415,"RT @VivekNa53569744: Cancel the exam cbse CBSE Class 10, 12 Board Exam 2021: Students trend #CancelBoardExams2021 on Twitter as COVID cases…","RT @VivekNa53569744: Cancel the exam cbse CBSE Class 10, 12 Board Exam 2021: Students trend #CancelBoardExams2021 on Twitter as COVID cases…",Cancel exam cbse CBSE Class Board Exam Students trend #CancelBoardExams Twitter COVID cases,"['Cancel', 'exam', 'cbse', 'CBSE', 'Class', 'Board', 'Exam', 'Students', 'trend', '#', 'CancelBoardExams', 'Twitter', 'COVID', 'cases']","['Cancel', 'CBSE', 'Class', 'Board', 'Exam', 'Students', 'trend', 'CancelBoardExams', 'Twitter', 'COVID', 'cases']", cancel exam cbse cbse class   board exam  student trend #cancelboardexams twitter covid cases…,True,['@VivekNa53569744'],[],['#CancelBoardExams2021'],9
+421,"RT @INCIndia: Remarks of Congress President, Smt. Sonia Gandhi at a meeting of Congress ruled States &amp; Congress Ministers from our alliance…","RT @INCIndia: Remarks of Congress President, Smt. Sonia Gandhi at a meeting of Congress ruled States &amp; Congress Ministers from our alliance…",Remarks Congress President Sonia Gandhi meeting Congress ruled States Congress Ministers from alliance,"['Remarks', 'Congress', 'President', 'Sonia', 'Gandhi', 'meeting', 'Congress', 'ruled', 'States', 'Congress', 'Ministers', 'from', 'alliance']","['Remarks', 'Congress', 'President', 'Sonia', 'Gandhi', 'meeting', 'Congress', 'States', 'Congress', 'Ministers', 'alliance']", remark congress presid smt sonia gandhi meet congress rule state amp congress minist alliance…,True,['@INCIndia'],[],[],9
+479,"RT @kuttrapali: 🌁TATA MOTORS-BREAKING
+
+JAGUAR LAND ROVER RETAIL SALES UP 12.4% IN Q4 FISCAL 2020/21, CONTINUING RECOVERY FROM COVID-19 IMPA…","RT @kuttrapali: 🌁TATA MOTORS-BREAKING
+
+JAGUAR LAND ROVER RETAIL SALES UP 12.4% IN Q4 FISCAL 2020/21, CONTINUING RECOVERY FROM COVID-19 IMPA…",TATA MOTORS BREAKING JAGUAR LAND ROVER RETAIL SALES FISCAL CONTINUING RECOVERY FROM COVID IMPA,"['TATA', 'MOTORS', 'BREAKING', 'JAGUAR', 'LAND', 'ROVER', 'RETAIL', 'SALES', 'FISCAL', 'CONTINUING', 'RECOVERY', 'FROM', 'COVID', 'IMPA']","['TATA', 'MOTORS', 'BREAKING', 'JAGUAR', 'LAND', 'ROVER', 'RETAIL', 'SALES', 'FISCAL', 'CONTINUING', 'RECOVERY', 'FROM', 'COVID', 'IMPA']", 🌁tata motor break jaguar land rover retail sale   q fiscal   continu recoveri covid  impa…,True,['@kuttrapali'],[],[],9
+489,@RDA47338427 I think UK is saying no to that! https://t.co/qK1hT15kX7,@RDA47338427 I think UK is saying no to that! ,think saying that,"['think', 'saying', 'that']",['think'], think uk say ,False,[],['@RDA47338427'],[],9
+490,"RT @ken_rende: 𝐅𝐔𝐑𝐈𝐎𝐔𝐒 𝐋𝐄𝐃𝐀𝐌𝐀 𝐎𝐋𝐄𝐊𝐈𝐍𝐀 ""DON'T GIVE ME THAT SILLY SMILE WHEN I AM ASKING YOU WHERE YOU TOOK COVID MONEY.""
+#DidRutoKillKenei
+#…","RT @ken_rende: 𝐅𝐔𝐑𝐈𝐎𝐔𝐒 𝐋𝐄𝐃𝐀𝐌𝐀 𝐎𝐋𝐄𝐊𝐈𝐍𝐀 ""DON'T GIVE ME THAT SILLY SMILE WHEN I AM ASKING YOU WHERE YOU TOOK COVID MONEY.""
+#DidRutoKillKenei
+#…",GIVE THAT SILLY SMILE WHEN ASKING WHERE TOOK COVID MONEY #DidRutoKillKenei,"['GIVE', 'THAT', 'SILLY', 'SMILE', 'WHEN', 'ASKING', 'WHERE', 'TOOK', 'COVID', 'MONEY', '#', 'DidRutoKillKenei']","['THAT', 'SILLY', 'SMILE', 'WHEN', 'ASKING', 'WHERE', 'TOOK', 'COVID', 'MONEY', 'DidRutoKillKenei']", 𝐅𝐔𝐑𝐈𝐎𝐔𝐒 𝐋𝐄𝐃𝐀𝐌𝐀 𝐎𝐋𝐄𝐊𝐈𝐍𝐀 give silli smile ask took covid money #didrutokillkenei #…,True,['@ken_rende'],[],['#DidRutoKillKenei'],9
+515,"RT @CMOMaharashtra: CM Uddhav Balasaheb Thackeray in a meeting with the State Task Force discussed the availability of oxygen &amp; beds, use o…","RT @CMOMaharashtra: CM Uddhav Balasaheb Thackeray in a meeting with the State Task Force discussed the availability of oxygen &amp; beds, use o…",Uddhav Balasaheb Thackeray meeting with State Task Force discussed availability oxygen beds,"['Uddhav', 'Balasaheb', 'Thackeray', 'meeting', 'with', 'State', 'Task', 'Force', 'discussed', 'availability', 'oxygen', 'beds']","['Uddhav', 'Balasaheb', 'Thackeray', 'meeting', 'State', 'Task', 'Force', 'availability', 'oxygen', 'beds']", cm uddhav balasaheb thackeray meet state task forc discuss avail oxygen amp bed use o…,True,['@CMOMaharashtra'],[],[],9
+516,"@StateCrime Invites you to the ""State Crime Journal Special Issue Panel: The Covid-19 Pandemic and State Crime"" thi… https://t.co/HFK361m0CL","@StateCrime Invites you to the ""State Crime Journal Special Issue Panel: The Covid-19 Pandemic and State Crime"" thi… ",Invites State Crime Journal Special Issue Panel Covid Pandemic State Crime,"['Invites', 'State', 'Crime', 'Journal', 'Special', 'Issue', 'Panel', 'Covid', 'Pandemic', 'State', 'Crime']","['Invites', 'State', 'Crime', 'Journal', 'Special', 'Issue', 'Panel', 'Covid', 'Pandemic', 'State', 'Crime']", invit state crime journal special issu panel covid  pandem state crime thi… ,False,[],['@StateCrime'],[],9
+517,"RT @LauraRBelin: Dr. Pedati is #Iowa's state medical director.
+Several school districts have lifted mask requirements for students and staf…","RT @LauraRBelin: Dr. Pedati is #Iowa's state medical director.
+Several school districts have lifted mask requirements for students and staf…",Pedati #Iowa state medical director Several school districts have lifted mask requirements students staf,"['Pedati', '#', 'Iowa', 'state', 'medical', 'director', 'Several', 'school', 'districts', 'have', 'lifted', 'mask', 'requirements', 'students', 'staf']","['Pedati', 'Iowa', 'state', 'director', 'school', 'districts', 'mask', 'requirements', 'students']", dr pedati #iowa state medic director sever school district lift mask requir student staf…,True,['@LauraRBelin'],[],['#Iowa'],9
+534,"RT @BenjaminP3ters: COVID-19 Diagnostic Exam Backed by Artificial Intelligence Rolled Out for the 2020-21 WHL Season - Business Wire
+
+Read…","RT @BenjaminP3ters: COVID-19 Diagnostic Exam Backed by Artificial Intelligence Rolled Out for the 2020-21 WHL Season - Business Wire
+
+Read…",COVID Diagnostic Exam Backed Artificial Intelligence Rolled Season Business Wire Read,"['COVID', 'Diagnostic', 'Exam', 'Backed', 'Artificial', 'Intelligence', 'Rolled', 'Season', 'Business', 'Wire', 'Read']","['COVID', 'Diagnostic', 'Exam', 'Backed', 'Artificial', 'Intelligence', 'Rolled', 'Season', 'Business', 'Wire', 'Read']", covid  diagnost exam back artifici intellig roll   whl season busi wire read…,True,['@BenjaminP3ters'],[],[],9
+574,"""A member of staff carries a tray of drinks at Allerton Manor golf course's new outdoor 250 seater beer garden"". I… https://t.co/YGBW7JUQpY","""A member of staff carries a tray of drinks at Allerton Manor golf course's new outdoor 250 seater beer garden"". I… ",member staff carries tray drinks Allerton Manor golf course outdoor seater beer garden,"['member', 'staff', 'carries', 'tray', 'drinks', 'Allerton', 'Manor', 'golf', 'course', 'outdoor', 'seater', 'beer', 'garden']","['member', 'staff', 'drinks', 'Allerton', 'Manor', 'golf', 'course', 'seater', 'beer', 'garden']", member staff carri tray drink allerton manor golf cours new outdoor  seater beer garden i… ,False,[],[],[],9
+575,RT @CasparQC: Sitting outside a pub in the cold not for me but it was So So good to see 18 and 20 head out with springs in their steps to m…,RT @CasparQC: Sitting outside a pub in the cold not for me but it was So So good to see 18 and 20 head out with springs in their steps to m…,Sitting outside cold good head with springs their steps,"['Sitting', 'outside', 'cold', 'good', 'head', 'with', 'springs', 'their', 'steps']","['head', 'springs', 'steps']", sit outsid pub cold good see   head spring step m…,True,['@CasparQC'],[],[],9
+588,"RT @inyourareaM: COVID WILL NOT STOP ME FROM CELEBRATING WHEEIN’S SOLO
+
+#WHEEIN's 1st Mini Album 'Redd'
+WHEEIN WATER COLOR IS OUT
+#WHEEIN_W…","RT @inyourareaM: COVID WILL NOT STOP ME FROM CELEBRATING WHEEIN’S SOLO
+
+#WHEEIN's 1st Mini Album 'Redd'
+WHEEIN WATER COLOR IS OUT
+#WHEEIN_W…",COVID WILL STOP FROM CELEBRATING WHEEIN SOLO #WHEEIN Mini Album Redd WHEEIN WATER COLOR #WHEEIN,"['COVID', 'WILL', 'STOP', 'FROM', 'CELEBRATING', 'WHEEIN', 'SOLO', '#', 'WHEEIN', 'Mini', 'Album', 'Redd', 'WHEEIN', 'WATER', 'COLOR', '#', 'WHEEIN']","['COVID', 'WILL', 'STOP', 'FROM', 'CELEBRATING', 'WHEEIN', 'SOLO', 'WHEEIN', 'Mini', 'Album', 'Redd', 'WHEEIN', 'WATER', 'COLOR', 'WHEEIN']", covid stop celebr wheein’ solo #wheein st mini album redd wheein water color #wheein w…,True,['@inyourareaM'],[],"['#WHEEIN', '#WHEEIN_W']",9
+592,"April 10, 2021 Personnel of Burgos MPS conducted ARIRANG at Brgy cadacad this town re crime prevention, muncipal or… https://t.co/KVzxPKrnej","April 10, 2021 Personnel of Burgos MPS conducted ARIRANG at Brgy cadacad this town re crime prevention, muncipal or… ",April Personnel Burgos conducted ARIRANG Brgy cadacad this town crime prevention muncipal,"['April', 'Personnel', 'Burgos', 'conducted', 'ARIRANG', 'Brgy', 'cadacad', 'this', 'town', 'crime', 'prevention', 'muncipal']","['April', 'Personnel', 'Burgos', 'ARIRANG', 'Brgy', 'cadacad', 'town', 'crime', 'prevention', 'muncipal']",april   personnel burgo mp conduct arirang brgi cadacad town crime prevent muncip or… ,False,[],[],[],9
+601,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,fact that kumbh congregation still because state central government scared Scared religious,"['fact', 'that', 'kumbh', 'congregation', 'still', 'because', 'state', 'central', 'government', 'scared', 'Scared', 'religious']","['fact', 'congregation', 'state', 'government', 'Scared']", fact kumbh congreg still state central govern scare scare religious…,True,['@sanket'],[],[],9
+687,"RT @freddiemac1: Sturgeons covid record is SLOWEST for schools going back, shops, hotels, bars, restaurants, health clubs opening.   SLOWES…","RT @freddiemac1: Sturgeons covid record is SLOWEST for schools going back, shops, hotels, bars, restaurants, health clubs opening.   SLOWES…",Sturgeons covid record SLOWEST schools going back shops hotels bars restaurants health clubs opening SLOWES,"['Sturgeons', 'covid', 'record', 'SLOWEST', 'schools', 'going', 'back', 'shops', 'hotels', 'bars', 'restaurants', 'health', 'clubs', 'opening', 'SLOWES']","['Sturgeons', 'record', 'SLOWEST', 'schools', 'hotels', 'bars', 'restaurants', 'health', 'clubs', 'SLOWES']", sturgeon covid record slowest school go back shop hotel bar restaur health club open slowes…,True,['@freddiemac1'],[],[],9
+693,"RT @Social_Jangi98: Indian Media on Muslims: 
+
+Tablighi jamaat is a ""Covid Hotspot"".
+Muslims are ""Super spreaders jihadi""
+
+Indian Media on…","RT @Social_Jangi98: Indian Media on Muslims: 
+
+Tablighi jamaat is a ""Covid Hotspot"".
+Muslims are ""Super spreaders jihadi""
+
+Indian Media on…",Indian Media Muslims Tablighi jamaat Covid Hotspot Muslims Super spreaders jihadi Indian Media,"['Indian', 'Media', 'Muslims', 'Tablighi', 'jamaat', 'Covid', 'Hotspot', 'Muslims', 'Super', 'spreaders', 'jihadi', 'Indian', 'Media']","['Media', 'Muslims', 'Tablighi', 'jamaat', 'Covid', 'Hotspot', 'Muslims', 'Super', 'spreaders', 'Media']", indian media muslim tablighi jamaat covid hotspot muslim super spreader jihadi indian media on…,True,['@Social_Jangi98'],[],[],9
+703,"@mjw0212 @WendyPuerto How many millions has ""covid"" killed?","@mjw0212 @WendyPuerto How many millions has ""covid"" killed?",many millions covid killed,"['many', 'millions', 'covid', 'killed']",['millions'], mani million covid kill ,False,[],"['@mjw0212', '@WendyPuerto']",[],9
+756,"RT @KristenN_06: 1/9. Today, Apr 13 to Apr 19 - 8 additional countries below.
+Daily #COVID19 Epidemic Forecasting. 
+Vaccine figures per cou…","RT @KristenN_06: 1/9. Today, Apr 13 to Apr 19 - 8 additional countries below.
+Daily #COVID19 Epidemic Forecasting. 
+Vaccine figures per cou…",Today additional countries below Daily #COVID Epidemic Forecasting Vaccine figures,"['Today', 'additional', 'countries', 'below', 'Daily', '#', 'COVID', 'Epidemic', 'Forecasting', 'Vaccine', 'figures']","['Today', 'countries', 'Daily', 'COVID', 'Epidemic', 'Forecasting', 'Vaccine', 'figures']",   today apr  apr   addit countri daili #covid epidem forecast vaccin figur per cou…,True,['@KristenN_06'],[],['#COVID19'],9
+761,@george__mack @G_S_Bhogal This seems to be very present with how we try to solve the #COVID crisis. Focus is single… https://t.co/jrDwMVNG1s,@george__mack @G_S_Bhogal This seems to be very present with how we try to solve the #COVID crisis. Focus is single… ,This seems very present with solve #COVID crisis Focus single,"['This', 'seems', 'very', 'present', 'with', 'solve', '#', 'COVID', 'crisis', 'Focus', 'single']","['COVID', 'crisis', 'Focus']", seem present tri solv #covid crisi focu single… ,False,[],"['@george__mack', '@G_S_Bhogal']",['#COVID'],9
+781,"RT @priyankac19: Action: No masks needed,there is no Covid in Assam as per state Health Min
+Reaction: Assam records a 4 fold increase in we…","RT @priyankac19: Action: No masks needed,there is no Covid in Assam as per state Health Min
+Reaction: Assam records a 4 fold increase in we…",Action masks needed there Covid Assam state Health Reaction Assam records fold increase,"['Action', 'masks', 'needed', 'there', 'Covid', 'Assam', 'state', 'Health', 'Reaction', 'Assam', 'records', 'fold', 'increase']","['Action', 'masks', 'Covid', 'Assam', 'state', 'Health', 'Reaction', 'Assam', 'records', 'increase']", action mask need covid assam per state health min reaction assam record  fold increas we…,True,['@priyankac19'],[],[],9
+783,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,Maharashtra especially Mumbai Metropolitan Region officially beyond redemption Every single hospital,"['Maharashtra', 'especially', 'Mumbai', 'Metropolitan', 'Region', 'officially', 'beyond', 'redemption', 'Every', 'single', 'hospital']","['Maharashtra', 'Mumbai', 'Metropolitan', 'Region', 'redemption', 'Every', 'hospital']", maharashtra especi mumbai metropolitan region offici beyond redempt everi singl hospit bed c…,True,['@DNRamki'],[],[],9
+802,"RT @svaradarajan: Uttarakhand CM Just Doesn't Get It When He Says We Shouldn't Compare Kumbh to Markaz 
+
+Spot-on analysis by @jahnavi_sen…","RT @svaradarajan: Uttarakhand CM Just Doesn't Get It When He Says We Shouldn't Compare Kumbh to Markaz 
+
+Spot-on analysis by @jahnavi_sen…",Uttarakhand Just Doesn When Says Shouldn Compare Kumbh Markaz Spot analysis,"['Uttarakhand', 'Just', 'Doesn', 'When', 'Says', 'Shouldn', 'Compare', 'Kumbh', 'Markaz', 'Spot', 'analysis']","['Uttarakhand', 'Just', 'Doesn', 'Says', 'Shouldn', 'Compare', 'Kumbh', 'Markaz', 'Spot', 'analysis']", uttarakhand cm get say compar kumbh markaz spot analysi …,True,['@svaradarajan'],['@jahnavi_sen'],[],9
+857,"RT @FrontalForce: The ""Delhi High Court"" has  allowed to open Hazrat Nizamuddin Markaz despite rising covid cases. Dear Delhites, take extr…","RT @FrontalForce: The ""Delhi High Court"" has  allowed to open Hazrat Nizamuddin Markaz despite rising covid cases. Dear Delhites, take extr…",Delhi High Court allowed open Hazrat Nizamuddin Markaz despite rising covid cases Dear Delhites take extr,"['Delhi', 'High', 'Court', 'allowed', 'open', 'Hazrat', 'Nizamuddin', 'Markaz', 'despite', 'rising', 'covid', 'cases', 'Dear', 'Delhites', 'take', 'extr']","['Delhi', 'High', 'Court', 'Hazrat', 'Nizamuddin', 'Markaz', 'covid', 'cases', 'Delhites', 'extr']", delhi high court allow open hazrat nizamuddin markaz despit rise covid case dear delhit take extr…,True,['@FrontalForce'],[],[],9
+866,Disgusting....,Disgusting....,Disgusting,['Disgusting'],[],disgust ,False,[],[],[],9
+873,RT @DalbidEU: Dawn breaks on a former 'United' Kingdom. Reflecting. If we've time for a Greensill Cameron inquiry we've time for a Covid Jo…,RT @DalbidEU: Dawn breaks on a former 'United' Kingdom. Reflecting. If we've time for a Greensill Cameron inquiry we've time for a Covid Jo…,Dawn breaks former United Kingdom Reflecting time Greensill Cameron inquiry time Covid,"['Dawn', 'breaks', 'former', 'United', 'Kingdom', 'Reflecting', 'time', 'Greensill', 'Cameron', 'inquiry', 'time', 'Covid']","['Dawn', 'breaks', 'United', 'Kingdom', 'Reflecting', 'time', 'Greensill', 'Cameron', 'inquiry', 'time', 'Covid']", dawn break former unit kingdom reflect time greensil cameron inquiri time covid jo…,True,['@DalbidEU'],[],[],9
+875,"RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…","RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…",Cholera Epidemic Broke Kumbh Mela Around People died week After that Sixth Cholera Pandemic,"['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'Around', 'People', 'died', 'week', 'After', 'that', 'Sixth', 'Cholera', 'Pandemic']","['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'People', 'week', 'Sixth', 'Cholera', 'Pandemic']", cholera epidem broke kumbh mela  around   peopl die week sixth cholera pandem b…,True,['@Joydas'],[],[],9
+883,"RT @thakkar_sameet: ** Mumbai **
+
+Funds For Urdu Bhavan But Not Enough Fund To Dispose Covid Death Bodies Properly.  
+
+Plastic Polythene Ba…","RT @thakkar_sameet: ** Mumbai **
+
+Funds For Urdu Bhavan But Not Enough Fund To Dispose Covid Death Bodies Properly.  
+
+Plastic Polythene Ba…",Mumbai Funds Urdu Bhavan Enough Fund Dispose Covid Death Bodies Properly Plastic Polythene,"['Mumbai', 'Funds', 'Urdu', 'Bhavan', 'Enough', 'Fund', 'Dispose', 'Covid', 'Death', 'Bodies', 'Properly', 'Plastic', 'Polythene']","['Mumbai', 'Funds', 'Urdu', 'Bhavan', 'Enough', 'Fund', 'Dispose', 'Covid', 'Death', 'Bodies', 'Properly', 'Plastic', 'Polythene']", mumbai fund urdu bhavan enough fund dispos covid death bodi properli plastic polythen ba…,True,['@thakkar_sameet'],[],[],9
+894,Over 45s you are up!! 👊,Over 45s you are up!! 👊,Over,['Over'],[],👊,False,[],[],[],9
+902,"RT @Steven_Swinford: Official announcement of  review by into Greensill *does not* state explicitly that it will look at lobbying
+
+It state…","RT @Steven_Swinford: Official announcement of  review by into Greensill *does not* state explicitly that it will look at lobbying
+
+It state…",Official announcement review into Greensill does state explicitly that will look lobbying state,"['Official', 'announcement', 'review', 'into', 'Greensill', 'does', 'state', 'explicitly', 'that', 'will', 'look', 'lobbying', 'state']","['announcement', 'review', 'Greensill', 'state', 'state']", offici announc review greensil state explicitli look lobbi state…,True,['@Steven_Swinford'],[],[],9
+910,"RT @PIOLoboBatangas: COVID-19 UPDATE
+As of April 13, 2021, 4pm
+
+Source: Lobo Municipal Health Office
+
+***
+Stay safe and healthy, Loboans! h…","RT @PIOLoboBatangas: COVID-19 UPDATE
+As of April 13, 2021, 4pm
+
+Source: Lobo Municipal Health Office
+
+***
+Stay safe and healthy, Loboans! h…",COVID UPDATE April Source Lobo Municipal Health Office Stay safe healthy Loboans,"['COVID', 'UPDATE', 'April', 'Source', 'Lobo', 'Municipal', 'Health', 'Office', 'Stay', 'safe', 'healthy', 'Loboans']","['COVID', 'UPDATE', 'April', 'Source', 'Lobo', 'Municipal', 'Health', 'Office', 'Stay', 'Loboans']", covid  updat april   pm sourc lobo municip health offic stay safe healthi loboan h…,True,['@PIOLoboBatangas'],[],[],9
+921,"RT @VarshaEGaikwad: Your health is our priority.Given the nature &amp; the spread of #Covid-19, the #MVA government feels conducting board exam…","RT @VarshaEGaikwad: Your health is our priority.Given the nature &amp; the spread of #Covid-19, the #MVA government feels conducting board exam…",Your health priority Given nature spread #Covid #MVA government feels conducting board exam,"['Your', 'health', 'priority', 'Given', 'nature', 'spread', '#', 'Covid', '#', 'MVA', 'government', 'feels', 'conducting', 'board', 'exam']","['health', 'priority', 'Given', 'nature', 'spread', 'Covid', 'MVA', 'government', 'feels', 'board', 'exam']", health prioriti given natur amp spread #covid  #mva govern feel conduct board exam…,True,['@VarshaEGaikwad'],[],"['#Covid-19', '#MVA']",9
+949,@ScottSmithJr2 @NEWS1130 Not experimental. Nor risky . Covid is much riskier https://t.co/Ha8eQSBl55,@ScottSmithJr2 @NEWS1130 Not experimental. Nor risky . Covid is much riskier ,experimental risky Covid much riskier,"['experimental', 'risky', 'Covid', 'much', 'riskier']",['Covid'], experiment riski covid much riskier ,False,[],"['@ScottSmithJr2', '@NEWS1130']",[],9
+954,"RT @nwarikoo: You can get a COVID vaccine shot at midnight Friday in Dearborn. 
+
+To help observant Muslims who may not want to get shots du…","RT @nwarikoo: You can get a COVID vaccine shot at midnight Friday in Dearborn. 
+
+To help observant Muslims who may not want to get shots du…",COVID vaccine shot midnight Friday Dearborn help observant Muslims want shots,"['COVID', 'vaccine', 'shot', 'midnight', 'Friday', 'Dearborn', 'help', 'observant', 'Muslims', 'want', 'shots']","['COVID', 'vaccine', 'shot', 'midnight', 'Friday', 'Dearborn', 'help', 'observant', 'Muslims', 'shots']", get covid vaccin shot midnight friday dearborn help observ muslim may want get shot du…,True,['@nwarikoo'],[],[],9
+961,"RT @DrAsh_Mahendra: Government  Should  give relief to all Students for Board Exams this year.
+More than 1.6 lakh  Covid Cases per day is n…","RT @DrAsh_Mahendra: Government  Should  give relief to all Students for Board Exams this year.
+More than 1.6 lakh  Covid Cases per day is n…",Government Should give relief Students Board Exams this year More than lakh Covid Cases,"['Government', 'Should', 'give', 'relief', 'Students', 'Board', 'Exams', 'this', 'year', 'More', 'than', 'lakh', 'Covid', 'Cases']","['Government', 'Should', 'relief', 'Students', 'Board', 'Exams', 'year', 'lakh', 'Covid', 'Cases']", govern give relief student board exam year   lakh covid case per day n…,True,['@DrAsh_Mahendra'],[],[],9
+964,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,Maharashtra especially Mumbai Metropolitan Region officially beyond redemption Every single hospital,"['Maharashtra', 'especially', 'Mumbai', 'Metropolitan', 'Region', 'officially', 'beyond', 'redemption', 'Every', 'single', 'hospital']","['Maharashtra', 'Mumbai', 'Metropolitan', 'Region', 'redemption', 'Every', 'hospital']", maharashtra especi mumbai metropolitan region offici beyond redempt everi singl hospit bed c…,True,['@DNRamki'],[],[],9
+966,"https://t.co/PcGJWSmR9Z 
+
+Oh dear"," 
+
+Oh dear",dear,['dear'],['dear'], oh dear,False,[],[],[],9
+1006,"RT @dockaurG: 1/ ""Very naive belief among politicians, journalists &amp; some scientists that somehow we can suppress this with lockdowns &amp; con…","RT @dockaurG: 1/ ""Very naive belief among politicians, journalists &amp; some scientists that somehow we can suppress this with lockdowns &amp; con…",Very naive belief among politicians journalists some scientists that somehow suppress this with lockdowns,"['Very', 'naive', 'belief', 'among', 'politicians', 'journalists', 'some', 'scientists', 'that', 'somehow', 'suppress', 'this', 'with', 'lockdowns']","['belief', 'politicians', 'journalists', 'scientists', 'lockdowns']",  naiv belief among politician journalist amp scientist somehow suppress lockdown amp con…,True,['@dockaurG'],[],[],9
+1017,"""60 Minutes"" on its story about vaccine distribution in Palm Beach County
+#breakingnews #news #china #trump #biden… https://t.co/zEH4XR45P5","""60 Minutes"" on its story about vaccine distribution in Palm Beach County
+#breakingnews #news #china #trump #biden… ",Minutes story about vaccine distribution Palm Beach County #breakingnews #news #china #trump #biden,"['Minutes', 'story', 'about', 'vaccine', 'distribution', 'Palm', 'Beach', 'County', '#', 'breakingnews', '#', 'news', '#', 'china', '#', 'trump', '#', 'biden']","['Minutes', 'story', 'distribution', 'Palm', 'Beach', 'County', 'breakingnews', 'news', 'china', 'trump', 'biden']",  minut stori vaccin distribut palm beach counti #breakingnews #news #china #trump #biden… ,False,[],[],"['#breakingnews', '#news', '#china', '#trump', '#biden']",9
+1041,"RT @screenname87: I think we all know by now variants were just used to scare us
+
+https://t.co/hTfY1GEk3I","RT @screenname87: I think we all know by now variants were just used to scare us
+
+",think know variants were just used scare,"['think', 'know', 'variants', 'were', 'just', 'used', 'scare']","['think', 'variants', 'scare']", think know variant use scare us ,True,['@screenname87'],[],[],9
+1060,"Covid Situation is scary in Ahamedabad , Gujarat. Only supoer Rich can manage to get Hospital admission. The rest h… https://t.co/KtPKHSCR3A","Covid Situation is scary in Ahamedabad , Gujarat. Only supoer Rich can manage to get Hospital admission. The rest h… ",Covid Situation scary Ahamedabad Gujarat Only supoer Rich manage Hospital admission rest,"['Covid', 'Situation', 'scary', 'Ahamedabad', 'Gujarat', 'Only', 'supoer', 'Rich', 'manage', 'Hospital', 'admission', 'rest']","['Covid', 'Situation', 'Ahamedabad', 'Gujarat', 'Only', 'Rich', 'manage', 'Hospital', 'admission', 'rest']",covid situat scari ahamedabad gujarat supoer rich manag get hospit admiss rest h… ,False,[],[],[],9
+1066,"RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…","RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…",GOVERNMENT INQUIRIES Russia Report suppressed Priti Patel bullying ignored Racism rigged Covid respon,"['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'suppressed', 'Priti', 'Patel', 'bullying', 'ignored', 'Racism', 'rigged', 'Covid', 'respon']","['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'Priti', 'Patel', 'bullying', 'Racism', 'Covid', 'respon']", govern inquiri russia report suppress ❌ priti patel bulli ignored❌ racism uk rigged❌ covid respon…,True,['@davidschneider'],[],[],9
+1075,"RT @ThinkActTank: Was there any doubt about this happening? 
+
+https://t.co/1a7WVHoFLT","RT @ThinkActTank: Was there any doubt about this happening? 
+
+",there doubt about this happening,"['there', 'doubt', 'about', 'this', 'happening']","['doubt', 'happening']", doubt happen ,True,['@ThinkActTank'],[],[],9
+1106,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,Maharashtra especially Mumbai Metropolitan Region officially beyond redemption Every single hospital,"['Maharashtra', 'especially', 'Mumbai', 'Metropolitan', 'Region', 'officially', 'beyond', 'redemption', 'Every', 'single', 'hospital']","['Maharashtra', 'Mumbai', 'Metropolitan', 'Region', 'redemption', 'Every', 'hospital']", maharashtra especi mumbai metropolitan region offici beyond redempt everi singl hospit bed c…,True,['@DNRamki'],[],[],9
+1110,RT @LynnBrittney2: Yet another German court overturns Covid madness. https://t.co/caLhC9r7N0,RT @LynnBrittney2: Yet another German court overturns Covid madness. ,another German court overturns Covid madness,"['another', 'German', 'court', 'overturns', 'Covid', 'madness']","['court', 'Covid', 'madness']", yet anoth german court overturn covid mad ,True,['@LynnBrittney2'],[],[],9
+1126,"Just got the news of my dear friend and leader, AIPC Maharashtra President Mathew Antony, and his family have teste… https://t.co/pviqpOfrwO","Just got the news of my dear friend and leader, AIPC Maharashtra President Mathew Antony, and his family have teste… ",Just news dear friend leader AIPC Maharashtra President Mathew Antony family have teste,"['Just', 'news', 'dear', 'friend', 'leader', 'AIPC', 'Maharashtra', 'President', 'Mathew', 'Antony', 'family', 'have', 'teste']","['news', 'friend', 'leader', 'AIPC', 'Maharashtra', 'President', 'Mathew', 'Antony', 'family', 'teste']",got news dear friend leader aipc maharashtra presid mathew antoni famili teste… ,False,[],[],[],9
+1153,"RT @RohanV: Covid-19: Imagine the headlines if any other religion had been responsible for Kumbh-like gathering 
+
+https://t.co/GvTVvaQXLm","RT @RohanV: Covid-19: Imagine the headlines if any other religion had been responsible for Kumbh-like gathering 
+
+",Covid Imagine headlines other religion been responsible Kumbh like gathering,"['Covid', 'Imagine', 'headlines', 'other', 'religion', 'been', 'responsible', 'Kumbh', 'like', 'gathering']","['Covid', 'Imagine', 'religion', 'Kumbh']", covid  imagin headlin religion respons kumbh like gather ,True,['@RohanV'],[],[],9
+1170,Yes I agree,Yes I agree,agree,['agree'],['agree'],ye agre,False,[],[],[],9
+1174,"RT @thakkar_sameet: ** Mumbai **
+
+Funds For Urdu Bhavan But Not Enough Fund To Dispose Covid Death Bodies Properly.  
+
+Plastic Polythene Ba…","RT @thakkar_sameet: ** Mumbai **
+
+Funds For Urdu Bhavan But Not Enough Fund To Dispose Covid Death Bodies Properly.  
+
+Plastic Polythene Ba…",Mumbai Funds Urdu Bhavan Enough Fund Dispose Covid Death Bodies Properly Plastic Polythene,"['Mumbai', 'Funds', 'Urdu', 'Bhavan', 'Enough', 'Fund', 'Dispose', 'Covid', 'Death', 'Bodies', 'Properly', 'Plastic', 'Polythene']","['Mumbai', 'Funds', 'Urdu', 'Bhavan', 'Enough', 'Fund', 'Dispose', 'Covid', 'Death', 'Bodies', 'Properly', 'Plastic', 'Polythene']", mumbai fund urdu bhavan enough fund dispos covid death bodi properli plastic polythen ba…,True,['@thakkar_sameet'],[],[],9
+1191,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,fact that kumbh congregation still because state central government scared Scared religious,"['fact', 'that', 'kumbh', 'congregation', 'still', 'because', 'state', 'central', 'government', 'scared', 'Scared', 'religious']","['fact', 'congregation', 'state', 'government', 'Scared']", fact kumbh congreg still state central govern scare scare religious…,True,['@sanket'],[],[],9
+1218,"RT @XHNews: Chinese nationals are being offered COVID-19 vaccines in Cambodia as China's ""Spring Sprout"" vaccine program to inoculate Chine…","RT @XHNews: Chinese nationals are being offered COVID-19 vaccines in Cambodia as China's ""Spring Sprout"" vaccine program to inoculate Chine…",Chinese nationals being offered COVID vaccines Cambodia China Spring Sprout vaccine program inoculate Chine,"['Chinese', 'nationals', 'being', 'offered', 'COVID', 'vaccines', 'Cambodia', 'China', 'Spring', 'Sprout', 'vaccine', 'program', 'inoculate', 'Chine']","['nationals', 'COVID', 'vaccines', 'Cambodia', 'China', 'Spring', 'Sprout', 'vaccine', 'program', 'inoculate', 'Chine']", chines nation offer covid  vaccin cambodia china spring sprout vaccin program inocul chine…,True,['@XHNews'],[],[],9
+1248,"RT @abplivenews: Delhi CM #ArvindKejriwal Requests Centre To Cancel #CBSE Exams; Hospitals To Focus On Emergency Surgeries
+
+#COVID19 #Coron…","RT @abplivenews: Delhi CM #ArvindKejriwal Requests Centre To Cancel #CBSE Exams; Hospitals To Focus On Emergency Surgeries
+
+#COVID19 #Coron…",Delhi #ArvindKejriwal Requests Centre Cancel #CBSE Exams Hospitals Focus Emergency Surgeries #COVID #Coron,"['Delhi', '#', 'ArvindKejriwal', 'Requests', 'Centre', 'Cancel', '#', 'CBSE', 'Exams', 'Hospitals', 'Focus', 'Emergency', 'Surgeries', '#', 'COVID', '#', 'Coron']","['Delhi', 'ArvindKejriwal', 'Requests', 'Centre', 'Cancel', 'CBSE', 'Exams', 'Hospitals', 'Focus', 'Emergency', 'Surgeries', 'COVID', 'Coron']", delhi cm #arvindkejriwal request centr cancel #cbse exam hospit focu emerg surgeri #covid #coron…,True,['@abplivenews'],[],"['#ArvindKejriwal', '#CBSE', '#COVID19', '#Coron']",9
+1250,"RT @RCObsGyn: Calling all healthcare professionals: Join us on Wednesday 14 April for a COVID-19 vaccines, pregnancy and fertility webinar…","RT @RCObsGyn: Calling all healthcare professionals: Join us on Wednesday 14 April for a COVID-19 vaccines, pregnancy and fertility webinar…",Calling healthcare professionals Join Wednesday April COVID vaccines pregnancy fertility webinar,"['Calling', 'healthcare', 'professionals', 'Join', 'Wednesday', 'April', 'COVID', 'vaccines', 'pregnancy', 'fertility', 'webinar']","['healthcare', 'professionals', 'Join', 'Wednesday', 'April', 'COVID', 'vaccines', 'pregnancy', 'fertility', 'webinar']", call healthcar profession join us wednesday  april covid  vaccin pregnanc fertil webinar…,True,['@RCObsGyn'],[],[],9
+1252,"RT @Albion_Rover: Michael Yeadon Interview – Former Pfizer VP Speaks Out On Dangers Of mRNA Vaccines &amp; COVID Illusion
+
+https://t.co/SSzILqM…","RT @Albion_Rover: Michael Yeadon Interview – Former Pfizer VP Speaks Out On Dangers Of mRNA Vaccines &amp; COVID Illusion
+
+",Michael Yeadon Interview Former Pfizer Speaks Dangers mRNA Vaccines COVID Illusion,"['Michael', 'Yeadon', 'Interview', 'Former', 'Pfizer', 'Speaks', 'Dangers', 'mRNA', 'Vaccines', 'COVID', 'Illusion']","['Michael', 'Yeadon', 'Interview', 'Former', 'Pfizer', 'Speaks', 'Dangers', 'mRNA', 'Vaccines', 'COVID', 'Illusion']", michael yeadon interview – former pfizer vp speak danger mrna vaccin amp covid illus ,True,['@Albion_Rover'],[],[],9
+1274,"RT @CoalIndiaHQ: Shri. P.M. Prasad, Chairman-cum-Managing Director, Central Coalfields Ltd. visited &amp; inspected the corona ward of Gandhina…","RT @CoalIndiaHQ: Shri. P.M. Prasad, Chairman-cum-Managing Director, Central Coalfields Ltd. visited &amp; inspected the corona ward of Gandhina…",Shri Prasad Chairman Managing Director Central Coalfields visited inspected corona ward Gandhina,"['Shri', 'Prasad', 'Chairman', 'Managing', 'Director', 'Central', 'Coalfields', 'visited', 'inspected', 'corona', 'ward', 'Gandhina']","['Shri', 'Prasad', 'Chairman', 'Managing', 'Director', 'Central', 'Coalfields', 'corona', 'ward', 'Gandhina']", shri p prasad chairman cum manag director central coalfield ltd visit amp inspect corona ward gandhina…,True,['@CoalIndiaHQ'],[],[],9
+1296,"RT @edsbilisim: The Covid-19 Vaccination Race in Asia
+
+#Covid19 #CovidVaccine #Asia #Singapore #China #India #Indonesia #SouthKorea https:/…","RT @edsbilisim: The Covid-19 Vaccination Race in Asia
+
+#Covid19 #CovidVaccine #Asia #Singapore #China #India #Indonesia #SouthKorea ",Covid Vaccination Race Asia #Covid #CovidVaccine #Asia #Singapore #China #India #Indonesia #SouthKorea,"['Covid', 'Vaccination', 'Race', 'Asia', '#', 'Covid', '#', 'CovidVaccine', '#', 'Asia', '#', 'Singapore', '#', 'China', '#', 'India', '#', 'Indonesia', '#', 'SouthKorea']","['Covid', 'Vaccination', 'Race', 'Asia', 'Covid', 'CovidVaccine', 'Asia', 'Singapore', 'China', 'India', 'Indonesia', 'SouthKorea']", covid  vaccin race asia #covid #covidvaccine #asia #singapore #china #india #indonesia #southkorea ,True,['@edsbilisim'],[],"['#Covid19', '#CovidVaccine', '#Asia', '#Singapore', '#China', '#India', '#Indonesia', '#SouthKorea']",9
+1316,"RT @Cow__Momma: If Smriti Irani could be India’s Education Minister why can’t the Gardener in Sanchi, Madhya Pradesh be assigned to collect…","RT @Cow__Momma: If Smriti Irani could be India’s Education Minister why can’t the Gardener in Sanchi, Madhya Pradesh be assigned to collect…",Smriti Irani could India Education Minister Gardener Sanchi Madhya Pradesh assigned collect,"['Smriti', 'Irani', 'could', 'India', 'Education', 'Minister', 'Gardener', 'Sanchi', 'Madhya', 'Pradesh', 'assigned', 'collect']","['Smriti', 'Irani', 'India', 'Education', 'Minister', 'Gardener', 'Sanchi', 'Madhya', 'Pradesh', 'collect']", smriti irani could india’ educ minist can’t garden sanchi madhya pradesh assign collect…,True,['@Cow__Momma'],[],[],9
+1320,"RT @VivekNa53569744: Cancel the exam cbse CBSE Class 10, 12 Board Exam 2021: Students trend #CancelBoardExams2021 on Twitter as COVID cases…","RT @VivekNa53569744: Cancel the exam cbse CBSE Class 10, 12 Board Exam 2021: Students trend #CancelBoardExams2021 on Twitter as COVID cases…",Cancel exam cbse CBSE Class Board Exam Students trend #CancelBoardExams Twitter COVID cases,"['Cancel', 'exam', 'cbse', 'CBSE', 'Class', 'Board', 'Exam', 'Students', 'trend', '#', 'CancelBoardExams', 'Twitter', 'COVID', 'cases']","['Cancel', 'CBSE', 'Class', 'Board', 'Exam', 'Students', 'trend', 'CancelBoardExams', 'Twitter', 'COVID', 'cases']", cancel exam cbse cbse class   board exam  student trend #cancelboardexams twitter covid cases…,True,['@VivekNa53569744'],[],['#CancelBoardExams2021'],9
+1329,"RT @josephradhik: Maharashtra is under curfews, lockdowns, restricted movement, increased testing, and an overall pall of gloom.
+
+Meanwhile…","RT @josephradhik: Maharashtra is under curfews, lockdowns, restricted movement, increased testing, and an overall pall of gloom.
+
+Meanwhile…",Maharashtra under curfews lockdowns restricted movement increased testing overall pall gloom Meanwhile,"['Maharashtra', 'under', 'curfews', 'lockdowns', 'restricted', 'movement', 'increased', 'testing', 'overall', 'pall', 'gloom', 'Meanwhile']","['Maharashtra', 'curfews', 'lockdowns', 'movement', 'pall', 'gloom']", maharashtra curfew lockdown restrict movement increas test overal pall gloom meanwhile…,True,['@josephradhik'],[],[],9
+1337,"RT @IainLJBrown: Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component, Applicat…","RT @IainLJBrown: Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component, Applicat…",Artificial Intelligence Healthcare Market Forecast COVID Impact Global Analysis Component Applicat,"['Artificial', 'Intelligence', 'Healthcare', 'Market', 'Forecast', 'COVID', 'Impact', 'Global', 'Analysis', 'Component', 'Applicat']","['Intelligence', 'Healthcare', 'Market', 'Forecast', 'COVID', 'Impact', 'Global', 'Analysis', 'Component', 'Applicat']", artifici intellig healthcar market forecast  covid  impact global analysi compon applicat…,True,['@IainLJBrown'],[],[],9
+1344,"RT @VarshaEGaikwad: Your health is our priority.Given the nature &amp; the spread of #Covid-19, the #MVA government feels conducting board exam…","RT @VarshaEGaikwad: Your health is our priority.Given the nature &amp; the spread of #Covid-19, the #MVA government feels conducting board exam…",Your health priority Given nature spread #Covid #MVA government feels conducting board exam,"['Your', 'health', 'priority', 'Given', 'nature', 'spread', '#', 'Covid', '#', 'MVA', 'government', 'feels', 'conducting', 'board', 'exam']","['health', 'priority', 'Given', 'nature', 'spread', 'Covid', 'MVA', 'government', 'feels', 'board', 'exam']", health prioriti given natur amp spread #covid  #mva govern feel conduct board exam…,True,['@VarshaEGaikwad'],[],"['#Covid-19', '#MVA']",9
+1345,"RT @StateCrime: @StateCrime Invites you to the ""State Crime Journal Special Issue Panel: The Covid-19 Pandemic and State Crime"" this Wednes…","RT @StateCrime: @StateCrime Invites you to the ""State Crime Journal Special Issue Panel: The Covid-19 Pandemic and State Crime"" this Wednes…",Invites State Crime Journal Special Issue Panel Covid Pandemic State Crime this Wednes,"['Invites', 'State', 'Crime', 'Journal', 'Special', 'Issue', 'Panel', 'Covid', 'Pandemic', 'State', 'Crime', 'this', 'Wednes']","['Invites', 'State', 'Crime', 'Journal', 'Special', 'Issue', 'Panel', 'Covid', 'Pandemic', 'State', 'Crime', 'Wednes']", invit state crime journal special issu panel covid  pandem state crime wednes…,True,['@StateCrime'],['@StateCrime'],[],9
+1352,"@SkymetWeather Predicts #Monsoon2021 will be Normal . Amid Covid Pandemic, we hope it willl be true.
+@Mpalawat @SkymetMarathi","@SkymetWeather Predicts #Monsoon2021 will be Normal . Amid Covid Pandemic, we hope it willl be true.
+@Mpalawat @SkymetMarathi",Predicts #Monsoon will Normal Amid Covid Pandemic hope willl true,"['Predicts', '#', 'Monsoon', 'will', 'Normal', 'Amid', 'Covid', 'Pandemic', 'hope', 'willl', 'true']","['Predicts', 'Monsoon', 'Normal', 'Amid', 'Covid', 'Pandemic', 'willl']", predict #monsoon normal amid covid pandem hope willl true ,False,[],"['@SkymetWeather', '@Mpalawat', '@SkymetMarathi']",['#Monsoon2021'],9
+1383,"RT @WeCreatore: Wishing you a very happy and safe Baisakhi!🌾 
+
+#baisakhi #baisakhi2020 #sikh #singh #khalsa #khalsapanth #vaisakhi #ugadi #…","RT @WeCreatore: Wishing you a very happy and safe Baisakhi!🌾 
+
+#baisakhi #baisakhi2020 #sikh #singh #khalsa #khalsapanth #vaisakhi #ugadi #…",Wishing very happy safe Baisakhi #baisakhi #baisakhi #sikh #singh #khalsa #khalsapanth #vaisakhi #ugadi,"['Wishing', 'very', 'happy', 'safe', 'Baisakhi', '#', 'baisakhi', '#', 'baisakhi', '#', 'sikh', '#', 'singh', '#', 'khalsa', '#', 'khalsapanth', '#', 'vaisakhi', '#', 'ugadi']",['Baisakhi'], wish happi safe baisakhi 🌾 #baisakhi #baisakhi #sikh #singh #khalsa #khalsapanth #vaisakhi #ugadi #…,True,['@WeCreatore'],[],"['#baisakhi', '#baisakhi2020', '#sikh', '#singh', '#khalsa', '#khalsapanth', '#vaisakhi', '#ugadi']",9
+1430,"Globe at Home, GCash, and Singlife have joined forces to give Home Prepaid WiFi and Postpaid Broadband customers FR… https://t.co/htoqUzqjqi","Globe at Home, GCash, and Singlife have joined forces to give Home Prepaid WiFi and Postpaid Broadband customers FR… ",Globe Home GCash Singlife have joined forces give Home Prepaid WiFi Postpaid Broadband customers,"['Globe', 'Home', 'GCash', 'Singlife', 'have', 'joined', 'forces', 'give', 'Home', 'Prepaid', 'WiFi', 'Postpaid', 'Broadband', 'customers']","['Globe', 'Home', 'GCash', 'Singlife', 'forces', 'Home', 'Prepaid', 'WiFi', 'Postpaid', 'Broadband', 'customers']",globe home gcash singlif join forc give home prepaid wifi postpaid broadband custom fr… ,False,[],[],[],9
+1432,RT @Independent: WHO calls for ban on sale of live animals in food markets https://t.co/iVpKKaHBLh,RT @Independent: WHO calls for ban on sale of live animals in food markets ,calls sale live animals food markets,"['calls', 'sale', 'live', 'animals', 'food', 'markets']","['calls', 'sale', 'animals', 'food', 'markets']", call ban sale live anim food market ,True,['@Independent'],[],[],9
+1440,"RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…","RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…",Cholera Epidemic Broke Kumbh Mela Around People died week After that Sixth Cholera Pandemic,"['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'Around', 'People', 'died', 'week', 'After', 'that', 'Sixth', 'Cholera', 'Pandemic']","['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'People', 'week', 'Sixth', 'Cholera', 'Pandemic']", cholera epidem broke kumbh mela  around   peopl die week sixth cholera pandem b…,True,['@Joydas'],[],[],9
+1459,"RT @CoreenaSuares2: From Free ambulance service to online doctors consultations: #Hyderabad-based NGOs resume COVID-19 services again.
+
+For…","RT @CoreenaSuares2: From Free ambulance service to online doctors consultations: #Hyderabad-based NGOs resume COVID-19 services again.
+
+For…",From Free ambulance service online doctors consultations #Hyderabad based NGOs resume COVID services again,"['From', 'Free', 'ambulance', 'service', 'online', 'doctors', 'consultations', '#', 'Hyderabad', 'based', 'NGOs', 'resume', 'COVID', 'services', 'again']","['Free', 'ambulance', 'service', 'online', 'doctors', 'consultations', 'Hyderabad', 'NGOs', 'resume', 'COVID', 'services']", free ambul servic onlin doctor consult #hyderabad base ngo resum covid  servic for…,True,['@CoreenaSuares2'],[],['#Hyderabad-based'],9
+1469,"@ShekharGupta @MainaBismee No.
+Actually that crime was planned by govt with pet journalists to move the focus to mu… https://t.co/1RR4XrE6cj","@ShekharGupta @MainaBismee No.
+Actually that crime was planned by govt with pet journalists to move the focus to mu… ",Actually that crime planned govt with journalists move focus,"['Actually', 'that', 'crime', 'planned', 'govt', 'with', 'journalists', 'move', 'focus']","['crime', 'govt', 'journalists', 'focus']", actual crime plan govt pet journalist move focu mu… ,False,[],"['@ShekharGupta', '@MainaBismee']",[],9
+1477,Centre Fast-tracks Emergency Approval for Foreign-produced Covid Vaccines Cleared in Other Countries https://t.co/Dj1UgQbEEN,Centre Fast-tracks Emergency Approval for Foreign-produced Covid Vaccines Cleared in Other Countries ,Centre Fast tracks Emergency Approval Foreign produced Covid Vaccines Cleared Other Countries,"['Centre', 'Fast', 'tracks', 'Emergency', 'Approval', 'Foreign', 'produced', 'Covid', 'Vaccines', 'Cleared', 'Other', 'Countries']","['Centre', 'Fast', 'tracks', 'Emergency', 'Approval', 'Foreign', 'Covid', 'Vaccines', 'Cleared', 'Countries']",centr fast track emerg approv foreign produc covid vaccin clear countri ,False,[],[],[],9
+1486,"I feel like ive covid omg 
+I hope I'm wrong","I feel like ive covid omg 
+I hope I'm wrong",feel like covid hope wrong,"['feel', 'like', 'covid', 'hope', 'wrong']","['feel', 'covid']",feel like ive covid omg hope wrong,False,[],[],[],9
+1489,RT @DmodosCutter: The Two Week Wait: Why Did Ministers Keep the Public in the Dark About the South African COVID-19 Variant? – Byline Times…,RT @DmodosCutter: The Two Week Wait: Why Did Ministers Keep the Public in the Dark About the South African COVID-19 Variant? – Byline Times…,Week Wait Ministers Keep Public Dark About South African COVID Variant Byline Times,"['Week', 'Wait', 'Ministers', 'Keep', 'Public', 'Dark', 'About', 'South', 'African', 'COVID', 'Variant', 'Byline', 'Times']","['Wait', 'Ministers', 'Keep', 'Public', 'Dark', 'South', 'African', 'COVID', 'Variant', 'Byline', 'Times']", two week wait minist keep public dark south african covid  variant – bylin times…,True,['@DmodosCutter'],[],[],9
+1494,"RT @KtanuiEdwin: @SokoAnalyst We are already producing guns,,we will soon shoot COVID-19 to oblivion","RT @KtanuiEdwin: @SokoAnalyst We are already producing guns,,we will soon shoot COVID-19 to oblivion",already producing guns will soon shoot COVID oblivion,"['already', 'producing', 'guns', 'will', 'soon', 'shoot', 'COVID', 'oblivion']","['guns', 'COVID', 'oblivion']", alreadi produc gun soon shoot covid  oblivio,True,['@KtanuiEdwin'],['@SokoAnalyst'],[],9
+1511,"RT @MahilaCongress: Congress President Smt Sonia Gandhi's letter to the Prime Minister regarding the Covid-19 situation. 
+
+#SpeakUpForVacci…","RT @MahilaCongress: Congress President Smt Sonia Gandhi's letter to the Prime Minister regarding the Covid-19 situation. 
+
+#SpeakUpForVacci…",Congress President Sonia Gandhi letter Prime Minister regarding Covid situation #SpeakUpForVacci,"['Congress', 'President', 'Sonia', 'Gandhi', 'letter', 'Prime', 'Minister', 'regarding', 'Covid', 'situation', '#', 'SpeakUpForVacci']","['Congress', 'President', 'Sonia', 'Gandhi', 'letter', 'Prime', 'Minister', 'Covid', 'situation', 'SpeakUpForVacci']", congress presid smt sonia gandhi letter prime minist regard covid  situat #speakupforvacci…,True,['@MahilaCongress'],[],['#SpeakUpForVacci'],9
+1521,"RT @RubinaDilaik_: Happy Navratri 
+Happy Ramadan 
+Happy baisakhi
+Happy gudi padwa
+So many festival 🎎
+Unity in diversity
+
+Greetings and pray…","RT @RubinaDilaik_: Happy Navratri 
+Happy Ramadan 
+Happy baisakhi
+Happy gudi padwa
+So many festival 🎎
+Unity in diversity
+
+Greetings and pray…",Happy Navratri Happy Ramadan Happy baisakhi Happy gudi padwa many festival Unity diversity Greetings pray,"['Happy', 'Navratri', 'Happy', 'Ramadan', 'Happy', 'baisakhi', 'Happy', 'gudi', 'padwa', 'many', 'festival', 'Unity', 'diversity', 'Greetings', 'pray']","['Navratri', 'Happy', 'Ramadan', 'Happy', 'baisakhi', 'Happy', 'gudi', 'Unity', 'diversity', 'Greetings', 'pray']", happi navratri happi ramadan happi baisakhi happi gudi padwa mani festiv 🎎 uniti divers greet pray…,True,['@RubinaDilaik_'],[],[],9
+1528,"RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…","RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…",GOVERNMENT INQUIRIES Russia Report suppressed Priti Patel bullying ignored Racism rigged Covid respon,"['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'suppressed', 'Priti', 'Patel', 'bullying', 'ignored', 'Racism', 'rigged', 'Covid', 'respon']","['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'Priti', 'Patel', 'bullying', 'Racism', 'Covid', 'respon']", govern inquiri russia report suppress ❌ priti patel bulli ignored❌ racism uk rigged❌ covid respon…,True,['@davidschneider'],[],[],9
+1530,RT @mkvenu1: 3.5 million people had Shahi Snan or a holi dip in Hardwar yesterday. The DG police incharge of security said “our data doesn’…,RT @mkvenu1: 3.5 million people had Shahi Snan or a holi dip in Hardwar yesterday. The DG police incharge of security said “our data doesn’…,million people Shahi Snan holi Hardwar yesterday police incharge security said data doesn,"['million', 'people', 'Shahi', 'Snan', 'holi', 'Hardwar', 'yesterday', 'police', 'incharge', 'security', 'said', 'data', 'doesn']","['people', 'Shahi', 'Snan', 'holi', 'Hardwar', 'yesterday', 'police', 'security', 'data', 'doesn']",   million peopl shahi snan holi dip hardwar yesterday dg polic incharg secur said “our data doesn’…,True,['@mkvenu1'],[],[],9
+1537,RT @mewxcx: “Once COVID is over” is starting to sound a lot like “when Sky Ferreira releases her second album”,RT @mewxcx: “Once COVID is over” is starting to sound a lot like “when Sky Ferreira releases her second album”,Once COVID over starting sound like when Ferreira releases second album,"['Once', 'COVID', 'over', 'starting', 'sound', 'like', 'when', 'Ferreira', 'releases', 'second', 'album']","['COVID', 'sound', 'Ferreira', 'album']", “onc covid over” start sound lot like “when sky ferreira releas second album”,True,['@mewxcx'],[],[],9
+1593,Virtual/Online Fitness Market Research 2021-2027 | COVID-19 Industry Planning Structure for the New Normal – Fittim… https://t.co/xM5YSQp5ex,Virtual/Online Fitness Market Research 2021-2027 | COVID-19 Industry Planning Structure for the New Normal – Fittim… ,Virtual Online Fitness Market Research COVID Industry Planning Structure Normal Fittim,"['Virtual', 'Online', 'Fitness', 'Market', 'Research', 'COVID', 'Industry', 'Planning', 'Structure', 'Normal', 'Fittim']","['Online', 'Fitness', 'Market', 'Research', 'COVID', 'Industry', 'Planning', 'Structure', 'Normal', 'Fittim']",virtual onlin fit market research   covid  industri plan structur new normal – fittim… ,False,[],[],[],9
+1595,"RT @dansiddiqui: Kumbh Mela"", or the Pitcher Festival, amidst the spread of the coronavirus disease (COVID-19), in Haridwar, India. #KumbhM…","RT @dansiddiqui: Kumbh Mela"", or the Pitcher Festival, amidst the spread of the coronavirus disease (COVID-19), in Haridwar, India. #KumbhM…",Kumbh Mela Pitcher Festival amidst spread coronavirus disease COVID Haridwar India #KumbhM,"['Kumbh', 'Mela', 'Pitcher', 'Festival', 'amidst', 'spread', 'coronavirus', 'disease', 'COVID', 'Haridwar', 'India', '#', 'KumbhM']","['Kumbh', 'Mela', 'Pitcher', 'Festival', 'coronavirus', 'disease', 'COVID', 'Haridwar', 'India', 'KumbhM']", kumbh mela pitcher festiv amidst spread coronaviru diseas covid  haridwar india #kumbhm…,True,['@dansiddiqui'],[],['#KumbhM'],9
+1597,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,RT @sanket: The fact that the kumbh congregation is still on is because the state and the central government is scared. Scared of religious…,fact that kumbh congregation still because state central government scared Scared religious,"['fact', 'that', 'kumbh', 'congregation', 'still', 'because', 'state', 'central', 'government', 'scared', 'Scared', 'religious']","['fact', 'congregation', 'state', 'government', 'Scared']", fact kumbh congreg still state central govern scare scare religious…,True,['@sanket'],[],[],9
+1598,"@OurWorldInData The daily COVID death counts in Asia and South America.
+
+In both world regions the death count is n… https://t.co/sHAGllhu8I","@OurWorldInData The daily COVID death counts in Asia and South America.
+
+In both world regions the death count is n… ",daily COVID death counts Asia South America both world regions death count,"['daily', 'COVID', 'death', 'counts', 'Asia', 'South', 'America', 'both', 'world', 'regions', 'death', 'count']","['COVID', 'death', 'counts', 'Asia', 'South', 'America', 'world', 'regions', 'death', 'count']", daili covid death count asia south america world region death count n… ,False,[],['@OurWorldInData'],[],9
+1616,"Christine Cipolla, Regional Director, Asia Pacific, @ICRC Geneva will speak at #Raisina2021 titled: Beyond Covid-Gl… https://t.co/O5V0b3fB8X","Christine Cipolla, Regional Director, Asia Pacific, @ICRC Geneva will speak at #Raisina2021 titled: Beyond Covid-Gl… ",Christine Cipolla Regional Director Asia Pacific Geneva will speak #Raisina titled Beyond Covid,"['Christine', 'Cipolla', 'Regional', 'Director', 'Asia', 'Pacific', 'Geneva', 'will', 'speak', '#', 'Raisina', 'titled', 'Beyond', 'Covid']","['Christine', 'Cipolla', 'Regional', 'Director', 'Asia', 'Pacific', 'Geneva', 'Raisina', 'Beyond', 'Covid']",christin cipolla region director asia pacif geneva speak #raisina titl beyond covid gl… ,False,[],['@ICRC'],['#Raisina2021'],9
+1635,"Want To Take Exam?Fine
+Let Us Know  Exam Centre
+Let Us  Go To The School, For Doubts, Lab For Practical Give Us  Ou… https://t.co/bQJwnls1oV","Want To Take Exam?Fine
+Let Us Know  Exam Centre
+Let Us  Go To The School, For Doubts, Lab For Practical Give Us  Ou… ",Want Take Exam Fine Know Exam Centre School Doubts Practical Give,"['Want', 'Take', 'Exam', 'Fine', 'Know', 'Exam', 'Centre', 'School', 'Doubts', 'Practical', 'Give']","['Want', 'Take', 'Exam', 'Fine', 'Know', 'Exam', 'Centre', 'School', 'Doubts', 'Practical', 'Give']",want take exam fine let us know exam centr let us go school doubt lab practic give us ou… ,False,[],[],[],9
+1644,"Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Please share 🙏","Friends,
+
+EMERGENCY REQUIREMENT:
+
+A+ Blood (Not for Covid)
+Place: NTR Trust, Hyderabad
+
+Please call: +917093171843
+
+Please share 🙏",Friends EMERGENCY REQUIREMENT Blood Covid Place Trust Hyderabad Please call Please share,"['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'call', 'Please', 'share']","['Friends', 'EMERGENCY', 'REQUIREMENT', 'Blood', 'Covid', 'Place', 'Trust', 'Hyderabad', 'Please', 'Please', 'share']",friend emerg requir blood covid place ntr trust hyderabad pleas call  pleas share 🙏,False,[],[],[],9
+1650,"RT @WinstonCProject: ""Apple and Google block 'Serco' £37billion Covid-app update over privacy breaches.""
+
+""UK Ministers have paused a plann…","RT @WinstonCProject: ""Apple and Google block 'Serco' £37billion Covid-app update over privacy breaches.""
+
+""UK Ministers have paused a plann…",Apple Google block Serco billion Covid update over privacy breaches Ministers have paused plann,"['Apple', 'Google', 'block', 'Serco', 'billion', 'Covid', 'update', 'over', 'privacy', 'breaches', 'Ministers', 'have', 'paused', 'plann']","['Apple', 'Google', 'block', 'Serco', 'Covid', 'update', 'privacy', 'breaches', 'Ministers', 'plann']", appl googl block serco £billion covid app updat privaci breach uk minist paus plann…,True,['@WinstonCProject'],[],[],9
+1677,RT @swati_gs: The real issue with #TablighiJamaat gathering last year in March was not the crowd. It was the fact that the Jamaat head Maul…,RT @swati_gs: The real issue with #TablighiJamaat gathering last year in March was not the crowd. It was the fact that the Jamaat head Maul…,real issue with #TablighiJamaat gathering last year March crowd fact that Jamaat head Maul,"['real', 'issue', 'with', '#', 'TablighiJamaat', 'gathering', 'last', 'year', 'March', 'crowd', 'fact', 'that', 'Jamaat', 'head', 'Maul']","['issue', 'TablighiJamaat', 'gathering', 'year', 'March', 'crowd', 'fact', 'Jamaat', 'head', 'Maul']", real issu #tablighijamaat gather last year march crowd fact jamaat head maul…,True,['@swati_gs'],[],['#TablighiJamaat'],9
+1696,"WHO Seeks Ban On Sale Of Live Wild Animals In Food Market To Stem Covid @WHO 
+
+#WHO #Wildanimals #Foodmarket… https://t.co/5sEk1e23q2","WHO Seeks Ban On Sale Of Live Wild Animals In Food Market To Stem Covid @WHO 
+
+#WHO #Wildanimals #Foodmarket… ",Seeks Sale Live Wild Animals Food Market Stem Covid #WHO #Wildanimals #Foodmarket,"['Seeks', 'Sale', 'Live', 'Wild', 'Animals', 'Food', 'Market', 'Stem', 'Covid', '#', 'WHO', '#', 'Wildanimals', '#', 'Foodmarket']","['Seeks', 'Sale', 'Live', 'Wild', 'Animals', 'Food', 'Market', 'Stem', 'Covid', 'WHO', 'Wildanimals', 'Foodmarket']",seek ban sale live wild anim food market stem covid #who #wildanimals #foodmarket… ,False,[],['@WHO'],"['#WHO', '#Wildanimals', '#Foodmarket']",9
+1699,Thanx sir,Thanx sir,Thanx,['Thanx'],['Thanx'],thanx sir,False,[],[],[],9
+1704,"RT @freddiemac1: Sturgeons covid record is SLOWEST for schools going back, shops, hotels, bars, restaurants, health clubs opening.   SLOWES…","RT @freddiemac1: Sturgeons covid record is SLOWEST for schools going back, shops, hotels, bars, restaurants, health clubs opening.   SLOWES…",Sturgeons covid record SLOWEST schools going back shops hotels bars restaurants health clubs opening SLOWES,"['Sturgeons', 'covid', 'record', 'SLOWEST', 'schools', 'going', 'back', 'shops', 'hotels', 'bars', 'restaurants', 'health', 'clubs', 'opening', 'SLOWES']","['Sturgeons', 'record', 'SLOWEST', 'schools', 'hotels', 'bars', 'restaurants', 'health', 'clubs', 'SLOWES']", sturgeon covid record slowest school go back shop hotel bar restaur health club open slowes…,True,['@freddiemac1'],[],[],9
+1739,"RT @_Moronn_: Want To Take Exam?Fine
+Let Us Know  Exam Centre
+Let Us  Go To The School, For Doubts, Lab For Practical Give Us  Our Admit Ca…","RT @_Moronn_: Want To Take Exam?Fine
+Let Us Know  Exam Centre
+Let Us  Go To The School, For Doubts, Lab For Practical Give Us  Our Admit Ca…",Want Take Exam Fine Know Exam Centre School Doubts Practical Give Admit,"['Want', 'Take', 'Exam', 'Fine', 'Know', 'Exam', 'Centre', 'School', 'Doubts', 'Practical', 'Give', 'Admit']","['Want', 'Take', 'Exam', 'Fine', 'Know', 'Exam', 'Centre', 'School', 'Doubts', 'Practical', 'Give', 'Admit']",rt moronn want take exam fine let us know exam centr let us go school doubt lab practic give us admit ca…,True,[],[],[],9
+1817,"RT @Krunal_Goda: Exposing
+
+Shiv Sena Appeasement Politics
+
+Watch how Mayor is working hard to stop Spread of COViD 19
+
+Dear CM @OfficeofUT…","RT @Krunal_Goda: Exposing
+
+Shiv Sena Appeasement Politics
+
+Watch how Mayor is working hard to stop Spread of COViD 19
+
+Dear CM @OfficeofUT…",Exposing Shiv Sena Appeasement Politics Watch Mayor working hard stop Spread COViD Dear,"['Exposing', 'Shiv', 'Sena', 'Appeasement', 'Politics', 'Watch', 'Mayor', 'working', 'hard', 'stop', 'Spread', 'COViD', 'Dear']","['Shiv', 'Sena', 'Appeasement', 'Politics', 'Watch', 'Mayor', 'stop', 'Spread', 'COViD', 'Dear']", expos shiv sena appeas polit watch mayor work hard stop spread covid  dear cm …,True,['@Krunal_Goda'],['@OfficeofUT'],[],9
+1828,"RT @MahilaCongress: Remarks by Congress President, Smt. Sonia Gandhi at a meeting of Congress ruled State CMs &amp; Congress Ministers from our…","RT @MahilaCongress: Remarks by Congress President, Smt. Sonia Gandhi at a meeting of Congress ruled State CMs &amp; Congress Ministers from our…",Remarks Congress President Sonia Gandhi meeting Congress ruled State Congress Ministers from,"['Remarks', 'Congress', 'President', 'Sonia', 'Gandhi', 'meeting', 'Congress', 'ruled', 'State', 'Congress', 'Ministers', 'from']","['Remarks', 'Congress', 'President', 'Sonia', 'Gandhi', 'meeting', 'Congress', 'State', 'Congress', 'Ministers']", remark congress presid smt sonia gandhi meet congress rule state cm amp congress minist our…,True,['@MahilaCongress'],[],[],9
+1846,RT @am_nawazish: The whole Germany and France Covid infection rate vs Pakistan debate over UK travel restrictions fails to take an importan…,RT @am_nawazish: The whole Germany and France Covid infection rate vs Pakistan debate over UK travel restrictions fails to take an importan…,whole Germany France Covid infection rate Pakistan debate over travel restrictions fails take importan,"['whole', 'Germany', 'France', 'Covid', 'infection', 'rate', 'Pakistan', 'debate', 'over', 'travel', 'restrictions', 'fails', 'take', 'importan']","['Germany', 'France', 'Covid', 'infection', 'rate', 'Pakistan', 'debate', 'travel', 'restrictions', 'fails', 'importan']", whole germani franc covid infect rate vs pakistan debat uk travel restrict fail take importan…,True,['@am_nawazish'],[],[],9
+1848,RT @DmodosCutter: The Two Week Wait: Why Did Ministers Keep the Public in the Dark About the South African COVID-19 Variant? – Byline Times…,RT @DmodosCutter: The Two Week Wait: Why Did Ministers Keep the Public in the Dark About the South African COVID-19 Variant? – Byline Times…,Week Wait Ministers Keep Public Dark About South African COVID Variant Byline Times,"['Week', 'Wait', 'Ministers', 'Keep', 'Public', 'Dark', 'About', 'South', 'African', 'COVID', 'Variant', 'Byline', 'Times']","['Wait', 'Ministers', 'Keep', 'Public', 'Dark', 'South', 'African', 'COVID', 'Variant', 'Byline', 'Times']", two week wait minist keep public dark south african covid  variant – bylin times…,True,['@DmodosCutter'],[],[],9
+1851,"RT @IainLJBrown: Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component, Applicat…","RT @IainLJBrown: Artificial Intelligence in Healthcare Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component, Applicat…",Artificial Intelligence Healthcare Market Forecast COVID Impact Global Analysis Component Applicat,"['Artificial', 'Intelligence', 'Healthcare', 'Market', 'Forecast', 'COVID', 'Impact', 'Global', 'Analysis', 'Component', 'Applicat']","['Intelligence', 'Healthcare', 'Market', 'Forecast', 'COVID', 'Impact', 'Global', 'Analysis', 'Component', 'Applicat']", artifici intellig healthcar market forecast  covid  impact global analysi compon applicat…,True,['@IainLJBrown'],[],[],9
+1853,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,Maharashtra especially Mumbai Metropolitan Region officially beyond redemption Every single hospital,"['Maharashtra', 'especially', 'Mumbai', 'Metropolitan', 'Region', 'officially', 'beyond', 'redemption', 'Every', 'single', 'hospital']","['Maharashtra', 'Mumbai', 'Metropolitan', 'Region', 'redemption', 'Every', 'hospital']", maharashtra especi mumbai metropolitan region offici beyond redempt everi singl hospit bed c…,True,['@DNRamki'],[],[],9
+1870,"RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…","RT @davidschneider: GOVERNMENT INQUIRIES:
+
+Russia Report - suppressed ❌
+Priti Patel bullying - ignored❌
+Racism in UK - rigged❌
+Covid respon…",GOVERNMENT INQUIRIES Russia Report suppressed Priti Patel bullying ignored Racism rigged Covid respon,"['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'suppressed', 'Priti', 'Patel', 'bullying', 'ignored', 'Racism', 'rigged', 'Covid', 'respon']","['GOVERNMENT', 'INQUIRIES', 'Russia', 'Report', 'Priti', 'Patel', 'bullying', 'Racism', 'Covid', 'respon']", govern inquiri russia report suppress ❌ priti patel bulli ignored❌ racism uk rigged❌ covid respon…,True,['@davidschneider'],[],[],9
+1876,RT @kenichiromogi: That's what you would call the zen of vaccination.,RT @kenichiromogi: That's what you would call the zen of vaccination.,That what would call vaccination,"['That', 'what', 'would', 'call', 'vaccination']",['vaccination'], would call zen vaccin ,True,['@kenichiromogi'],[],[],9
+1877,COVID-19 has been much harder on those who already had anxiety and financial issues https://t.co/DLULcsCWtk via @ConversationCA,COVID-19 has been much harder on those who already had anxiety and financial issues  via @ConversationCA,COVID been much harder those already anxiety financial issues,"['COVID', 'been', 'much', 'harder', 'those', 'already', 'anxiety', 'financial', 'issues']","['COVID', 'issues']",covid  much harder alreadi anxieti financi issu via ,False,[],['@ConversationCA'],[],9
+1928,"RT @NotAFave_: St. Vincent - Volcano eruption
+Barbados -  Covered in ash
+Lucia - Flood
+Dominica - Rioting 
+All while dealing with covid","RT @NotAFave_: St. Vincent - Volcano eruption
+Barbados -  Covered in ash
+Lucia - Flood
+Dominica - Rioting 
+All while dealing with covid",Vincent Volcano eruption Barbados Covered Lucia Flood Dominica Rioting while dealing with covid,"['Vincent', 'Volcano', 'eruption', 'Barbados', 'Covered', 'Lucia', 'Flood', 'Dominica', 'Rioting', 'while', 'dealing', 'with', 'covid']","['Vincent', 'Volcano', 'eruption', 'Barbados', 'Covered', 'Lucia', 'Flood', 'Dominica', 'Rioting', 'covid']", st vincent volcano erupt barbado cover ash lucia flood dominica riot deal covid,True,['@NotAFave_'],[],[],9
+1958,BREAKING | Govt Fast Tracks Approvals For Foreign-Made COVID Jabs To Expand Vaccination Coverage… https://t.co/5vaN1Sfo4g,BREAKING | Govt Fast Tracks Approvals For Foreign-Made COVID Jabs To Expand Vaccination Coverage… ,BREAKING Govt Fast Tracks Approvals Foreign Made COVID Jabs Expand Vaccination Coverage,"['BREAKING', 'Govt', 'Fast', 'Tracks', 'Approvals', 'Foreign', 'Made', 'COVID', 'Jabs', 'Expand', 'Vaccination', 'Coverage']","['BREAKING', 'Govt', 'Fast', 'Tracks', 'Approvals', 'Foreign', 'Made', 'COVID', 'Jabs', 'Expand', 'Vaccination', 'Coverage']",break govt fast track approv foreign made covid jab expand vaccin coverage… ,False,[],[],[],9
+1968,"RT @MaxCRoser: @OurWorldInData The daily COVID death counts in Asia and South America.
+
+In both world regions the death count is now higher…","RT @MaxCRoser: @OurWorldInData The daily COVID death counts in Asia and South America.
+
+In both world regions the death count is now higher…",daily COVID death counts Asia South America both world regions death count higher,"['daily', 'COVID', 'death', 'counts', 'Asia', 'South', 'America', 'both', 'world', 'regions', 'death', 'count', 'higher']","['COVID', 'death', 'counts', 'Asia', 'South', 'America', 'world', 'regions', 'death', 'count']", daili covid death count asia south america world region death count higher…,True,['@MaxCRoser'],['@OurWorldInData'],[],9
+1974,"Student - twitting why board exam during covid
+Le CBSE* 
+yeh tum karlo mai dream 11 pe team bana leta hu… https://t.co/1zrca9XVkv","Student - twitting why board exam during covid
+Le CBSE* 
+yeh tum karlo mai dream 11 pe team bana leta hu… ",Student twitting board exam during covid CBSE karlo dream team bana leta,"['Student', 'twitting', 'board', 'exam', 'during', 'covid', 'CBSE', 'karlo', 'dream', 'team', 'bana', 'leta']","['Student', 'board', 'exam', 'CBSE', 'karlo', 'dream', 'team', 'bana', 'leta']",student twit board exam covid le cbse yeh tum karlo mai dream  pe team bana leta hu… ,False,[],[],[],9
+1989,"@WAVEYMETAL not being careful with covid, thats what/j","@WAVEYMETAL not being careful with covid, thats what/j",being careful with covid thats what,"['being', 'careful', 'with', 'covid', 'thats', 'what']",['thats'], care covid that j,False,[],['@WAVEYMETAL'],[],9
+2011,"RT @SCRailwayIndia: Shri Gajanan Mallya, General Manager, SCR receives 2nd Dose of #Covid Vaccination 💉 today at Central Hospital, Lallagud…","RT @SCRailwayIndia: Shri Gajanan Mallya, General Manager, SCR receives 2nd Dose of #Covid Vaccination 💉 today at Central Hospital, Lallagud…",Shri Gajanan Mallya General Manager receives Dose #Covid Vaccination today Central Hospital Lallagud,"['Shri', 'Gajanan', 'Mallya', 'General', 'Manager', 'receives', 'Dose', '#', 'Covid', 'Vaccination', 'today', 'Central', 'Hospital', 'Lallagud']","['Shri', 'Gajanan', 'Mallya', 'General', 'Manager', 'Dose', 'Covid', 'Vaccination', 'today', 'Central', 'Hospital', 'Lallagud']", shri gajanan mallya gener manag scr receiv nd dose #covid vaccin 💉 today central hospit lallagud…,True,['@SCRailwayIndia'],[],['#Covid'],9
+2040,"RT @ICRC_nd: Christine Cipolla, Regional Director, Asia Pacific, @ICRC Geneva will speak at #Raisina2021 titled: Beyond Covid-Global Public…","RT @ICRC_nd: Christine Cipolla, Regional Director, Asia Pacific, @ICRC Geneva will speak at #Raisina2021 titled: Beyond Covid-Global Public…",Christine Cipolla Regional Director Asia Pacific Geneva will speak #Raisina titled Beyond Covid Global Public,"['Christine', 'Cipolla', 'Regional', 'Director', 'Asia', 'Pacific', 'Geneva', 'will', 'speak', '#', 'Raisina', 'titled', 'Beyond', 'Covid', 'Global', 'Public']","['Christine', 'Cipolla', 'Regional', 'Director', 'Asia', 'Pacific', 'Geneva', 'Raisina', 'Beyond', 'Covid', 'Global', 'Public']", christin cipolla region director asia pacif geneva speak #raisina titl beyond covid global public…,True,['@ICRC_nd'],['@ICRC'],['#Raisina2021'],9
+2054,"RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…","RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…",Cholera Epidemic Broke Kumbh Mela Around People died week After that Sixth Cholera Pandemic,"['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'Around', 'People', 'died', 'week', 'After', 'that', 'Sixth', 'Cholera', 'Pandemic']","['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'People', 'week', 'Sixth', 'Cholera', 'Pandemic']", cholera epidem broke kumbh mela  around   peopl die week sixth cholera pandem b…,True,['@Joydas'],[],[],9
+2066,"RT @ImRanjeetSing: Irony is for just sake of votes and to impress  Hindus, Modi govt puts millions of life of Hindus in danger... Imagine t…","RT @ImRanjeetSing: Irony is for just sake of votes and to impress  Hindus, Modi govt puts millions of life of Hindus in danger... Imagine t…",Irony just sake votes impress Hindus Modi govt puts millions life Hindus danger Imagine,"['Irony', 'just', 'sake', 'votes', 'impress', 'Hindus', 'Modi', 'govt', 'puts', 'millions', 'life', 'Hindus', 'danger', 'Imagine']","['Irony', 'votes', 'Hindus', 'Modi', 'govt', 'millions', 'life', 'Hindus', 'danger', 'Imagine']", ironi sake vote impress hindu modi govt put million life hindu danger imagin t…,True,['@ImRanjeetSing'],[],[],9
+2078,"RT @Vetri_D_Trends: #Karnan Box Office Rampage Continues Everywhere!🗡️
+
+Opening Weekend World Wide Collection around 63Cr+ 🔥
+
+Despite of CO…","RT @Vetri_D_Trends: #Karnan Box Office Rampage Continues Everywhere!🗡️
+
+Opening Weekend World Wide Collection around 63Cr+ 🔥
+
+Despite of CO…",#Karnan Office Rampage Continues Everywhere Opening Weekend World Wide Collection around Despite,"['#', 'Karnan', 'Office', 'Rampage', 'Continues', 'Everywhere', 'Opening', 'Weekend', 'World', 'Wide', 'Collection', 'around', 'Despite']","['Karnan', 'Office', 'Rampage', 'Continues', 'Everywhere', 'Opening', 'Weekend', 'World', 'Wide', 'Collection']", #karnan box offic rampag continu everywher 🗡️ open weekend world wide collect around cr 🔥 despit co…,True,['@Vetri_D_Trends'],[],['#Karnan'],9
+2098,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,RT @DNRamki: Maharashtra and especially the Mumbai Metropolitan Region is now officially beyond redemption. Every single hospital bed you c…,Maharashtra especially Mumbai Metropolitan Region officially beyond redemption Every single hospital,"['Maharashtra', 'especially', 'Mumbai', 'Metropolitan', 'Region', 'officially', 'beyond', 'redemption', 'Every', 'single', 'hospital']","['Maharashtra', 'Mumbai', 'Metropolitan', 'Region', 'redemption', 'Every', 'hospital']", maharashtra especi mumbai metropolitan region offici beyond redempt everi singl hospit bed c…,True,['@DNRamki'],[],[],9
+2108,COVID ‘long way from over’ as cases and deaths surge: WHO | Indiablooms – First Portal on Digital News Management –… https://t.co/tfv9JPXpOu,COVID ‘long way from over’ as cases and deaths surge: WHO | Indiablooms – First Portal on Digital News Management –… ,COVID long from over cases deaths surge Indiablooms First Portal Digital News Management,"['COVID', 'long', 'from', 'over', 'cases', 'deaths', 'surge', 'Indiablooms', 'First', 'Portal', 'Digital', 'News', 'Management']","['COVID', 'cases', 'deaths', 'surge', 'Indiablooms', 'First', 'Portal', 'Digital', 'News', 'Management']",covid ‘long way over’ case death surg indiabloom – first portal digit news manag –… ,False,[],[],[],9
+2141,"RT @breaknnews1: ""60 Minutes"" on its story about vaccine distribution in Palm Beach County
+#breakingnews #news #china #trump #biden #photo…","RT @breaknnews1: ""60 Minutes"" on its story about vaccine distribution in Palm Beach County
+#breakingnews #news #china #trump #biden #photo…",Minutes story about vaccine distribution Palm Beach County #breakingnews #news #china #trump #biden #photo,"['Minutes', 'story', 'about', 'vaccine', 'distribution', 'Palm', 'Beach', 'County', '#', 'breakingnews', '#', 'news', '#', 'china', '#', 'trump', '#', 'biden', '#', 'photo']","['Minutes', 'story', 'distribution', 'Palm', 'Beach', 'County', 'breakingnews', 'news', 'china', 'trump', 'photo']",  minut stori vaccin distribut palm beach counti #breakingnews #news #china #trump #biden #photo…,True,['@breaknnews1'],[],"['#breakingnews', '#news', '#china', '#trump', '#biden', '#photo']",9
+2152,"RT @WinstonCProject: ""Apple and Google block 'Serco' £37billion Covid-app update over privacy breaches.""
+
+""UK Ministers have paused a plann…","RT @WinstonCProject: ""Apple and Google block 'Serco' £37billion Covid-app update over privacy breaches.""
+
+""UK Ministers have paused a plann…",Apple Google block Serco billion Covid update over privacy breaches Ministers have paused plann,"['Apple', 'Google', 'block', 'Serco', 'billion', 'Covid', 'update', 'over', 'privacy', 'breaches', 'Ministers', 'have', 'paused', 'plann']","['Apple', 'Google', 'block', 'Serco', 'Covid', 'update', 'privacy', 'breaches', 'Ministers', 'plann']", appl googl block serco £billion covid app updat privaci breach uk minist paus plann…,True,['@WinstonCProject'],[],[],9
+2197,"RT @roaststaan: Student - twitting why board exam during covid
+Le CBSE* 
+yeh tum karlo mai dream 11 pe team bana leta hu #cancelboardexams2…","RT @roaststaan: Student - twitting why board exam during covid
+Le CBSE* 
+yeh tum karlo mai dream 11 pe team bana leta hu #cancelboardexams2…",Student twitting board exam during covid CBSE karlo dream team bana leta #cancelboardexams,"['Student', 'twitting', 'board', 'exam', 'during', 'covid', 'CBSE', 'karlo', 'dream', 'team', 'bana', 'leta', '#', 'cancelboardexams']","['Student', 'board', 'exam', 'CBSE', 'karlo', 'dream', 'team', 'bana', 'leta', 'cancelboardexams']", student twit board exam covid le cbse yeh tum karlo mai dream  pe team bana leta hu #cancelboardexams…,True,['@roaststaan'],[],['#cancelboardexams2'],9
+2252,"RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…","RT @Joydas: Cholera Epidemic Broke out in Kumbh Mela in 1783. Around 20,000 People died in a week. After that, the Sixth Cholera Pandemic B…",Cholera Epidemic Broke Kumbh Mela Around People died week After that Sixth Cholera Pandemic,"['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'Around', 'People', 'died', 'week', 'After', 'that', 'Sixth', 'Cholera', 'Pandemic']","['Cholera', 'Epidemic', 'Broke', 'Kumbh', 'Mela', 'People', 'week', 'Sixth', 'Cholera', 'Pandemic']", cholera epidem broke kumbh mela  around   peopl die week sixth cholera pandem b…,True,['@Joydas'],[],[],9
+2261,"RT @SweetestGirl022: Friends it's a humble request pls avoid junk food, restaurant foods and unhealthy food for few days eat foods which ca…","RT @SweetestGirl022: Friends it's a humble request pls avoid junk food, restaurant foods and unhealthy food for few days eat foods which ca…",Friends humble request avoid junk food restaurant foods unhealthy food days foods which,"['Friends', 'humble', 'request', 'avoid', 'junk', 'food', 'restaurant', 'foods', 'unhealthy', 'food', 'days', 'foods', 'which']","['Friends', 'request', 'junk', 'food', 'restaurant', 'foods', 'food', 'days', 'foods']", friend humbl request pl avoid junk food restaur food unhealthi food day eat food ca…,True,['@SweetestGirl022'],[],[],9
+2263,South Korea Considers Use Of COVID-19 Self-Test Kits Amid Fourth Wave Fears https://t.co/V9CP1vpt1r,South Korea Considers Use Of COVID-19 Self-Test Kits Amid Fourth Wave Fears ,South Korea Considers COVID Self Test Kits Amid Fourth Wave Fears,"['South', 'Korea', 'Considers', 'COVID', 'Self', 'Test', 'Kits', 'Amid', 'Fourth', 'Wave', 'Fears']","['South', 'Korea', 'Considers', 'COVID', 'Self', 'Test', 'Kits', 'Amid', 'Fourth', 'Wave', 'Fears']",south korea consid use covid  self test kit amid fourth wave fear ,False,[],[],[],9
+2303,RT @bainjal: Covid super spreader Prime Minister,RT @bainjal: Covid super spreader Prime Minister,Covid super spreader Prime Minister,"['Covid', 'super', 'spreader', 'Prime', 'Minister']","['Covid', 'super', 'spreader', 'Prime', 'Minister']", covid super spreader prime minist,True,['@bainjal'],[],[],9
+2307,"https://t.co/cRcIbPLsnu by @Cartoonydan and @AndyGCowan 
+“I’m not a porcupine.  I’m a guinea pig with 28 Covid variant shots in me.”"," by @Cartoonydan and @AndyGCowan 
+“I’m not a porcupine.  I’m a guinea pig with 28 Covid variant shots in me.”",porcupine guinea with Covid variant shots,"['porcupine', 'guinea', 'with', 'Covid', 'variant', 'shots']","['porcupine', 'guinea', 'Covid', 'shots']", “i’m porcupin i’m guinea pig  covid variant shot ”,False,[],"['@Cartoonydan', '@AndyGCowan']",[],9
+2348,"RT @ICRC_nd: Christine Cipolla, Regional Director, Asia Pacific, @ICRC Geneva will speak at #Raisina2021 titled: Beyond Covid-Global Public…","RT @ICRC_nd: Christine Cipolla, Regional Director, Asia Pacific, @ICRC Geneva will speak at #Raisina2021 titled: Beyond Covid-Global Public…",Christine Cipolla Regional Director Asia Pacific Geneva will speak #Raisina titled Beyond Covid Global Public,"['Christine', 'Cipolla', 'Regional', 'Director', 'Asia', 'Pacific', 'Geneva', 'will', 'speak', '#', 'Raisina', 'titled', 'Beyond', 'Covid', 'Global', 'Public']","['Christine', 'Cipolla', 'Regional', 'Director', 'Asia', 'Pacific', 'Geneva', 'Raisina', 'Beyond', 'Covid', 'Global', 'Public']", christin cipolla region director asia pacif geneva speak #raisina titl beyond covid global public…,True,['@ICRC_nd'],['@ICRC'],['#Raisina2021'],9
+2361,"RT @AOC: Update: Just heard from @SenSchumer that over *1 MILLION* calls were made today to our funeral assistance program.
+
+FEMA has shore…","RT @AOC: Update: Just heard from @SenSchumer that over *1 MILLION* calls were made today to our funeral assistance program.
+
+FEMA has shore…",Update Just heard from that over MILLION calls were made today funeral assistance program FEMA shore,"['Update', 'Just', 'heard', 'from', 'that', 'over', 'MILLION', 'calls', 'were', 'made', 'today', 'funeral', 'assistance', 'program', 'FEMA', 'shore']","['Update', 'Just', 'heard', 'MILLION', 'calls', 'today', 'assistance', 'program', 'FEMA', 'shore']", updat heard  million call made today funer assist program fema shore…,True,['@AOC'],['@SenSchumer'],[],9
+2367,"RT @MaxCRoser: @OurWorldInData The daily COVID death counts in Asia and South America.
+
+In both world regions the death count is now higher…","RT @MaxCRoser: @OurWorldInData The daily COVID death counts in Asia and South America.
+
+In both world regions the death count is now higher…",daily COVID death counts Asia South America both world regions death count higher,"['daily', 'COVID', 'death', 'counts', 'Asia', 'South', 'America', 'both', 'world', 'regions', 'death', 'count', 'higher']","['COVID', 'death', 'counts', 'Asia', 'South', 'America', 'world', 'regions', 'death', 'count']", daili covid death count asia south america world region death count higher…,True,['@MaxCRoser'],['@OurWorldInData'],[],9
+2403,"RT @roaststaan: Student - twitting why board exam during covid
+Le CBSE* 
+yeh tum karlo mai dream 11 pe team bana leta hu #cancelboardexams2…","RT @roaststaan: Student - twitting why board exam during covid
+Le CBSE* 
+yeh tum karlo mai dream 11 pe team bana leta hu #cancelboardexams2…",Student twitting board exam during covid CBSE karlo dream team bana leta #cancelboardexams,"['Student', 'twitting', 'board', 'exam', 'during', 'covid', 'CBSE', 'karlo', 'dream', 'team', 'bana', 'leta', '#', 'cancelboardexams']","['Student', 'board', 'exam', 'CBSE', 'karlo', 'dream', 'team', 'bana', 'leta', 'cancelboardexams']", student twit board exam covid le cbse yeh tum karlo mai dream  pe team bana leta hu #cancelboardexams…,True,['@roaststaan'],[],['#cancelboardexams2'],9
+2418,"RT @NotAFave_: St. Vincent - Volcano eruption
+Barbados -  Covered in ash
+Lucia - Flood
+Dominica - Rioting 
+All while dealing with covid","RT @NotAFave_: St. Vincent - Volcano eruption
+Barbados -  Covered in ash
+Lucia - Flood
+Dominica - Rioting 
+All while dealing with covid",Vincent Volcano eruption Barbados Covered Lucia Flood Dominica Rioting while dealing with covid,"['Vincent', 'Volcano', 'eruption', 'Barbados', 'Covered', 'Lucia', 'Flood', 'Dominica', 'Rioting', 'while', 'dealing', 'with', 'covid']","['Vincent', 'Volcano', 'eruption', 'Barbados', 'Covered', 'Lucia', 'Flood', 'Dominica', 'Rioting', 'covid']", st vincent volcano erupt barbado cover ash lucia flood dominica riot deal covid,True,['@NotAFave_'],[],[],9
+2420,"RT @PredatorPSPK: #VakeelSaab Trailer [ All Time Record ]
+
+Most Liked Pan India Teaser Ni Regional Movie Trailer Tho Lepesadu Just 15 Days…","RT @PredatorPSPK: #VakeelSaab Trailer [ All Time Record ]
+
+Most Liked Pan India Teaser Ni Regional Movie Trailer Tho Lepesadu Just 15 Days…",#VakeelSaab Trailer Time Record Most Liked India Teaser Regional Movie Trailer Lepesadu Just Days,"['#', 'VakeelSaab', 'Trailer', 'Time', 'Record', 'Most', 'Liked', 'India', 'Teaser', 'Regional', 'Movie', 'Trailer', 'Lepesadu', 'Just', 'Days']","['VakeelSaab', 'Trailer', 'Time', 'Record', 'Most', 'Liked', 'India', 'Teaser', 'Regional', 'Movie', 'Trailer', 'Lepesadu', 'Just', 'Days']", #vakeelsaab trailer time record like pan india teaser ni region movi trailer tho lepesadu  days…,True,['@PredatorPSPK'],[],['#VakeelSaab'],9
+2428,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,Ahmadiyas murdered Pandit Lekhram when exposed fraud Mirza Ghulam Ahmed founder Ahmadiya movement,"['Ahmadiyas', 'murdered', 'Pandit', 'Lekhram', 'when', 'exposed', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']","['Ahmadiyas', 'Pandit', 'Lekhram', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']", ahmadiya murder pandit lekhram  expos fraud mirza ghulam ahm founder ahmadiya movement…,True,['@SanjeevSanskrit'],[],[],9
+2453,"RT @AmreliaRuhez: Hafte Ki Aakhri Tech News Hogayi Hai Live !
+
+PUBG Mobile India Good News😍,PUBG New State,realms 8 5G Specs,POCO 5G Proces…","RT @AmreliaRuhez: Hafte Ki Aakhri Tech News Hogayi Hai Live !
+
+PUBG Mobile India Good News😍,PUBG New State,realms 8 5G Specs,POCO 5G Proces…",Hafte Aakhri Tech News Hogayi Live PUBG Mobile India Good News PUBG State realms Specs POCO Proces,"['Hafte', 'Aakhri', 'Tech', 'News', 'Hogayi', 'Live', 'PUBG', 'Mobile', 'India', 'Good', 'News', 'PUBG', 'State', 'realms', 'Specs', 'POCO', 'Proces']","['Hafte', 'Aakhri', 'Tech', 'News', 'Hogayi', 'Live', 'PUBG', 'Mobile', 'India', 'Good', 'News', 'PUBG', 'State', 'realms', 'Specs', 'POCO', 'Proces']", haft ki aakhri tech news hogayi hai live pubg mobil india good news😍 pubg new state realm  g spec poco g proces…,True,['@AmreliaRuhez'],[],[],9
+2456,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,Ahmadiyas murdered Pandit Lekhram when exposed fraud Mirza Ghulam Ahmed founder Ahmadiya movement,"['Ahmadiyas', 'murdered', 'Pandit', 'Lekhram', 'when', 'exposed', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']","['Ahmadiyas', 'Pandit', 'Lekhram', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']", ahmadiya murder pandit lekhram  expos fraud mirza ghulam ahm founder ahmadiya movement…,True,['@SanjeevSanskrit'],[],[],9
+2465,"RT @thecaravanindia: A Scania audit reveals emails, messages exchanged between Scania India officials and Nitin Gadkari's sons, Sarang and…","RT @thecaravanindia: A Scania audit reveals emails, messages exchanged between Scania India officials and Nitin Gadkari's sons, Sarang and…",Scania audit reveals emails messages exchanged between Scania India officials Nitin Gadkari sons Sarang,"['Scania', 'audit', 'reveals', 'emails', 'messages', 'exchanged', 'between', 'Scania', 'India', 'officials', 'Nitin', 'Gadkari', 'sons', 'Sarang']","['Scania', 'audit', 'reveals', 'messages', 'Scania', 'India', 'officials', 'Nitin', 'Gadkari', 'sons', 'Sarang']", scania audit reveal email messag exchang scania india offici nitin gadkari son sarang and…,True,['@thecaravanindia'],[],[],9
+2484,RT @ElvishYadav: Trending #2 all over India 🇮🇳 https://t.co/gFV5w6DUkW,RT @ElvishYadav: Trending #2 all over India 🇮🇳 ,Trending over India,"['Trending', 'over', 'India']",['India'], trend # india 🇮🇳 ,True,['@ElvishYadav'],[],[],9
+2500,Hey !!!   Are you in your senses. ! Don’t you see voilence crime. In Bengal ..  why so many CAPF PERSONNEL SHOULD B… https://t.co/tIlRxMA7vH,Hey !!!   Are you in your senses. ! Don’t you see voilence crime. In Bengal ..  why so many CAPF PERSONNEL SHOULD B… ,your senses voilence crime Bengal many CAPF PERSONNEL SHOULD,"['your', 'senses', 'voilence', 'crime', 'Bengal', 'many', 'CAPF', 'PERSONNEL', 'SHOULD']","['senses', 'voilence', 'crime', 'Bengal', 'CAPF', 'PERSONNEL', 'SHOULD']",hey sens don’t see voilenc crime bengal mani capf personnel b… ,False,[],[],[],9
+2516,"RT @DrHanifQ: Celebrating the diversity of India!
+#happynewyear2078 
+#HappyNavratri https://t.co/OceiRmlWZs","RT @DrHanifQ: Celebrating the diversity of India!
+#happynewyear2078 
+#HappyNavratri ",Celebrating diversity India #happynewyear #HappyNavratri,"['Celebrating', 'diversity', 'India', '#', 'happynewyear', '#', 'HappyNavratri']","['diversity', 'India', 'HappyNavratri']", celebr divers india #happynewyear #happynavratri ,True,['@DrHanifQ'],[],"['#happynewyear2078', '#HappyNavratri']",9
+2520,Next generation of India .My dear Urdu and arebic students . Masaallah! https://t.co/TuNfcGjA3e,Next generation of India .My dear Urdu and arebic students . Masaallah! ,Next generation India dear Urdu arebic students Masaallah,"['Next', 'generation', 'India', 'dear', 'Urdu', 'arebic', 'students', 'Masaallah']","['generation', 'India', 'dear', 'Urdu', 'students']",next gener india dear urdu areb student masaallah ,False,[],[],[],9
+2523,Aarogya mantri ... minister of health or working in the health dept. what is wrong with a generation of fathers rai… https://t.co/jCHObcSCnQ,Aarogya mantri ... minister of health or working in the health dept. what is wrong with a generation of fathers rai… ,Aarogya mantri minister health working health dept what wrong with generation fathers,"['Aarogya', 'mantri', 'minister', 'health', 'working', 'health', 'dept', 'what', 'wrong', 'with', 'generation', 'fathers']","['Aarogya', 'minister', 'health', 'health', 'generation', 'fathers']",aarogya mantri minist health work health dept wrong gener father rai… ,False,[],[],[],9
+2524,THIS IS MAP OF OUTDOOR COVERAGE ON ROOF IN OUR VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA 136033.… https://t.co/xDE8pknWd3,THIS IS MAP OF OUTDOOR COVERAGE ON ROOF IN OUR VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA 136033.… ,THIS OUTDOOR COVERAGE ROOF VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA,"['THIS', 'OUTDOOR', 'COVERAGE', 'ROOF', 'VILLAGE', 'DHARAMPURA', 'DISTRICT', 'KAITHAL', 'HARYANA', 'INDIA']","['THIS', 'OUTDOOR', 'COVERAGE', 'ROOF', 'VILLAGE', 'DHARAMPURA', 'DISTRICT', 'KAITHAL', 'HARYANA', 'INDIA']",map outdoor coverag roof villag dharampura district kaithal haryana india  … ,False,[],[],[],9
+2525,RT @MeKAMAAL: A Hindu friend brings Ugadi pachadi to a Muslim friend's house on Ugadi day And a Muslim friend brings kheer to a hindu frien…,RT @MeKAMAAL: A Hindu friend brings Ugadi pachadi to a Muslim friend's house on Ugadi day And a Muslim friend brings kheer to a hindu frien…,Hindu friend brings Ugadi pachadi Muslim friend house Ugadi Muslim friend brings kheer hindu frien,"['Hindu', 'friend', 'brings', 'Ugadi', 'pachadi', 'Muslim', 'friend', 'house', 'Ugadi', 'Muslim', 'friend', 'brings', 'kheer', 'hindu', 'frien']","['Hindu', 'Ugadi', 'pachadi', 'Muslim', 'friend', 'house', 'Ugadi', 'Muslim', 'kheer', 'hindu', 'frien']", hindu friend bring ugadi pachadi muslim friend hous ugadi day muslim friend bring kheer hindu frien…,True,['@MeKAMAAL'],[],[],9
+2544,"RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…","RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…",Saudi Arabia covid cases Exams cancelled Kuwait covid cases Exams cancelled INDIA covi,"['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'cancelled', 'Kuwait', 'covid', 'cases', 'Exams', 'cancelled', 'INDIA', 'covi']","['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'Kuwait', 'covid', 'cases', 'Exams', 'INDIA', 'covi']", saudi arabia  covid  case exam cancel kuwait  covid  case exam cancel india    covi…,True,['@kvsaathwika'],[],[],9
+2560,"India should select a team with sanju Samson, deepak Hooda, prithvi Shaw, Abdul samad, nitish Rana, varun Chakrabar… https://t.co/wZuVyPOIO0","India should select a team with sanju Samson, deepak Hooda, prithvi Shaw, Abdul samad, nitish Rana, varun Chakrabar… ",India should select team with sanju Samson deepak Hooda prithvi Shaw Abdul samad nitish Rana varun Chakrabar,"['India', 'should', 'select', 'team', 'with', 'sanju', 'Samson', 'deepak', 'Hooda', 'prithvi', 'Shaw', 'Abdul', 'samad', 'nitish', 'Rana', 'varun', 'Chakrabar']","['India', 'team', 'Samson', 'deepak', 'Hooda', 'prithvi', 'Shaw', 'Abdul', 'Rana', 'varun', 'Chakrabar']",india select team sanju samson deepak hooda prithvi shaw abdul samad nitish rana varun chakrabar… ,False,[],[],[],9
+2561,"RT @htTweets: Amid rising cases of Covid-19, Uttarakhand chief minister Tirath Singh Rawat reduced the timings for night curfew citing upco…","RT @htTweets: Amid rising cases of Covid-19, Uttarakhand chief minister Tirath Singh Rawat reduced the timings for night curfew citing upco…",Amid rising cases Covid Uttarakhand chief minister Tirath Singh Rawat reduced timings night curfew citing upco,"['Amid', 'rising', 'cases', 'Covid', 'Uttarakhand', 'chief', 'minister', 'Tirath', 'Singh', 'Rawat', 'reduced', 'timings', 'night', 'curfew', 'citing', 'upco']","['cases', 'Covid', 'Uttarakhand', 'minister', 'Tirath', 'Singh', 'Rawat', 'timings', 'night', 'curfew']", amid rise case covid  uttarakhand chief minist tirath singh rawat reduc time night curfew cite upco…,True,['@htTweets'],[],[],9
+2562,"RT @AbhishekNapa: THIS IS MAP OF OUTDOOR COVERAGE ON ROOF IN OUR VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA 136033.
+@reliancejio @Ji…","RT @AbhishekNapa: THIS IS MAP OF OUTDOOR COVERAGE ON ROOF IN OUR VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA 136033.
+@reliancejio @Ji…",THIS OUTDOOR COVERAGE ROOF VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA,"['THIS', 'OUTDOOR', 'COVERAGE', 'ROOF', 'VILLAGE', 'DHARAMPURA', 'DISTRICT', 'KAITHAL', 'HARYANA', 'INDIA']","['THIS', 'OUTDOOR', 'COVERAGE', 'ROOF', 'VILLAGE', 'DHARAMPURA', 'DISTRICT', 'KAITHAL', 'HARYANA', 'INDIA']", map outdoor coverag roof villag dharampura district kaithal haryana india  …,True,['@AbhishekNapa'],"['@reliancejio', '@Ji']",[],9
+2570,"RT @AGNEZMOAG: (NEWS UPDATE)
+ New countries that enter the voting Agnation On Twiterr
+- India 🇮🇳
+
+Keep Voting #Agnation #BestFanArmy at #iH…","RT @AGNEZMOAG: (NEWS UPDATE)
+ New countries that enter the voting Agnation On Twiterr
+- India 🇮🇳
+
+Keep Voting #Agnation #BestFanArmy at #iH…",NEWS UPDATE countries that enter voting Agnation Twiterr India Keep Voting #Agnation #BestFanArmy,"['NEWS', 'UPDATE', 'countries', 'that', 'enter', 'voting', 'Agnation', 'Twiterr', 'India', 'Keep', 'Voting', '#', 'Agnation', '#', 'BestFanArmy']","['NEWS', 'UPDATE', 'countries', 'Agnation', 'Twiterr', 'India', 'Keep', 'Voting', 'Agnation', 'BestFanArmy']", news updat new countri enter vote agnat twiterr india 🇮🇳 keep vote #agnation #bestfanarmy #ih…,True,['@AGNEZMOAG'],[],"['#Agnation', '#BestFanArmy', '#iH']",9
+2588,"RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…","RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…",Saudi Arabia covid cases Exams cancelled Kuwait covid cases Exams cancelled INDIA covi,"['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'cancelled', 'Kuwait', 'covid', 'cases', 'Exams', 'cancelled', 'INDIA', 'covi']","['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'Kuwait', 'covid', 'cases', 'Exams', 'INDIA', 'covi']", saudi arabia  covid  case exam cancel kuwait  covid  case exam cancel india    covi…,True,['@kvsaathwika'],[],[],9
+2594,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,Ahmadiyas murdered Pandit Lekhram when exposed fraud Mirza Ghulam Ahmed founder Ahmadiya movement,"['Ahmadiyas', 'murdered', 'Pandit', 'Lekhram', 'when', 'exposed', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']","['Ahmadiyas', 'Pandit', 'Lekhram', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']", ahmadiya murder pandit lekhram  expos fraud mirza ghulam ahm founder ahmadiya movement…,True,['@SanjeevSanskrit'],[],[],9
+2602,"COOL BANNE KE LIYE ENGLISH NHI DIMAAG AUR SENSE KA USE KRTE HAI 
+
+WARNA ENGLISH TOH AAJKAL VILLAGERS BHI BOL LETE H… https://t.co/JvdsUYaVB6","COOL BANNE KE LIYE ENGLISH NHI DIMAAG AUR SENSE KA USE KRTE HAI 
+
+WARNA ENGLISH TOH AAJKAL VILLAGERS BHI BOL LETE H… ",COOL BANNE LIYE ENGLISH DIMAAG SENSE KRTE WARNA ENGLISH AAJKAL VILLAGERS LETE,"['COOL', 'BANNE', 'LIYE', 'ENGLISH', 'DIMAAG', 'SENSE', 'KRTE', 'WARNA', 'ENGLISH', 'AAJKAL', 'VILLAGERS', 'LETE']","['COOL', 'BANNE', 'LIYE', 'ENGLISH', 'DIMAAG', 'SENSE', 'KRTE', 'WARNA', 'ENGLISH', 'AAJKAL', 'VILLAGERS', 'LETE']",cool bann ke liy english nhi dimaag aur sens ka use krte hai warna english toh aajkal villag bhi bol lete h… ,False,[],[],[],9
+2613,Do India really care about our medical professionals?,Do India really care about our medical professionals?,India really care about medical professionals,"['India', 'really', 'care', 'about', 'medical', 'professionals']","['India', 'professionals']",india realli care medic profession ,False,[],[],[],9
+2617,RT @thewire_in: S&amp;P Dow Jones Indices said it is removing India’s Adani Ports and Special Economic Zone Ltd from its sustainability index d…,RT @thewire_in: S&amp;P Dow Jones Indices said it is removing India’s Adani Ports and Special Economic Zone Ltd from its sustainability index d…,Jones Indices said removing India Adani Ports Special Economic Zone from sustainability index,"['Jones', 'Indices', 'said', 'removing', 'India', 'Adani', 'Ports', 'Special', 'Economic', 'Zone', 'from', 'sustainability', 'index']","['Jones', 'Indices', 'India', 'Adani', 'Ports', 'Special', 'Economic', 'Zone', 'sustainability', 'index']", amp p dow jone indic said remov india’ adani port special econom zone ltd sustain index d…,True,['@thewire_in'],[],[],9
+2626,RT @PunnyBhaiya: Why Sanju Samson is not in team India?,RT @PunnyBhaiya: Why Sanju Samson is not in team India?,Sanju Samson team India,"['Sanju', 'Samson', 'team', 'India']","['Sanju', 'Samson', 'team', 'India']", sanju samson team india ,True,['@PunnyBhaiya'],[],[],9
+2628,"RT @anubha1812: Demands To Cancel Offline Board Exams Grow, Parents  Body Writes To PM
+
+#cancelboardexams2021
+#boardexam2021
+#internalasses…","RT @anubha1812: Demands To Cancel Offline Board Exams Grow, Parents  Body Writes To PM
+
+#cancelboardexams2021
+#boardexam2021
+#internalasses…",Demands Cancel Offline Board Exams Grow Parents Body Writes #cancelboardexams #boardexam #internalasses,"['Demands', 'Cancel', 'Offline', 'Board', 'Exams', 'Grow', 'Parents', 'Body', 'Writes', '#', 'cancelboardexams', '#', 'boardexam', '#', 'internalasses']","['Demands', 'Cancel', 'Offline', 'Board', 'Exams', 'Grow', 'Parents', 'Body', 'cancelboardexams', 'internalasses']", demand cancel offlin board exam grow parent bodi write pm #cancelboardexams #boardexam #internalasses…,True,['@anubha1812'],[],"['#cancelboardexams2021', '#boardexam2021', '#internalasses']",9
+2640,"RT @hinduacademy: Jagatpita Brahma Mandir is a Hindu temple situated at Pushkar, Rajasthan, India. It's close to the sacred Pushkar Lake to…","RT @hinduacademy: Jagatpita Brahma Mandir is a Hindu temple situated at Pushkar, Rajasthan, India. It's close to the sacred Pushkar Lake to…",Jagatpita Brahma Mandir Hindu temple situated Pushkar Rajasthan India close sacred Pushkar Lake,"['Jagatpita', 'Brahma', 'Mandir', 'Hindu', 'temple', 'situated', 'Pushkar', 'Rajasthan', 'India', 'close', 'sacred', 'Pushkar', 'Lake']","['Jagatpita', 'Brahma', 'Mandir', 'Hindu', 'temple', 'Pushkar', 'Rajasthan', 'India', 'Pushkar', 'Lake']", jagatpita brahma mandir hindu templ situat pushkar rajasthan india close sacr pushkar lake to…,True,['@hinduacademy'],[],[],9
+2641,"RT @PredatorPSPK: #VakeelSaab Trailer [ All Time Record ]
+
+Most Liked Pan India Teaser Ni Regional Movie Trailer Tho Lepesadu Just 15 Days…","RT @PredatorPSPK: #VakeelSaab Trailer [ All Time Record ]
+
+Most Liked Pan India Teaser Ni Regional Movie Trailer Tho Lepesadu Just 15 Days…",#VakeelSaab Trailer Time Record Most Liked India Teaser Regional Movie Trailer Lepesadu Just Days,"['#', 'VakeelSaab', 'Trailer', 'Time', 'Record', 'Most', 'Liked', 'India', 'Teaser', 'Regional', 'Movie', 'Trailer', 'Lepesadu', 'Just', 'Days']","['VakeelSaab', 'Trailer', 'Time', 'Record', 'Most', 'Liked', 'India', 'Teaser', 'Regional', 'Movie', 'Trailer', 'Lepesadu', 'Just', 'Days']", #vakeelsaab trailer time record like pan india teaser ni region movi trailer tho lepesadu  days…,True,['@PredatorPSPK'],[],['#VakeelSaab'],9
+2645,"RT @dilipasbe: Fintech growth areas (at random) for next 3 years
+
+1. Pay later,EMI,Digital credit
+2. UPI,Mobility,Bill Pay
+3. Super apps
+4.…","RT @dilipasbe: Fintech growth areas (at random) for next 3 years
+
+1. Pay later,EMI,Digital credit
+2. UPI,Mobility,Bill Pay
+3. Super apps
+4.…",Fintech growth areas random next years later Digital credit Mobility Bill Super apps,"['Fintech', 'growth', 'areas', 'random', 'next', 'years', 'later', 'Digital', 'credit', 'Mobility', 'Bill', 'Super', 'apps']","['Fintech', 'growth', 'areas', 'years', 'Digital', 'credit', 'Mobility', 'Bill', 'Super', 'apps']", fintech growth area random next  year  pay later emi digit credit  upi mobil bill pay  super app  …,True,['@dilipasbe'],[],[],9
+2650,"RT @fekubawa: Tablighi jammat is COVID hotspot and are super spreaders. Where are all spineless, Godi Media news anchor today? 
+
+India as a…","RT @fekubawa: Tablighi jammat is COVID hotspot and are super spreaders. Where are all spineless, Godi Media news anchor today? 
+
+India as a…",Tablighi jammat COVID hotspot super spreaders Where spineless Godi Media news anchor today India,"['Tablighi', 'jammat', 'COVID', 'hotspot', 'super', 'spreaders', 'Where', 'spineless', 'Godi', 'Media', 'news', 'anchor', 'today', 'India']","['Tablighi', 'jammat', 'COVID', 'hotspot', 'super', 'spreaders', 'spineless', 'Godi', 'Media', 'news', 'anchor', 'today', 'India']", tablighi jammat covid hotspot super spreader spineless godi media news anchor today india a…,True,['@fekubawa'],[],[],9
+2664,"RT @AbhishekNapa: THIS IS MAP OF OUTDOOR COVERAGE ON ROOF IN OUR VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA 136033.
+@reliancejio @Ji…","RT @AbhishekNapa: THIS IS MAP OF OUTDOOR COVERAGE ON ROOF IN OUR VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA 136033.
+@reliancejio @Ji…",THIS OUTDOOR COVERAGE ROOF VILLAGE DHARAMPURA DISTRICT KAITHAL HARYANA INDIA,"['THIS', 'OUTDOOR', 'COVERAGE', 'ROOF', 'VILLAGE', 'DHARAMPURA', 'DISTRICT', 'KAITHAL', 'HARYANA', 'INDIA']","['THIS', 'OUTDOOR', 'COVERAGE', 'ROOF', 'VILLAGE', 'DHARAMPURA', 'DISTRICT', 'KAITHAL', 'HARYANA', 'INDIA']", map outdoor coverag roof villag dharampura district kaithal haryana india  …,True,['@AbhishekNapa'],"['@reliancejio', '@Ji']",[],9
+2687,"RT @rishibagree: Total Covid19 vaccinations Till Date :
+
+Italy - 13 Million 
+India - 103 Million
+
+Today an Italian Politician Edvige Antoni…","RT @rishibagree: Total Covid19 vaccinations Till Date :
+
+Italy - 13 Million 
+India - 103 Million
+
+Today an Italian Politician Edvige Antoni…",Total Covid vaccinations Till Date Italy Million India Million Today Italian Politician Edvige Antoni,"['Total', 'Covid', 'vaccinations', 'Till', 'Date', 'Italy', 'Million', 'India', 'Million', 'Today', 'Italian', 'Politician', 'Edvige', 'Antoni']","['Covid', 'vaccinations', 'Till', 'Date', 'Italy', 'Million', 'India', 'Million', 'Today', 'Italian', 'Politician', 'Edvige', 'Antoni']", total covid vaccin till date itali  million india  million today italian politician edvig antoni…,True,['@rishibagree'],[],[],9
+2704,"RT @Sourabh_rai__: WE ARE GOING TO FILE A PETITION IN HIGH COURT OF INDIA. 
+SO PLEASE RETWEET IF YOU AGREE
+#cancelboardexam2021 
+#cancelboa…","RT @Sourabh_rai__: WE ARE GOING TO FILE A PETITION IN HIGH COURT OF INDIA. 
+SO PLEASE RETWEET IF YOU AGREE
+#cancelboardexam2021 
+#cancelboa…",GOING FILE PETITION HIGH COURT INDIA PLEASE RETWEET AGREE #cancelboardexam #cancelboa,"['GOING', 'FILE', 'PETITION', 'HIGH', 'COURT', 'INDIA', 'PLEASE', 'RETWEET', 'AGREE', '#', 'cancelboardexam', '#', 'cancelboa']","['GOING', 'FILE', 'PETITION', 'HIGH', 'COURT', 'INDIA', 'PLEASE', 'RETWEET', 'AGREE', 'cancelboardexam', 'cancelboa']", go file petit high court india pleas retweet agre #cancelboardexam #cancelboa…,True,['@Sourabh_rai__'],[],"['#cancelboardexam2021', '#cancelboa']",9
+2710,Delhi High Court reserves order on the pleas of Facebook and WhatsApp challenging a Competition Commission of India… https://t.co/MfU53iXUf2,Delhi High Court reserves order on the pleas of Facebook and WhatsApp challenging a Competition Commission of India… ,Delhi High Court reserves order pleas Facebook WhatsApp challenging Competition Commission India,"['Delhi', 'High', 'Court', 'reserves', 'order', 'pleas', 'Facebook', 'WhatsApp', 'challenging', 'Competition', 'Commission', 'India']","['Delhi', 'High', 'Court', 'reserves', 'order', 'pleas', 'Facebook', 'WhatsApp', 'Competition', 'Commission', 'India']",delhi high court reserv order plea facebook whatsapp challeng competit commiss india… ,False,[],[],[],9
+2711,"RT @dhruv_rathee: 👉Tablighi Jamat 
+
+Date: April 2020
+Daily Cases in India: ~500 
+People who attended: ~5000
+Godi Media Label: Corona Jihad…","RT @dhruv_rathee: 👉Tablighi Jamat 
+
+Date: April 2020
+Daily Cases in India: ~500 
+People who attended: ~5000
+Godi Media Label: Corona Jihad…",Tablighi Jamat Date April Daily Cases India People attended Godi Media Label Corona Jihad,"['Tablighi', 'Jamat', 'Date', 'April', 'Daily', 'Cases', 'India', 'People', 'attended', 'Godi', 'Media', 'Label', 'Corona', 'Jihad']","['Tablighi', 'Jamat', 'Date', 'April', 'Daily', 'Cases', 'India', 'People', 'Godi', 'Media', 'Label', 'Corona', 'Jihad']", 👉tablighi jamat date april  daili case india  peopl attend  godi media label corona jihad…,True,['@dhruv_rathee'],[],[],9
+2723,RT @Joydas: When Is the Last Election Rally of Narendra Modi in West Bengal? That’s the Day Election Commission will decide too many Covid…,RT @Joydas: When Is the Last Election Rally of Narendra Modi in West Bengal? That’s the Day Election Commission will decide too many Covid…,When Last Election Rally Narendra Modi West Bengal That Election Commission will decide many Covid,"['When', 'Last', 'Election', 'Rally', 'Narendra', 'Modi', 'West', 'Bengal', 'That', 'Election', 'Commission', 'will', 'decide', 'many', 'Covid']","['Election', 'Rally', 'Narendra', 'Modi', 'West', 'Bengal', 'That', 'Election', 'Commission', 'Covid']", last elect ralli narendra modi west bengal that’ day elect commiss decid mani covid…,True,['@Joydas'],[],[],9
+2742,"RT @willsnellai87: Trending India ✔️
+
+ #தற்குறி_ஸ்டாலின் https://t.co/d35k5NmDcp","RT @willsnellai87: Trending India ✔️
+
+ #தற்குறி_ஸ்டாலின் ",Trending India,"['Trending', 'India']",['India'], trend india ✔️ #தற்குறி ஸ்டாலின் ,True,['@willsnellai87'],[],[],9
+2745,"RT @BiharKaLall: Till citizens of India see people like Kanhaiya Kumar as students , Swara Bhaskar as actors &amp; Ravish Kumar as journalists…","RT @BiharKaLall: Till citizens of India see people like Kanhaiya Kumar as students , Swara Bhaskar as actors &amp; Ravish Kumar as journalists…",Till citizens India people like Kanhaiya Kumar students Swara Bhaskar actors Ravish Kumar journalists,"['Till', 'citizens', 'India', 'people', 'like', 'Kanhaiya', 'Kumar', 'students', 'Swara', 'Bhaskar', 'actors', 'Ravish', 'Kumar', 'journalists']","['Till', 'India', 'people', 'Kanhaiya', 'Kumar', 'students', 'Swara', 'Bhaskar', 'actors', 'Ravish', 'Kumar', 'journalists']", till citizen india see peopl like kanhaiya kumar student swara bhaskar actor amp ravish kumar journalists…,True,['@BiharKaLall'],[],[],9
+2761,"#India:-Major fire broke out in Jaipuria Mall in #Indrapuram, #Ghaziabad. 
+
+Fire tenders on spot. https://t.co/LnV7FYXG8i","#India:-Major fire broke out in Jaipuria Mall in #Indrapuram, #Ghaziabad. 
+
+Fire tenders on spot. ",#India Major fire broke Jaipuria Mall #Indrapuram #Ghaziabad Fire tenders spot,"['#', 'India', 'Major', 'fire', 'broke', 'Jaipuria', 'Mall', '#', 'Indrapuram', '#', 'Ghaziabad', 'Fire', 'tenders', 'spot']","['India', 'Major', 'fire', 'Jaipuria', 'Mall', 'Indrapuram', 'Ghaziabad', 'Fire', 'tenders', 'spot']",#india major fire broke jaipuria mall #indrapuram #ghaziabad fire tender spot ,False,[],[],"['#India', '#Indrapuram', '#Ghaziabad']",9
+2762,BJP leaders will have to flee if we go on offensive: KT Rama Rao | Hyderabad News – Times of India https://t.co/5JjbC08OXY,BJP leaders will have to flee if we go on offensive: KT Rama Rao | Hyderabad News – Times of India ,leaders will have flee offensive Rama Hyderabad News Times India,"['leaders', 'will', 'have', 'flee', 'offensive', 'Rama', 'Hyderabad', 'News', 'Times', 'India']","['leaders', 'Rama', 'Hyderabad', 'News', 'Times', 'India']",bjp leader flee go offens kt rama rao hyderabad news – time india ,False,[],[],[],9
+2763,RT @dev9_: Party time in the Pakistan Dressing Room after their victory over India in the finals of the Champions Trophy #INDvPAK #PAKvIND…,RT @dev9_: Party time in the Pakistan Dressing Room after their victory over India in the finals of the Champions Trophy #INDvPAK #PAKvIND…,Party time Pakistan Dressing Room after their victory over India finals Champions Trophy #INDvPAK #PAKvIND,"['Party', 'time', 'Pakistan', 'Dressing', 'Room', 'after', 'their', 'victory', 'over', 'India', 'finals', 'Champions', 'Trophy', '#', 'INDvPAK', '#', 'PAKvIND']","['Party', 'time', 'Pakistan', 'Dressing', 'Room', 'victory', 'India', 'finals', 'Champions', 'Trophy', 'INDvPAK', 'PAKvIND']", parti time pakistan dress room victori india final champion trophi #indvpak #pakvind…,True,['@dev9_'],[],"['#INDvPAK', '#PAKvIND']",9
+2786,RT @VRG_7: Fuel replaces ghee in Surat cremations as Covid deaths spike | Surat News - Times of India https://t.co/uuHnKFCsSZ,RT @VRG_7: Fuel replaces ghee in Surat cremations as Covid deaths spike | Surat News - Times of India ,Fuel replaces ghee Surat cremations Covid deaths spike Surat News Times India,"['Fuel', 'replaces', 'ghee', 'Surat', 'cremations', 'Covid', 'deaths', 'spike', 'Surat', 'News', 'Times', 'India']","['Fuel', 'replaces', 'Surat', 'cremations', 'Covid', 'deaths', 'Surat', 'News', 'Times', 'India']", fuel replac ghee surat cremat covid death spike surat news time india ,True,['@VRG_7'],[],[],9
+2798,"RT @thecaravanindia: A Scania audit reveals emails, messages exchanged between Scania India officials and Nitin Gadkari's sons, Sarang and…","RT @thecaravanindia: A Scania audit reveals emails, messages exchanged between Scania India officials and Nitin Gadkari's sons, Sarang and…",Scania audit reveals emails messages exchanged between Scania India officials Nitin Gadkari sons Sarang,"['Scania', 'audit', 'reveals', 'emails', 'messages', 'exchanged', 'between', 'Scania', 'India', 'officials', 'Nitin', 'Gadkari', 'sons', 'Sarang']","['Scania', 'audit', 'reveals', 'messages', 'Scania', 'India', 'officials', 'Nitin', 'Gadkari', 'sons', 'Sarang']", scania audit reveal email messag exchang scania india offici nitin gadkari son sarang and…,True,['@thecaravanindia'],[],[],9
+2809,"RT @raqib_naik: My Latest!
+
+In United States, five groups linked to Hindu nationalist organisations in India including Vishwa Hindu Parisha…","RT @raqib_naik: My Latest!
+
+In United States, five groups linked to Hindu nationalist organisations in India including Vishwa Hindu Parisha…",Latest United States five groups linked Hindu nationalist organisations India including Vishwa Hindu Parisha,"['Latest', 'United', 'States', 'five', 'groups', 'linked', 'Hindu', 'nationalist', 'organisations', 'India', 'including', 'Vishwa', 'Hindu', 'Parisha']","['Latest', 'United', 'States', 'groups', 'Hindu', 'organisations', 'India', 'Vishwa', 'Hindu', 'Parisha']", latest unit state five group link hindu nationalist organis india includ vishwa hindu parisha…,True,['@raqib_naik'],[],[],9
+2812,"@BJP4India doesn't practice appeasement in states where Hindus are minority!
+
+Basically, appeasement will disappear… https://t.co/n6Lzlzwyus","@BJP4India doesn't practice appeasement in states where Hindus are minority!
+
+Basically, appeasement will disappear… ",doesn practice appeasement states where Hindus minority Basically appeasement will disappear,"['doesn', 'practice', 'appeasement', 'states', 'where', 'Hindus', 'minority', 'Basically', 'appeasement', 'will', 'disappear']","['doesn', 'practice', 'appeasement', 'states', 'Hindus', 'minority', 'Basically', 'appeasement']", practic appeas state hindu minor basic appeas disappear… ,False,[],['@BJP4India'],[],9
+2815,"Tum Pakistan se ho 😡😡😡😡😤😡😤😡😤😱😱😱😱😱🤬🤬💣💣💣💣 
+Me india se ho I'm from india💪💪💪
+@CarryMinati @PMOIndia @SonuSood… https://t.co/m6fYtzGzPK","Tum Pakistan se ho 😡😡😡😡😤😡😤😡😤😱😱😱😱😱🤬🤬💣💣💣💣 
+Me india se ho I'm from india💪💪💪
+@CarryMinati @PMOIndia @SonuSood… ",Pakistan india from india,"['Pakistan', 'india', 'from', 'india']","['Pakistan', 'india', 'india']",tum pakistan se ho 😡😡😡😡😤😡😤😡😤😱😱😱😱😱🤬🤬💣💣💣💣 india se ho india💪💪💪 … ,False,[],"['@CarryMinati', '@PMOIndia', '@SonuSood']",[],9
+2818,"NITI Aayog, the policy think tank of the Government of India, has launched Version 2.0 of the India Energy Dashboar… https://t.co/pSbig66mo9","NITI Aayog, the policy think tank of the Government of India, has launched Version 2.0 of the India Energy Dashboar… ",NITI Aayog policy think tank Government India launched Version India Energy Dashboar,"['NITI', 'Aayog', 'policy', 'think', 'tank', 'Government', 'India', 'launched', 'Version', 'India', 'Energy', 'Dashboar']","['NITI', 'Aayog', 'policy', 'think', 'Government', 'India', 'Version', 'India', 'Energy', 'Dashboar']",niti aayog polici think tank govern india launch version   india energi dashboar… ,False,[],[],[],9
+2820,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,Ahmadiyas murdered Pandit Lekhram when exposed fraud Mirza Ghulam Ahmed founder Ahmadiya movement,"['Ahmadiyas', 'murdered', 'Pandit', 'Lekhram', 'when', 'exposed', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']","['Ahmadiyas', 'Pandit', 'Lekhram', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']", ahmadiya murder pandit lekhram  expos fraud mirza ghulam ahm founder ahmadiya movement…,True,['@SanjeevSanskrit'],[],[],9
+2823,"""Remarkable"". Isme bhi self congratulations.","""Remarkable"". Isme bhi self congratulations.",Remarkable Isme self congratulations,"['Remarkable', 'Isme', 'self', 'congratulations']","['Isme', 'self', 'congratulations']", remark ism bhi self congratul ,False,[],[],[],9
+2839,"INDIA DRIVE: Find Online Citizen Services QUICKER 
+
+INDIA Drive is your SEARCH ENGINE for Online Services from Stat… https://t.co/YSbZzzyLQF","INDIA DRIVE: Find Online Citizen Services QUICKER 
+
+INDIA Drive is your SEARCH ENGINE for Online Services from Stat… ",INDIA DRIVE Find Online Citizen Services QUICKER INDIA Drive your SEARCH ENGINE Online Services from Stat,"['INDIA', 'DRIVE', 'Find', 'Online', 'Citizen', 'Services', 'QUICKER', 'INDIA', 'Drive', 'your', 'SEARCH', 'ENGINE', 'Online', 'Services', 'from', 'Stat']","['INDIA', 'DRIVE', 'Find', 'Online', 'Citizen', 'Services', 'QUICKER', 'INDIA', 'Drive', 'SEARCH', 'ENGINE', 'Online', 'Services', 'Stat']",india drive find onlin citizen servic quicker india drive search engin onlin servic stat… ,False,[],[],[],9
+2848,"@drharshvardhan In history u would be remembered as a health minister, himself a medical professional, who cared ev… https://t.co/mALb8vyYag","@drharshvardhan In history u would be remembered as a health minister, himself a medical professional, who cared ev… ",history would remembered health minister himself medical professional cared,"['history', 'would', 'remembered', 'health', 'minister', 'himself', 'medical', 'professional', 'cared']","['history', 'health', 'minister', 'professional']", histori u would rememb health minist medic profession care ev… ,False,[],['@drharshvardhan'],[],9
+2856,"RT @brain_ded_: Neend churayi teri kisne o sanam? 
+
+... India ke education system ne😔
+
+#cancelboardexams2021 
+#cancelboards2021
+#internalas…","RT @brain_ded_: Neend churayi teri kisne o sanam? 
+
+... India ke education system ne😔
+
+#cancelboardexams2021 
+#cancelboards2021
+#internalas…",Neend churayi teri kisne sanam India education system #cancelboardexams #cancelboards #internalas,"['Neend', 'churayi', 'teri', 'kisne', 'sanam', 'India', 'education', 'system', '#', 'cancelboardexams', '#', 'cancelboards', '#', 'internalas']","['Neend', 'churayi', 'teri', 'kisne', 'sanam', 'India', 'education', 'system', 'cancelboardexams', 'cancelboards', 'internalas']", neend churayi teri kisn sanam india ke educ system ne😔 #cancelboardexams #cancelboards #internalas…,True,['@brain_ded_'],[],"['#cancelboardexams2021', '#cancelboards2021', '#internalas']",9
+2901,"RT @thehijarbie: Salaam, I’m hoping to raise money to build wells and water pumps in Bangladesh, Pakistan and India. Please donate, rt and…","RT @thehijarbie: Salaam, I’m hoping to raise money to build wells and water pumps in Bangladesh, Pakistan and India. Please donate, rt and…",Salaam hoping raise money build wells water pumps Bangladesh Pakistan India Please donate,"['Salaam', 'hoping', 'raise', 'money', 'build', 'wells', 'water', 'pumps', 'Bangladesh', 'Pakistan', 'India', 'Please', 'donate']","['Salaam', 'money', 'build', 'wells', 'water', 'pumps', 'Bangladesh', 'Pakistan', 'India', 'Please']", salaam i’m hope rais money build well water pump bangladesh pakistan india pleas donat rt and…,True,['@thehijarbie'],[],[],9
+2905,RT @JaganNKaushik: @AjitsinhJagirda @chimnibai @swetamishraa @sureshseshadri1 @ResurgentIndia @prasad_perla @nair_hena @Drsunandambal @navi…,RT @JaganNKaushik: @AjitsinhJagirda @chimnibai @swetamishraa @sureshseshadri1 @ResurgentIndia @prasad_perla @nair_hena @Drsunandambal @navi…,,[],[], …,True,['@JaganNKaushik'],"['@AjitsinhJagirda', '@chimnibai', '@swetamishraa', '@sureshseshadri1', '@ResurgentIndia', '@prasad_perla', '@nair_hena', '@Drsunandambal', '@navi']",[],9
+2912,"Congratulations, NavAlt Solar &amp; Electric Boats Pvt Ltd!
+
+#KSUM #Kerala #Startup #Startups #India #Solar #Boat… https://t.co/j92yf1EjEu","Congratulations, NavAlt Solar &amp; Electric Boats Pvt Ltd!
+
+#KSUM #Kerala #Startup #Startups #India #Solar #Boat… ",Congratulations NavAlt Solar Electric Boats #KSUM #Kerala #Startup #Startups #India #Solar #Boat,"['Congratulations', 'NavAlt', 'Solar', 'Electric', 'Boats', '#', 'KSUM', '#', 'Kerala', '#', 'Startup', '#', 'Startups', '#', 'India', '#', 'Solar', '#', 'Boat']","['Congratulations', 'NavAlt', 'Solar', 'Electric', 'Boats', 'KSUM', 'Kerala', 'Startup', 'Startups', 'India', 'Solar', 'Boat']",congratul navalt solar amp electr boat pvt ltd #ksum #kerala #startup #startups #india #solar #boat… ,False,[],[],"['#KSUM', '#Kerala', '#Startup', '#Startups', '#India', '#Solar', '#Boat']",9
+2932,RT @Joydas: When Is the Last Election Rally of Narendra Modi in West Bengal? That’s the Day Election Commission will decide too many Covid…,RT @Joydas: When Is the Last Election Rally of Narendra Modi in West Bengal? That’s the Day Election Commission will decide too many Covid…,When Last Election Rally Narendra Modi West Bengal That Election Commission will decide many Covid,"['When', 'Last', 'Election', 'Rally', 'Narendra', 'Modi', 'West', 'Bengal', 'That', 'Election', 'Commission', 'will', 'decide', 'many', 'Covid']","['Election', 'Rally', 'Narendra', 'Modi', 'West', 'Bengal', 'That', 'Election', 'Commission', 'Covid']", last elect ralli narendra modi west bengal that’ day elect commiss decid mani covid…,True,['@Joydas'],[],[],9
+2942,"RT @anubha1812: Demands To Cancel Offline Board Exams Grow, Parents  Body Writes To PM
+
+#cancelboardexams2021
+#boardexam2021
+#internalasses…","RT @anubha1812: Demands To Cancel Offline Board Exams Grow, Parents  Body Writes To PM
+
+#cancelboardexams2021
+#boardexam2021
+#internalasses…",Demands Cancel Offline Board Exams Grow Parents Body Writes #cancelboardexams #boardexam #internalasses,"['Demands', 'Cancel', 'Offline', 'Board', 'Exams', 'Grow', 'Parents', 'Body', 'Writes', '#', 'cancelboardexams', '#', 'boardexam', '#', 'internalasses']","['Demands', 'Cancel', 'Offline', 'Board', 'Exams', 'Grow', 'Parents', 'Body', 'cancelboardexams', 'internalasses']", demand cancel offlin board exam grow parent bodi write pm #cancelboardexams #boardexam #internalasses…,True,['@anubha1812'],[],"['#cancelboardexams2021', '#boardexam2021', '#internalasses']",9
+2947,"RT @Jvl52: Report : As per secret deal of Govt Of India and Chhattisgarh Govt with Naxalites, Govt released naxalite Kunjam Sukka, who was…","RT @Jvl52: Report : As per secret deal of Govt Of India and Chhattisgarh Govt with Naxalites, Govt released naxalite Kunjam Sukka, who was…",Report secret deal Govt India Chhattisgarh Govt with Naxalites Govt released naxalite Kunjam Sukka,"['Report', 'secret', 'deal', 'Govt', 'India', 'Chhattisgarh', 'Govt', 'with', 'Naxalites', 'Govt', 'released', 'naxalite', 'Kunjam', 'Sukka']","['Report', 'deal', 'Govt', 'India', 'Chhattisgarh', 'Govt', 'Naxalites', 'Govt', 'Kunjam', 'Sukka']", report per secret deal govt india chhattisgarh govt naxalit govt releas naxalit kunjam sukka was…,True,['@Jvl52'],[],[],9
+2958,"RT @aakhtar: Manchester Museum meets Lahore Museum! Join Esme Ward, The Singh Twins, Uthra Rajgopal, Emma Martin &amp; me, delve into arts, ide…","RT @aakhtar: Manchester Museum meets Lahore Museum! Join Esme Ward, The Singh Twins, Uthra Rajgopal, Emma Martin &amp; me, delve into arts, ide…",Manchester Museum meets Lahore Museum Join Esme Ward Singh Twins Uthra Rajgopal Emma Martin delve into arts,"['Manchester', 'Museum', 'meets', 'Lahore', 'Museum', 'Join', 'Esme', 'Ward', 'Singh', 'Twins', 'Uthra', 'Rajgopal', 'Emma', 'Martin', 'delve', 'into', 'arts']","['Manchester', 'Museum', 'Lahore', 'Museum', 'Join', 'Esme', 'Ward', 'Singh', 'Twins', 'Uthra', 'Rajgopal', 'Emma', 'Martin', 'delve', 'arts']", manchest museum meet lahor museum join esm ward singh twin uthra rajgop emma martin amp delv art ide…,True,['@aakhtar'],[],[],9
+2961,"RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…","RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…",Saudi Arabia covid cases Exams cancelled Kuwait covid cases Exams cancelled INDIA covi,"['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'cancelled', 'Kuwait', 'covid', 'cases', 'Exams', 'cancelled', 'INDIA', 'covi']","['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'Kuwait', 'covid', 'cases', 'Exams', 'INDIA', 'covi']", saudi arabia  covid  case exam cancel kuwait  covid  case exam cancel india    covi…,True,['@kvsaathwika'],[],[],9
+2976,RT @VaadiVaasalRage: • #VaadiVaasal Tag Trending Strongly in India Trends with 25K+ Tweets..🔥 Pure Rage From @Suriya_offl Fans..😎 #Suriya40,RT @VaadiVaasalRage: • #VaadiVaasal Tag Trending Strongly in India Trends with 25K+ Tweets..🔥 Pure Rage From @Suriya_offl Fans..😎 #Suriya40,#VaadiVaasal Trending Strongly India Trends with Tweets Pure Rage From Fans #Suriya,"['#', 'VaadiVaasal', 'Trending', 'Strongly', 'India', 'Trends', 'with', 'Tweets', 'Pure', 'Rage', 'From', 'Fans', '#', 'Suriya']","['VaadiVaasal', 'Trending', 'Strongly', 'India', 'Trends', 'Tweets', 'Pure', 'Rage', 'From', 'Fans', 'Suriya']", #vaadivaasal tag trend strongli india trend k tweet 🔥 pure rage fan 😎 #suriya,True,['@VaadiVaasalRage'],['@Suriya_offl'],"['#VaadiVaasal', '#Suriya40']",9
+3004,"RT @SortedEagle: India's No. 1 Enemies Are Within India, Not Outside Maj. Gaurav Arya Ji tells Anand Ranganathan Ji....narrates an interest…","RT @SortedEagle: India's No. 1 Enemies Are Within India, Not Outside Maj. Gaurav Arya Ji tells Anand Ranganathan Ji....narrates an interest…",India Enemies Within India Outside Gaurav Arya tells Anand Ranganathan narrates interest,"['India', 'Enemies', 'Within', 'India', 'Outside', 'Gaurav', 'Arya', 'tells', 'Anand', 'Ranganathan', 'narrates', 'interest']","['India', 'Enemies', 'Within', 'India', 'Outside', 'Gaurav', 'Arya', 'Anand', 'Ranganathan', 'interest']", india  enemi within india outsid maj gaurav arya ji tell anand ranganathan ji narrat interest…,True,['@SortedEagle'],[],[],9
+3017,@RavinderKapur2 @JChowdh50216402 We want that India back,@RavinderKapur2 @JChowdh50216402 We want that India back,want that India back,"['want', 'that', 'India', 'back']","['want', 'India']", want india bac,False,[],"['@RavinderKapur2', '@JChowdh50216402']",[],9
+3018,"RT @Liza_JasLyian: COOL BANNE KE LIYE ENGLISH NHI DIMAAG AUR SENSE KA USE KRTE HAI 
+
+WARNA ENGLISH TOH AAJKAL VILLAGERS BHI BOL LETE HAI 
+I…","RT @Liza_JasLyian: COOL BANNE KE LIYE ENGLISH NHI DIMAAG AUR SENSE KA USE KRTE HAI 
+
+WARNA ENGLISH TOH AAJKAL VILLAGERS BHI BOL LETE HAI 
+I…",COOL BANNE LIYE ENGLISH DIMAAG SENSE KRTE WARNA ENGLISH AAJKAL VILLAGERS LETE,"['COOL', 'BANNE', 'LIYE', 'ENGLISH', 'DIMAAG', 'SENSE', 'KRTE', 'WARNA', 'ENGLISH', 'AAJKAL', 'VILLAGERS', 'LETE']","['COOL', 'BANNE', 'LIYE', 'ENGLISH', 'DIMAAG', 'SENSE', 'KRTE', 'WARNA', 'ENGLISH', 'AAJKAL', 'VILLAGERS', 'LETE']", cool bann ke liy english nhi dimaag aur sens ka use krte hai warna english toh aajkal villag bhi bol lete hai i…,True,['@Liza_JasLyian'],[],[],9
+3021,"RT @aakhtar: Pakistan's Best Kept Secret Lahore Museum, full film now on line free at https://t.co/TtGSNBRzDu Hindu, Buddhist, Sikh, Muslim…","RT @aakhtar: Pakistan's Best Kept Secret Lahore Museum, full film now on line free at  Hindu, Buddhist, Sikh, Muslim…",Pakistan Best Kept Secret Lahore Museum full film line free Hindu Buddhist Sikh Muslim,"['Pakistan', 'Best', 'Kept', 'Secret', 'Lahore', 'Museum', 'full', 'film', 'line', 'free', 'Hindu', 'Buddhist', 'Sikh', 'Muslim']","['Pakistan', 'Best', 'Kept', 'Secret', 'Lahore', 'Museum', 'film', 'line', 'Hindu', 'Buddhist', 'Sikh', 'Muslim']", pakistan best kept secret lahor museum full film line free hindu buddhist sikh muslim…,True,['@aakhtar'],[],[],9
+3040,"RT @EternalPSPK: #VakeelSaab crossed BLOCKBUSTER 100cr Yestarday in India.Biggest BLOCKBUSTER of 2021 &amp; crossed Tamil Film #Master.
+VakeelS…","RT @EternalPSPK: #VakeelSaab crossed BLOCKBUSTER 100cr Yestarday in India.Biggest BLOCKBUSTER of 2021 &amp; crossed Tamil Film #Master.
+VakeelS…",#VakeelSaab crossed BLOCKBUSTER Yestarday India Biggest BLOCKBUSTER crossed Tamil Film #Master VakeelS,"['#', 'VakeelSaab', 'crossed', 'BLOCKBUSTER', 'Yestarday', 'India', 'Biggest', 'BLOCKBUSTER', 'crossed', 'Tamil', 'Film', '#', 'Master', 'VakeelS']","['VakeelSaab', 'BLOCKBUSTER', 'Yestarday', 'India', 'Biggest', 'BLOCKBUSTER', 'Tamil', 'Film', 'Master', 'VakeelS']", #vakeelsaab cross blockbust cr yestarday india biggest blockbust  amp cross tamil film #master vakeels…,True,['@EternalPSPK'],[],"['#VakeelSaab', '#Master']",9
+3041,"One Festival, Many Celebrations!  #India 
+#NewYear #Ugadi #GudiPadwa #Vishu 
+#Bihu #Baisakhi #Navreh #Puthandu https://t.co/6lyLzocEGo","One Festival, Many Celebrations!  #India 
+#NewYear #Ugadi #GudiPadwa #Vishu 
+#Bihu #Baisakhi #Navreh #Puthandu ",Festival Many Celebrations #India #NewYear #Ugadi #GudiPadwa #Vishu #Bihu #Baisakhi #Navreh #Puthandu,"['Festival', 'Many', 'Celebrations', '#', 'India', '#', 'NewYear', '#', 'Ugadi', '#', 'GudiPadwa', '#', 'Vishu', '#', 'Bihu', '#', 'Baisakhi', '#', 'Navreh', '#', 'Puthandu']","['Festival', 'Many', 'Celebrations', 'India', 'NewYear', 'Ugadi', 'GudiPadwa', 'Vishu', 'Bihu', 'Baisakhi', 'Navreh', 'Puthandu']",one festiv mani celebr #india #newyear #ugadi #gudipadwa #vishu #bihu #baisakhi #navreh #puthandu ,False,[],[],"['#India', '#NewYear', '#Ugadi', '#GudiPadwa', '#Vishu', '#Bihu', '#Baisakhi', '#Navreh', '#Puthandu']",9
+3057,"RT @AdvocateSudha1: “Achievements “ of @Modi ji Digital India , Make in India , Startup India , Skill India , Self Reliant India, No Vaccin…","RT @AdvocateSudha1: “Achievements “ of @Modi ji Digital India , Make in India , Startup India , Skill India , Self Reliant India, No Vaccin…",Achievements Digital India Make India Startup India Skill India Self Reliant India Vaccin,"['Achievements', 'Digital', 'India', 'Make', 'India', 'Startup', 'India', 'Skill', 'India', 'Self', 'Reliant', 'India', 'Vaccin']","['Achievements', 'Digital', 'India', 'Make', 'India', 'Startup', 'India', 'Skill', 'India', 'Self', 'Reliant', 'India', 'Vaccin']", “achiev “ ji digit india make india startup india skill india self reliant india vaccin…,True,['@AdvocateSudha1'],['@Modi'],[],9
+3081,Election Commission warns Suvendu Adhikari for March 29 speech | India News – Times of India https://t.co/OHChqPV2Vl,Election Commission warns Suvendu Adhikari for March 29 speech | India News – Times of India ,Election Commission warns Suvendu Adhikari March speech India News Times India,"['Election', 'Commission', 'warns', 'Suvendu', 'Adhikari', 'March', 'speech', 'India', 'News', 'Times', 'India']","['Election', 'Commission', 'Suvendu', 'Adhikari', 'March', 'speech', 'India', 'News', 'Times', 'India']",elect commiss warn suvendu adhikari march  speech india news – time india ,False,[],[],[],9
+3088,New post (Centre fast tracks emergency approvals for foreign Covid-19 vaccines to augment India’s vaccination cover… https://t.co/XY4gCq60ZX,New post (Centre fast tracks emergency approvals for foreign Covid-19 vaccines to augment India’s vaccination cover… ,post Centre fast tracks emergency approvals foreign Covid vaccines augment India vaccination cover,"['post', 'Centre', 'fast', 'tracks', 'emergency', 'approvals', 'foreign', 'Covid', 'vaccines', 'augment', 'India', 'vaccination', 'cover']","['post', 'Centre', 'fast', 'tracks', 'emergency', 'approvals', 'Covid', 'vaccines', 'India', 'vaccination', 'cover']",new post centr fast track emerg approv foreign covid  vaccin augment india’ vaccin cover… ,False,[],[],[],9
+3095,"RT @manhasvikas41: Homage to the greatest soldier of military history
+
+GENERAL ZORAWAR SINGH
+J&amp;K STATE FORCES (JAKRIF)
+
+on his birth annive…","RT @manhasvikas41: Homage to the greatest soldier of military history
+
+GENERAL ZORAWAR SINGH
+J&amp;K STATE FORCES (JAKRIF)
+
+on his birth annive…",Homage greatest soldier military history GENERAL ZORAWAR SINGH STATE FORCES JAKRIF birth annive,"['Homage', 'greatest', 'soldier', 'military', 'history', 'GENERAL', 'ZORAWAR', 'SINGH', 'STATE', 'FORCES', 'JAKRIF', 'birth', 'annive']","['Homage', 'history', 'GENERAL', 'ZORAWAR', 'SINGH', 'STATE', 'FORCES', 'JAKRIF', 'birth', 'annive']", homag greatest soldier militari histori gener zorawar singh j amp k state forc jakrif birth annive…,True,['@manhasvikas41'],[],[],9
+3103,"RT @SwarajyaMag: Central Bank Of India Offers Extra Interest Rate On FD For Senior Citizens Who Take Covid-19 Vaccine
+
+https://t.co/hClwETX…","RT @SwarajyaMag: Central Bank Of India Offers Extra Interest Rate On FD For Senior Citizens Who Take Covid-19 Vaccine
+
+",Central Bank India Offers Extra Interest Rate Senior Citizens Take Covid Vaccine,"['Central', 'Bank', 'India', 'Offers', 'Extra', 'Interest', 'Rate', 'Senior', 'Citizens', 'Take', 'Covid', 'Vaccine']","['Central', 'Bank', 'India', 'Offers', 'Extra', 'Interest', 'Rate', 'Senior', 'Citizens', 'Take', 'Covid', 'Vaccine']", central bank india offer extra interest rate fd senior citizen take covid  vaccin ,True,['@SwarajyaMag'],[],[],9
+3105,"Maharashtra Lockdown News: Lockdown; Maharashtra set to announce new guidelines, says minister | Mumbai News – Time… https://t.co/Fi48XkZrgZ","Maharashtra Lockdown News: Lockdown; Maharashtra set to announce new guidelines, says minister | Mumbai News – Time… ",Maharashtra Lockdown News Lockdown Maharashtra announce guidelines says minister Mumbai News Time,"['Maharashtra', 'Lockdown', 'News', 'Lockdown', 'Maharashtra', 'announce', 'guidelines', 'says', 'minister', 'Mumbai', 'News', 'Time']","['Maharashtra', 'Lockdown', 'News', 'Lockdown', 'Maharashtra', 'announce', 'guidelines', 'minister', 'Mumbai', 'News', 'Time']",maharashtra lockdown news lockdown maharashtra set announc new guidelin say minist mumbai news – time… ,False,[],[],[],9
+3120,"RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…","RT @kvsaathwika: Saudi Arabia -600 covid -19  cases 
+Exams cancelled 
+Kuwait - 1400 covid -19 cases 
+Exams cancelled 
+
+INDIA- 1,40,000 covi…",Saudi Arabia covid cases Exams cancelled Kuwait covid cases Exams cancelled INDIA covi,"['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'cancelled', 'Kuwait', 'covid', 'cases', 'Exams', 'cancelled', 'INDIA', 'covi']","['Saudi', 'Arabia', 'covid', 'cases', 'Exams', 'Kuwait', 'covid', 'cases', 'Exams', 'INDIA', 'covi']", saudi arabia  covid  case exam cancel kuwait  covid  case exam cancel india    covi…,True,['@kvsaathwika'],[],[],9
+3148,"RT @rashtrapatibhvn: Greetings to fellow citizens on Chaitra Sukladi, Ugadi, Gudi Padwa, Cheti Chand, Navreh, Sajibu Cheiraoba, Vishu &amp; Vai…","RT @rashtrapatibhvn: Greetings to fellow citizens on Chaitra Sukladi, Ugadi, Gudi Padwa, Cheti Chand, Navreh, Sajibu Cheiraoba, Vishu &amp; Vai…",Greetings fellow citizens Chaitra Sukladi Ugadi Gudi Padwa Cheti Chand Navreh Sajibu Cheiraoba Vishu,"['Greetings', 'fellow', 'citizens', 'Chaitra', 'Sukladi', 'Ugadi', 'Gudi', 'Padwa', 'Cheti', 'Chand', 'Navreh', 'Sajibu', 'Cheiraoba', 'Vishu']","['Greetings', 'citizens', 'Chaitra', 'Sukladi', 'Ugadi', 'Gudi', 'Padwa', 'Cheti', 'Chand', 'Navreh', 'Sajibu', 'Cheiraoba', 'Vishu']", greet fellow citizen chaitra sukladi ugadi gudi padwa cheti chand navreh sajibu cheiraoba vishu amp vai…,True,['@rashtrapatibhvn'],[],[],9
+3150,"RT @anubha1812: Demands To Cancel Offline Board Exams Grow, Parents  Body Writes To PM
+
+#cancelboardexams2021
+#boardexam2021
+#internalasses…","RT @anubha1812: Demands To Cancel Offline Board Exams Grow, Parents  Body Writes To PM
+
+#cancelboardexams2021
+#boardexam2021
+#internalasses…",Demands Cancel Offline Board Exams Grow Parents Body Writes #cancelboardexams #boardexam #internalasses,"['Demands', 'Cancel', 'Offline', 'Board', 'Exams', 'Grow', 'Parents', 'Body', 'Writes', '#', 'cancelboardexams', '#', 'boardexam', '#', 'internalasses']","['Demands', 'Cancel', 'Offline', 'Board', 'Exams', 'Grow', 'Parents', 'Body', 'cancelboardexams', 'internalasses']", demand cancel offlin board exam grow parent bodi write pm #cancelboardexams #boardexam #internalasses…,True,['@anubha1812'],[],"['#cancelboardexams2021', '#boardexam2021', '#internalasses']",9
+3151,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,RT @SanjeevSanskrit: Ahmadiyas murdered Pandit Lekhram in 1897 when he exposed fraud of Mirza Ghulam Ahmed - founder of Ahmadiya movement…,Ahmadiyas murdered Pandit Lekhram when exposed fraud Mirza Ghulam Ahmed founder Ahmadiya movement,"['Ahmadiyas', 'murdered', 'Pandit', 'Lekhram', 'when', 'exposed', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']","['Ahmadiyas', 'Pandit', 'Lekhram', 'fraud', 'Mirza', 'Ghulam', 'Ahmed', 'founder', 'Ahmadiya', 'movement']", ahmadiya murder pandit lekhram  expos fraud mirza ghulam ahm founder ahmadiya movement…,True,['@SanjeevSanskrit'],[],[],9
+3160,@OpIndia_com Kangaroo 🦘 courts of Pakistan seem to echo in India these days ... z,@OpIndia_com Kangaroo 🦘 courts of Pakistan seem to echo in India these days ... z,Kangaroo courts Pakistan seem echo India these days,"['Kangaroo', 'courts', 'Pakistan', 'seem', 'echo', 'India', 'these', 'days']","['Kangaroo', 'courts', 'Pakistan', 'India', 'days']", kangaroo 🦘 court pakistan seem echo india day z,False,[],['@OpIndia_com'],[],9
+3177,"RT @htTweets: Amid rising cases of Covid-19, Uttarakhand chief minister Tirath Singh Rawat reduced the timings for night curfew citing upco…","RT @htTweets: Amid rising cases of Covid-19, Uttarakhand chief minister Tirath Singh Rawat reduced the timings for night curfew citing upco…",Amid rising cases Covid Uttarakhand chief minister Tirath Singh Rawat reduced timings night curfew citing upco,"['Amid', 'rising', 'cases', 'Covid', 'Uttarakhand', 'chief', 'minister', 'Tirath', 'Singh', 'Rawat', 'reduced', 'timings', 'night', 'curfew', 'citing', 'upco']","['cases', 'Covid', 'Uttarakhand', 'minister', 'Tirath', 'Singh', 'Rawat', 'timings', 'night', 'curfew']", amid rise case covid  uttarakhand chief minist tirath singh rawat reduc time night curfew cite upco…,True,['@htTweets'],[],[],9
+3217,"RT @dhruv_rathee: 👉Tablighi Jamat 
+
+Date: April 2020
+Daily Cases in India: ~500 
+People who attended: ~5000
+Godi Media Label: Corona Jihad…","RT @dhruv_rathee: 👉Tablighi Jamat 
+
+Date: April 2020
+Daily Cases in India: ~500 
+People who attended: ~5000
+Godi Media Label: Corona Jihad…",Tablighi Jamat Date April Daily Cases India People attended Godi Media Label Corona Jihad,"['Tablighi', 'Jamat', 'Date', 'April', 'Daily', 'Cases', 'India', 'People', 'attended', 'Godi', 'Media', 'Label', 'Corona', 'Jihad']","['Tablighi', 'Jamat', 'Date', 'April', 'Daily', 'Cases', 'India', 'People', 'Godi', 'Media', 'Label', 'Corona', 'Jihad']", 👉tablighi jamat date april  daili case india  peopl attend  godi media label corona jihad…,True,['@dhruv_rathee'],[],[],9
+3227,"RT @htTweets: Kerala minister KT Jaleel resigned on Tuesday from the Pinarayi Vijayan cabinet, days after the state Lokayukta held him acco…","RT @htTweets: Kerala minister KT Jaleel resigned on Tuesday from the Pinarayi Vijayan cabinet, days after the state Lokayukta held him acco…",Kerala minister Jaleel resigned Tuesday from Pinarayi Vijayan cabinet days after state Lokayukta held acco,"['Kerala', 'minister', 'Jaleel', 'resigned', 'Tuesday', 'from', 'Pinarayi', 'Vijayan', 'cabinet', 'days', 'after', 'state', 'Lokayukta', 'held', 'acco']","['Kerala', 'minister', 'Jaleel', 'Tuesday', 'Pinarayi', 'Vijayan', 'cabinet', 'days', 'state', 'Lokayukta', 'acco']", kerala minist kt jaleel resign tuesday pinarayi vijayan cabinet day state lokayukta held acco…,True,['@htTweets'],[],[],9
+3254,"RT @thecaravanindia: A Scania audit reveals emails, messages exchanged between Scania India officials and Nitin Gadkari's sons, Sarang and…","RT @thecaravanindia: A Scania audit reveals emails, messages exchanged between Scania India officials and Nitin Gadkari's sons, Sarang and…",Scania audit reveals emails messages exchanged between Scania India officials Nitin Gadkari sons Sarang,"['Scania', 'audit', 'reveals', 'emails', 'messages', 'exchanged', 'between', 'Scania', 'India', 'officials', 'Nitin', 'Gadkari', 'sons', 'Sarang']","['Scania', 'audit', 'reveals', 'messages', 'Scania', 'India', 'officials', 'Nitin', 'Gadkari', 'sons', 'Sarang']", scania audit reveal email messag exchang scania india offici nitin gadkari son sarang and…,True,['@thecaravanindia'],[],[],9
+3275,"RT @rashtrapatibhvn: Greetings to fellow citizens on Chaitra Sukladi, Ugadi, Gudi Padwa, Cheti Chand, Navreh, Sajibu Cheiraoba, Vishu &amp; Vai…","RT @rashtrapatibhvn: Greetings to fellow citizens on Chaitra Sukladi, Ugadi, Gudi Padwa, Cheti Chand, Navreh, Sajibu Cheiraoba, Vishu &amp; Vai…",Greetings fellow citizens Chaitra Sukladi Ugadi Gudi Padwa Cheti Chand Navreh Sajibu Cheiraoba Vishu,"['Greetings', 'fellow', 'citizens', 'Chaitra', 'Sukladi', 'Ugadi', 'Gudi', 'Padwa', 'Cheti', 'Chand', 'Navreh', 'Sajibu', 'Cheiraoba', 'Vishu']","['Greetings', 'citizens', 'Chaitra', 'Sukladi', 'Ugadi', 'Gudi', 'Padwa', 'Cheti', 'Chand', 'Navreh', 'Sajibu', 'Cheiraoba', 'Vishu']", greet fellow citizen chaitra sukladi ugadi gudi padwa cheti chand navreh sajibu cheiraoba vishu amp vai…,True,['@rashtrapatibhvn'],[],[],9
